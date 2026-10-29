@@ -1,0 +1,2026 @@
+PatientID,Age,Gender,Department,AdmissionDate,DischargeDate,Diagnosis,TreatmentCost,PaymentMode,PatientStatus
+  P10001  ,0,  Female  ,  Orthopedics  ,31/02/2024,31/02/2024,  Respiratory Infection  ,41342.17,UPI,  Transferred  
+  P10002  ,150,  female  ,  Orthopedics  ,2024-13-40,2024-13-40,  Hypertension  ,12447.05,upi,  Discharged  
+  P10003  ,999,  F  ,  general medicine  ,19-09-2024,30-09-2024,  Fracture  ,15433.64, UPI ,  Admitted  
+  P10004  ,-5,  Male  ,  Cardiology  ,17-Apr-25,28-Apr-25,  Heart Disease  ,16290.65,Upi,  Discharged  
+  P10005  ,200,  male  ,  GENERAL MEDICINE  ,13-03-2025,26-03-2025,  Diabetes  ,7028.58,CASH,  Admitted  
+  P10006  ,35,  M  ,  Orthopedics  ,07-08-2025,07-12-2025,  Heart Disease  ,16467.24,cash,  Discharged  
+  P10007  ,66,  FEMALE  ,  Cardiology  ,21-01-2025,23-01-2025,  Fracture  ,6240.86, Cash ,  Discharged  
+  P10008  ,63,  MALE  ,  Pediatrics  ,13-Apr-25,27-Apr-25,  Respiratory Infection  ,11409.89,UPI,  Discharged  
+P10009,23,fEmale,Neurology,02-05-2025,04-05-2025,Heart Disease,17527.32,upi,Discharged
+P10010,9,Female,General medicine ,03-08-2025,12-08-2025,Respiratory Infection,7716.44, UPI ,Discharged
+P10011,34,female,general medicine,27-11-2025,02-12-2025,Respiratory Infection,19511.13,Upi,Discharged
+P10012,46,mAle,Orthopedics,29-03-2025,02-04-2025,Fever,10432.77,CASH,Discharged
+P10013,78,Male,Pediatrics,10-04-2025,20-04-2025,Migraine,13545.34,cash,Transferred
+P10014,4,male,Pediatrics,26-12-2025,08-01-2026,Respiratory Infection,21237.82, Cash ,Discharged
+P10015,30,M,Pediatrics,01-06-2025,02-06-2025,Heart Disease,15801.33,UPI,Discharged
+P10016,75,F,Orthopedics,11-05-2025,18-05-2025,Heart Disease,19284.01,upi,Discharged
+P10017,72,Male,Cardiology,30-05-2025,02-06-2025,Heart Disease,20584.09, UPI ,Admitted
+P10018,3,Female,general medicine ,05-11-2025,11-11-2025,Fracture,15667.29,Upi,Discharged
+P10019,14,Male,general medicine,15-09-2025,20-09-2025,Diabetes,19844.94,CASH,Discharged
+P10020,60,Male,Cardiology,10-12-2025,15-12-2025,Respiratory Infection,11305.62,cash,Discharged
+P10021,77,Male,Cardiology,21-10-2025,01-11-2025,Respiratory Infection,21107.32,Insurance,Discharged
+P10022,45,Female,Cardiology,11-07-2025,16-07-2025,Respiratory Infection,14603.72,,Discharged
+P10023,34,Female,GENERAL MEDICINE,04-10-2025,05-10-2025,Fever,30461.7,Cash,Discharged
+P10024,45,Female,Neurology,10-06-2025,11-06-2025,Respiratory Infection,17714.86,Cash,Discharged
+P10025,61,Female,GENERAL MEDICINE,10-11-2025,13-11-2025,Fracture,12195.87,Insurance,Discharged
+P10026,83,Female,General medicine ,22-01-2025,05-02-2025,Hypertension,21293.11,Insurance,Discharged
+P10027,16,Male,Orthopedics,10-09-2025,22-09-2025,Migraine,31117.46,Cash,Discharged
+P10028,66,Female,Pediatrics,24-08-2025,03-09-2025,Heart Disease,12797.3,Cash,Discharged
+P10029,40,Female,general medicine ,11-12-2025,15-12-2025,Respiratory Infection,11654.06,Cash,Admitted
+P10030,17,Female,Cardiology,18-02-2025,23-02-2025,Fever,2659.86,UPI,Admitted
+P10031,34,Female,Cardiology,28-02-2025,02-03-2025,Fracture,17692.54,Insurance,Discharged
+P10032,16,Male,general medicine,19-06-2025,27-06-2025,Respiratory Infection,13845.52,Cash,Discharged
+P10033,60,Female,Orthopedics,07-07-2025,18-07-2025,Fever,21248.69,Insurance,Discharged
+P10034,66,Male,Orthopedics,28-09-2025,09-10-2025,Hypertension,21479.03,Cash,Discharged
+P10035,66,Male,General medicine ,09-07-2025,23-07-2025,Diabetes,7220.01,UPI,Discharged
+P10036,90,Male,general medicine ,24-06-2025,26-06-2025,Respiratory Infection,25553.55,UPI,Discharged
+P10037,13,Female,GENERAL MEDICINE,20-02-2025,01-03-2025,Fracture,10740.22,Insurance,Admitted
+P10038,56,Male,,30-12-2025,01-01-2026,Fever,12835.94,UPI,Admitted
+P10039,31,Female,Cardiology,24-02-2025,09-03-2025,Fever,3705.52,UPI,Discharged
+P10040,34,Female,general medicine,01-09-2025,10-09-2025,Respiratory Infection,19567.6,UPI,Discharged
+P10041,39,Female,Orthopedics,16-11-2025,23-11-2025,Fever,8729.59,Insurance,Admitted
+P10042,67,Female,Orthopedics,11-05-2025,19-05-2025,Diabetes,11719.43,Card,Admitted
+P10043,8,Female,GENERAL MEDICINE,03-11-2025,14-11-2025,Fever,8266.94,Cash,Transferred
+P10044,87,Male,General medicine ,15-05-2025,17-05-2025,Heart Disease,26656.09,Card,Discharged
+P10045,78,Male,General medicine ,21-01-2025,28-01-2025,Migraine,13431.69,Insurance,Discharged
+P10046,55,Female,Cardiology,25-11-2025,07-12-2025,Heart Disease,7800.47,Cash,Discharged
+P10047,27,Male,Pediatrics,16-06-2025,22-06-2025,Migraine,8127.61,Card,Discharged
+P10048,53,Female,general medicine ,01-10-2025,05-10-2025,Fever,24500.1,Insurance,Discharged
+P10049,39,Male,Neurology,30-03-2025,06-04-2025,Respiratory Infection,10207.73,Card,Discharged
+P10050,65,Male,Neurology,12-11-2025,26-11-2025,Migraine,12678.31,Insurance,Admitted
+P10051,17,Male,Neurology,14-01-2025,27-01-2025,Fracture,16825.9,UPI,Admitted
+P10052,30,Male,General Medicine,30-08-2025,03-09-2025,Migraine,13934.19,UPI,Discharged
+P10053,53,Male,General Medicine,22-09-2025,24-09-2025,Heart Disease,5222.38,Insurance,Admitted
+P10054,13,Female,General Medicine,12-12-2025,22-12-2025,Fever,22397.16,Insurance,Discharged
+P10055,21,Female,Orthopedics,22-02-2025,06-03-2025,Respiratory Infection,14485.31,Insurance,Admitted
+P10056,19,Male,Neurology,06-12-2025,13-12-2025,Hypertension,19172.07,Cash,Discharged
+P10057,53,Female,general medicine ,02-04-2025,10-04-2025,Respiratory Infection,23223.17,UPI,Discharged
+P10058,19,Male,Pediatrics,21-09-2025,23-09-2025,Respiratory Infection,4469.41,Card,Discharged
+P10059,57,Female,general medicine,04-02-2025,09-02-2025,Respiratory Infection,23330.72,Cash,Discharged
+P10060,25,Male,Neurology,25-07-2025,26-07-2025,Fracture,48749.24,UPI,Discharged
+P10061,86,Male,Cardiology,22-03-2025,29-03-2025,Diabetes,20214.68,Cash,Discharged
+P10062,31,Male,General Medicine,19-02-2025,27-02-2025,Heart Disease,30701,Card,Transferred
+P10063,81,Female,Pediatrics,26-12-2025,08-01-2026,Fever,26208.04,Cash,Discharged
+P10064,55,Female,General Medicine,02-01-2025,08-01-2025,Diabetes,22903.54,Cash,Discharged
+P10065,23,Male,General Medicine,23-02-2025,28-02-2025,Hypertension,26671.42,Cash,Discharged
+P10066,32,Male,Orthopedics,16-04-2025,22-04-2025,Diabetes,28923.15,Cash,Discharged
+P10067,62,Female,Neurology,17-09-2025,19-09-2025,Fever,29495.42,Insurance,Discharged
+P10068,74,Female,General Medicine,06-11-2025,07-11-2025,Heart Disease,8114.71,UPI,Discharged
+P10069,10,Female,Neurology,10-07-2025,17-07-2025,Heart Disease,27487.97,Card,Discharged
+P10070,72,Female,Neurology,06-08-2025,13-08-2025,Fever,14374.85,UPI,Discharged
+P10071,54,Female,Orthopedics,13-02-2025,23-02-2025,Hypertension,30022.83,Cash,Discharged
+P10072,52,Male,General Medicine,11-06-2025,22-06-2025,Fever,21106.99,Card,Discharged
+P10073,20,Female,General Medicine,21-07-2025,31-07-2025,Hypertension,8044.8,Cash,Discharged
+P10074,32,Male,Pediatrics,27-09-2025,11-10-2025,Hypertension,32071.8,Insurance,Admitted
+P10075,14,Male,Pediatrics,17-12-2025,19-12-2025,Fever,10769.09,Insurance,Discharged
+P10076,50,Female,GENERAL MEDICINE,31-10-2025,02-11-2025,Migraine,14001.1,Insurance,Discharged
+P10077,28,Female,Orthopedics,28-09-2025,29-09-2025,Heart Disease,35800.61,UPI,Admitted
+P10078,53,Male,General Medicine,03-08-2025,13-08-2025,Hypertension,17775.15,Insurance,Discharged
+P10079,24,Female,General Medicine,09-09-2025,17-09-2025,Fever,13678.13,Insurance,Discharged
+P10080,79,Male,Pediatrics,09-07-2025,17-07-2025,Migraine,15862.75,UPI,Transferred
+P10081,22,Female,General Medicine,23-10-2025,24-10-2025,Heart Disease,13523.13,Card,Discharged
+P10082,30,Female,Cardiology,01-08-2025,13-08-2025,Hypertension,24476.93,Card,Discharged
+P10083,63,Female,Orthopedics,27-07-2025,07-08-2025,Heart Disease,13745.51,Insurance,Admitted
+P10084,4,Male,General Medicine,25-08-2025,02-09-2025,Migraine,16146.36,Insurance,Admitted
+P10085,77,Female,General Medicine,04-12-2025,13-12-2025,Heart Disease,22008.16,Cash,Discharged
+P10086,59,Male,Cardiology,22-02-2025,08-03-2025,Fracture,20790.05,Card,Discharged
+P10087,87,Female,General Medicine,07-10-2025,11-10-2025,Respiratory Infection,11268.81,Insurance,Admitted
+P10088,8,Male,General Medicine,05-08-2025,06-08-2025,Fracture,24625.76,Insurance,Discharged
+P10089,82,Female,Pediatrics,09-09-2025,10-09-2025,Migraine,12436.75,Cash,Discharged
+P10090,12,Male,Neurology,07-07-2025,10-07-2025,Hypertension,9160.1,UPI,Discharged
+P10091,31,Male,General Medicine,10-02-2025,24-02-2025,Fever,5543.74,UPI,Discharged
+P10092,78,Male,Neurology,06-06-2025,11-06-2025,Diabetes,15017.35,Insurance,Admitted
+P10093,34,Male,Cardiology,15-01-2025,20-01-2025,Fever,6289.23,Insurance,Admitted
+P10094,82,Male,Orthopedics,28-10-2025,06-11-2025,Heart Disease,10408.15,UPI,Transferred
+P10095,75,Male,General medicine ,06-03-2025,16-03-2025,Diabetes,16360.6,Cash,Admitted
+P10096,76,Female,Neurology,11-12-2025,25-12-2025,Diabetes,28610.4,Card,Discharged
+P10097,49,Male,Neurology,23-11-2025,05-12-2025,Heart Disease,14199.06,Insurance,Discharged
+P10098,79,Male,General Medicine,09-01-2025,11-01-2025,Heart Disease,7123.47,UPI,Discharged
+P10099,57,Male,General Medicine,10-12-2025,12-12-2025,Hypertension,15585.61,Cash,Discharged
+P10100,26,Female,general medicine ,09-05-2025,15-05-2025,Migraine,28057.66,UPI,Discharged
+P10101,18,Female,Cardiology,16-05-2025,25-05-2025,Fever,14025.28,Insurance,Discharged
+P10102,86,Female,General Medicine,04-03-2025,05-03-2025,Migraine,31029.41,Card,Admitted
+P10103,38,Male,Pediatrics,19-05-2025,28-05-2025,Fracture,16312.38,Card,Discharged
+P10104,81,Female,Emergency,22-03-2025,31-03-2025,Hypertension,23375.16,Cash,Discharged
+P10105,87,Female,Emergency,12-06-2025,25-06-2025,Hypertension,18454.27,UPI,Discharged
+P10106,88,Male,Cardiology,16-10-2025,25-10-2025,Fracture,30284.04,UPI,Discharged
+P10107,50,Male,Emergency,18-09-2025,23-09-2025,Fever,42711.29,Insurance,Discharged
+P10108,8,Female,General Medicine,19-08-2025,01-09-2025,Respiratory Infection,12774.11,UPI,Admitted
+P10109,41,Male,General Medicine,10-02-2025,19-02-2025,Fracture,17906.13,UPI,Discharged
+P10110,6,Male,Pediatrics,28-01-2025,08-02-2025,Fever,28600.12,Insurance,Discharged
+P10111,69,Male,General Medicine,15-05-2025,19-05-2025,Diabetes,18784.41,Insurance,Discharged
+P10112,44,Male,Cardiology,20-07-2025,22-07-2025,Heart Disease,5370.25,Insurance,Discharged
+P10113,64,Female,Pediatrics,24-11-2025,07-12-2025,Hypertension,14141.42,Insurance,Transferred
+P10114,29,Male,,25-09-2025,01-10-2025,Fever,18702.81,Cash,Admitted
+P10115,28,Female,General Medicine,02-02-2025,16-02-2025,Migraine,34401.52,Insurance,Transferred
+P10116,11,Female,General Medicine,17-02-2025,21-02-2025,Heart Disease,17408.35,Cash,Discharged
+P10117,65,Female,Cardiology,03-03-2025,09-03-2025,Migraine,10019.39,UPI,Discharged
+P10118,19,Female,Orthopedics,04-08-2025,07-08-2025,Heart Disease,18929.88,UPI,Discharged
+P10119,9,Male,Neurology,20-10-2025,26-10-2025,Hypertension,32681.66,Card,Discharged
+P10120,27,Male,Neurology,09-04-2025,11-04-2025,Fracture,,Card,Admitted
+P10121,34,Male,Cardiology,21-06-2025,23-06-2025,Respiratory Infection,12524.85,Insurance,Discharged
+P10122,44,Female,Emergency,26-12-2025,08-01-2026,Fracture,11797.11,Insurance,Transferred
+P10123,68,Female,General Medicine,02-08-2025,11-08-2025,Fever,7696.27,Card,Discharged
+P10124,82,Female,General Medicine,04-02-2025,11-02-2025,Fracture,17008.79,Insurance,Discharged
+P10125,15,Male,Neurology,15-08-2025,18-08-2025,Hypertension,15991.29,Card,Discharged
+P10126,51,Female,Cardiology,11-04-2025,24-04-2025,Fever,5751.63,Cash,Discharged
+P10127,13,Male,Emergency,11-05-2025,22-05-2025,Diabetes,10460,Cash,Discharged
+P10128,83,Male,Orthopedics,14-09-2025,15-09-2025,Fracture,18171.73,Cash,Discharged
+P10129,49,Male,Neurology,05-01-2025,13-01-2025,Fracture,23099.22,UPI,Discharged
+P10130,70,Male,Cardiology,06-08-2025,20-08-2025,Respiratory Infection,26260.97,UPI,Discharged
+P10131,56,Female,Cardiology,12-09-2025,18-09-2025,Fever,24036.13,Insurance,Discharged
+P10132,76,Male,Cardiology,25-12-2025,01-01-2026,Migraine,16485.23,Insurance,Discharged
+P10133,51,Female,Pediatrics,10-10-2025,19-10-2025,Fracture,6948.44,Cash,Discharged
+P10134,37,Male,Orthopedics,26-07-2025,31-07-2025,Hypertension,14634.07,Insurance,Discharged
+P10135,17,Female,Emergency,15-01-2025,16-01-2025,Fracture,3319.76,Cash,Discharged
+P10136,58,Female,General Medicine,12-12-2025,24-12-2025,Respiratory Infection,18216.34,Insurance,Discharged
+P10137,87,Male,,11-02-2025,21-02-2025,Diabetes,11478.2,UPI,Discharged
+P10138,90,Male,Cardiology,28-06-2025,05-07-2025,Respiratory Infection,4391.1,Cash,Discharged
+P10139,29,Male,Pediatrics,04-03-2025,09-03-2025,Fracture,19932.51,UPI,Discharged
+P10140,33,Female,Emergency,18-12-2025,21-12-2025,Migraine,32487.03,Cash,Discharged
+P10141,60,Male,Cardiology,19-08-2025,31-08-2025,Heart Disease,6340.52,Card,Discharged
+P10142,89,Male,Pediatrics,29-08-2025,11-09-2025,Fracture,20761.62,Cash,Admitted
+P10143,55,Female,Cardiology,21-02-2025,02-03-2025,Fever,13337.11,Card,Discharged
+P10144,10,Male,Pediatrics,06-04-2025,07-04-2025,Fracture,10763.71,Cash,Discharged
+P10145,47,Female,Emergency,10-08-2025,11-08-2025,Migraine,10777.03,Card,Admitted
+P10146,23,Male,General Medicine,19-08-2025,20-08-2025,Fever,13335.4,Insurance,Discharged
+P10147,85,Female,Cardiology,25-08-2025,28-08-2025,Hypertension,13309.22,Card,Discharged
+P10148,21,Female,Emergency,23-05-2025,04-06-2025,Fever,16145.22,Insurance,Discharged
+P10149,13,Male,Emergency,20-06-2025,26-06-2025,Respiratory Infection,10184.13,UPI,Discharged
+P10150,33,Female,Orthopedics,29-01-2025,08-02-2025,Diabetes,11377.67,Insurance,Discharged
+P10151,24,Male,Orthopedics,05-02-2025,16-02-2025,Respiratory Infection,21737.57,Cash,Discharged
+P10152,11,Male,General Medicine,13-01-2025,16-01-2025,Heart Disease,9673.83,Card,Discharged
+P10153,17,Female,Orthopedics,09-06-2025,17-06-2025,Fever,18817.46,UPI,Discharged
+P10154,68,Male,Emergency,23-11-2025,07-12-2025,Hypertension,13706.13,Insurance,Discharged
+P10155,47,Female,Pediatrics,06-07-2025,20-07-2025,Fracture,12234.65,Insurance,Discharged
+P10156,25,Female,General Medicine,31-08-2025,10-09-2025,Fever,37627.52,Cash,Discharged
+P10157,73,Female,General Medicine,27-03-2025,29-03-2025,Respiratory Infection,7801.38,Insurance,Admitted
+P10158,21,Female,General Medicine,11-10-2025,25-10-2025,Fever,33592,Card,Admitted
+P10159,84,Female,General Medicine,07-03-2025,16-03-2025,Fever,24770.76,UPI,Discharged
+P10160,83,Female,General Medicine,19-06-2025,22-06-2025,Fever,11643.27,UPI,Transferred
+P10161,83,Female,Cardiology,14-02-2025,19-02-2025,Hypertension,25123.67,Cash,Discharged
+P10162,12,Female,General Medicine,03-03-2025,13-03-2025,Migraine,2438.12,Insurance,Discharged
+P10163,37,Male,General Medicine,14-05-2025,22-05-2025,Migraine,11041.05,Card,Admitted
+P10164,42,Male,Orthopedics,11-10-2025,13-10-2025,Fever,9749.66,Insurance,Discharged
+P10165,17,Female,General Medicine,28-01-2025,03-02-2025,Hypertension,20052.15,UPI,Discharged
+P10166,48,Male,General Medicine,18-04-2025,30-04-2025,Hypertension,23325.5,Insurance,Discharged
+P10167,28,Male,Cardiology,13-02-2025,18-02-2025,Heart Disease,19888.39,Card,Discharged
+P10168,41,Male,General Medicine,06-12-2025,19-12-2025,Fever,17594.29,Cash,Admitted
+P10169,47,Male,Orthopedics,13-10-2025,23-10-2025,Respiratory Infection,25951.54,UPI,Discharged
+P10170,18,Male,General Medicine,27-11-2025,06-12-2025,Respiratory Infection,24141.01,Insurance,Discharged
+P10171,78,Male,Neurology,08-05-2025,20-05-2025,Diabetes,11488.92,Insurance,Discharged
+P10172,71,Female,Emergency,14-12-2025,19-12-2025,Fever,12201.49,Cash,Admitted
+P10173,13,Male,Neurology,19-08-2025,21-08-2025,Diabetes,23461.6,Card,Discharged
+P10174,,Male,Orthopedics,09-07-2025,14-07-2025,Respiratory Infection,16063.43,UPI,Discharged
+P10175,13,Male,Emergency,13-08-2025,25-08-2025,Respiratory Infection,16639.34,Insurance,Discharged
+P10176,31,Male,Pediatrics,10-10-2025,14-10-2025,Fever,17765.91,Insurance,Discharged
+P10177,2,Female,General Medicine,01-05-2025,12-05-2025,Diabetes,5525.17,Insurance,Discharged
+P10178,16,Female,Cardiology,26-04-2025,03-05-2025,Diabetes,11205.62,UPI,Discharged
+P10179,9,Female,Emergency,21-08-2025,27-08-2025,Fever,20922.04,Card,Discharged
+P10180,73,Female,Cardiology,16-09-2025,30-09-2025,Heart Disease,11154.02,Cash,Discharged
+P10181,38,Male,General Medicine,25-12-2025,27-12-2025,Diabetes,14534.51,Insurance,Discharged
+P10182,75,Female,Neurology,17-07-2025,29-07-2025,Heart Disease,20854.34,Insurance,Discharged
+P10183,54,Female,Neurology,17-05-2025,28-05-2025,Fracture,26668.97,Insurance,Discharged
+P10184,56,Female,General Medicine,14-11-2025,25-11-2025,Respiratory Infection,28245.28,UPI,Discharged
+P10185,86,Female,Orthopedics,14-06-2025,27-06-2025,Migraine,29038.57,Card,Discharged
+P10186,87,Male,General Medicine,13-08-2025,18-08-2025,Heart Disease,15266.66,Cash,Discharged
+P10187,45,Female,Pediatrics,03-11-2025,10-11-2025,Heart Disease,14443.15,UPI,Discharged
+P10188,34,Male,General Medicine,22-08-2025,02-09-2025,Heart Disease,8370.31,Insurance,Discharged
+P10189,9,Female,Cardiology,21-06-2025,28-06-2025,Hypertension,32579.44,Insurance,Discharged
+P10190,,Male,Emergency,01-06-2025,06-06-2025,Diabetes,14121.62,Insurance,Admitted
+P10191,8,Male,Orthopedics,11-11-2025,23-11-2025,Diabetes,32201.92,Insurance,Discharged
+P10192,7,Female,Pediatrics,09-06-2025,18-06-2025,Hypertension,19077.32,Cash,Discharged
+P10193,36,Female,Cardiology,06-04-2025,10-04-2025,Diabetes,27282.91,UPI,Admitted
+P10194,18,Female,General Medicine,21-08-2025,01-09-2025,Hypertension,15811.27,UPI,Discharged
+P10195,3,Female,Pediatrics,29-06-2025,02-07-2025,Heart Disease,21897.1,Insurance,Discharged
+P10196,28,Male,General Medicine,23-04-2025,27-04-2025,Fever,27743.11,Insurance,Discharged
+P10197,70,Male,Cardiology,14-11-2025,19-11-2025,Fracture,12561.88,Cash,Discharged
+P10198,44,Female,General Medicine,21-02-2025,06-03-2025,Heart Disease,29114.97,Cash,Admitted
+P10199,21,Female,Pediatrics,25-09-2025,01-10-2025,Fracture,9035.05,Card,Discharged
+P10200,28,Male,Emergency,22-10-2025,25-10-2025,Respiratory Infection,37139.48,Card,Discharged
+P10201,54,Female,Emergency,23-04-2025,25-04-2025,Heart Disease,17802.07,UPI,Transferred
+P10202,54,Male,Cardiology,11-04-2025,25-04-2025,Migraine,11303.47,UPI,Admitted
+P10203,65,Female,General Medicine,23-04-2025,06-05-2025,Diabetes,24529.19,Insurance,Discharged
+P10204,21,Male,Cardiology,22-03-2025,26-03-2025,Migraine,19528.53,Insurance,Discharged
+P10205,13,Male,Emergency,06-07-2025,11-07-2025,Fever,5713.57,Cash,Discharged
+P10206,57,Male,General Medicine,23-04-2025,27-04-2025,Fracture,13339.3,UPI,Admitted
+P10207,49,Male,Emergency,02-01-2025,16-01-2025,Heart Disease,9288.39,Card,Discharged
+P10208,54,Male,Cardiology,10-05-2025,21-05-2025,Fever,9761.03,Cash,Discharged
+P10209,10,Female,Emergency,08-08-2025,21-08-2025,Fever,9565.43,Insurance,Discharged
+P10210,53,Male,Emergency,23-02-2025,07-03-2025,Diabetes,21380.35,UPI,Discharged
+P10211,44,Female,Neurology,09-12-2025,12-12-2025,Fever,25467.18,UPI,Discharged
+P10212,47,Male,Cardiology,12-08-2025,20-08-2025,Heart Disease,10738.42,Cash,Discharged
+P10213,53,Male,General Medicine,13-08-2025,23-08-2025,Heart Disease,4787.3,UPI,Discharged
+P10214,74,Female,Cardiology,06-05-2025,10-05-2025,Fracture,3300.64,Card,Discharged
+P10215,46,Female,Cardiology,10-05-2025,24-05-2025,Heart Disease,41444.13,Cash,Discharged
+P10216,13,Female,General Medicine,22-02-2025,24-02-2025,Migraine,17900.11,UPI,Discharged
+P10217,37,Female,Orthopedics,21-06-2025,23-06-2025,Fracture,24619.47,UPI,Discharged
+P10218,24,Male,Cardiology,06-08-2025,07-08-2025,Diabetes,14872.31,Insurance,Admitted
+P10219,2,Female,Pediatrics,09-06-2025,22-06-2025,Fracture,4130.89,Insurance,Discharged
+P10220,86,Male,Pediatrics,17-07-2025,21-07-2025,Hypertension,20326.84,UPI,Discharged
+P10221,81,Female,General Medicine,04-09-2025,14-09-2025,Migraine,35200.71,UPI,Discharged
+P10222,14,Female,Emergency,20-11-2025,29-11-2025,Hypertension,11650.36,UPI,Discharged
+P10223,10,Male,General Medicine,22-07-2025,05-08-2025,Hypertension,3818.73,Insurance,Discharged
+P10224,35,Male,,03-07-2025,14-07-2025,Respiratory Infection,8342.2,UPI,Discharged
+P10225,25,Female,Orthopedics,03-05-2025,10-05-2025,Heart Disease,25213.93,UPI,Discharged
+P10226,3,Male,Neurology,12-09-2025,24-09-2025,Diabetes,19452.63,Cash,Discharged
+P10227,17,Male,General Medicine,21-10-2025,31-10-2025,Fever,29174.95,UPI,Discharged
+P10228,12,Male,Cardiology,07-10-2025,14-10-2025,Hypertension,16575.84,Insurance,Discharged
+P10229,54,Male,Pediatrics,21-11-2025,04-12-2025,Fracture,23128.42,Card,Admitted
+P10230,24,Male,General Medicine,08-04-2025,15-04-2025,Fever,13130.2,Insurance,Discharged
+P10231,29,Male,Pediatrics,17-07-2025,25-07-2025,Fracture,8726.73,Cash,Discharged
+P10232,43,Male,Emergency,28-08-2025,29-08-2025,Fracture,23160.56,Insurance,Discharged
+P10233,,Male,Emergency,24-05-2025,03-06-2025,Fever,25419.16,UPI,Discharged
+P10234,60,Female,General Medicine,07-04-2025,20-04-2025,Fever,11800.98,Cash,Admitted
+P10235,90,Male,General Medicine,20-07-2025,30-07-2025,Heart Disease,33633.35,Insurance,Admitted
+P10236,65,Female,Cardiology,04-05-2025,12-05-2025,Fracture,34096.14,UPI,Discharged
+P10237,84,Male,Cardiology,06-07-2025,10-07-2025,Diabetes,9599.41,Insurance,Discharged
+P10238,28,Male,General Medicine,22-11-2025,26-11-2025,Heart Disease,9854.15,Card,Discharged
+P10239,16,Male,General Medicine,15-12-2025,19-12-2025,Migraine,10118.78,Insurance,Admitted
+P10240,47,Male,Emergency,16-09-2025,22-09-2025,Respiratory Infection,15433.53,Insurance,Discharged
+P10241,81,Female,Emergency,28-05-2025,04-06-2025,Migraine,13470.26,Insurance,Discharged
+P10242,58,Female,General Medicine,09-09-2025,15-09-2025,Diabetes,7617.06,UPI,Discharged
+P10243,76,Male,Cardiology,12-12-2025,13-12-2025,Heart Disease,10284.97,Insurance,Discharged
+P10244,27,Female,Cardiology,27-05-2025,08-06-2025,Respiratory Infection,4189.71,UPI,Discharged
+P10245,53,Male,General Medicine,28-05-2025,05-06-2025,Heart Disease,4701.08,Insurance,Discharged
+P10246,42,Male,Pediatrics,18-12-2025,31-12-2025,Fever,6745.07,Card,Discharged
+P10247,59,Female,Pediatrics,18-07-2025,28-07-2025,Respiratory Infection,40305.41,Insurance,Discharged
+P10248,47,Female,Emergency,04-11-2025,15-11-2025,Fracture,37884,Insurance,Transferred
+P10249,34,Male,Neurology,08-05-2025,21-05-2025,Migraine,23835.2,Insurance,Discharged
+P10250,37,Male,Orthopedics,08-02-2025,15-02-2025,Respiratory Infection,11868.52,Cash,Admitted
+P10251,6,Female,Pediatrics,04-12-2025,10-12-2025,,6676.97,Cash,Discharged
+P10252,7,Male,General Medicine,26-12-2025,01-01-2026,Heart Disease,16394.25,Card,Discharged
+P10253,25,Female,Orthopedics,09-05-2025,14-05-2025,Diabetes,20612.37,Card,Discharged
+P10254,33,Male,Orthopedics,24-09-2025,30-09-2025,Respiratory Infection,10839.65,Insurance,Discharged
+P10255,55,Male,General Medicine,31-05-2025,12-06-2025,Fracture,20054.31,Cash,Discharged
+P10256,58,Female,General Medicine,25-10-2025,03-11-2025,Heart Disease,8295.98,UPI,Discharged
+P10257,7,Female,General Medicine,09-04-2025,19-04-2025,Heart Disease,12002.99,Card,Discharged
+P10258,57,Female,Emergency,20-09-2025,29-09-2025,Heart Disease,14375.14,Card,Transferred
+P10259,12,Male,General Medicine,09-09-2025,19-09-2025,Diabetes,38444.28,Insurance,Discharged
+P10260,16,Male,General Medicine,24-05-2025,01-06-2025,Fever,10200.45,Cash,Discharged
+P10261,80,Male,Cardiology,12-12-2025,22-12-2025,Diabetes,20560.54,UPI,Discharged
+P10262,43,Male,Pediatrics,22-04-2025,01-05-2025,Diabetes,9333.83,Cash,Discharged
+P10263,77,Female,General Medicine,01-03-2025,14-03-2025,Migraine,8606.12,Insurance,Discharged
+P10264,7,Male,Emergency,02-01-2025,12-01-2025,Heart Disease,10812.73,UPI,Discharged
+P10265,51,Male,Emergency,31-10-2025,08-11-2025,Fracture,16693.24,Insurance,Admitted
+P10266,73,Male,Orthopedics,11-09-2025,19-09-2025,Respiratory Infection,35817.95,Card,Discharged
+P10267,32,Female,Pediatrics,20-05-2025,21-05-2025,Migraine,11726.03,Insurance,Discharged
+P10268,75,Male,General Medicine,06-02-2025,16-02-2025,Heart Disease,25516.46,Insurance,Discharged
+P10269,8,Male,Cardiology,09-06-2025,20-06-2025,Hypertension,39395.28,UPI,Admitted
+P10270,87,Female,Neurology,09-01-2025,14-01-2025,Diabetes,18812.74,UPI,Admitted
+P10271,89,Male,General Medicine,21-08-2025,25-08-2025,Hypertension,27845.8,Card,Discharged
+P10272,72,Male,General Medicine,09-04-2025,11-04-2025,Heart Disease,10483.76,UPI,Discharged
+P10273,45,Female,Orthopedics,27-05-2025,04-06-2025,Migraine,20281.81,Cash,Discharged
+P10274,86,Male,General Medicine,31-10-2025,03-11-2025,Fracture,22936.6,Cash,Discharged
+P10275,59,Male,Emergency,27-07-2025,31-07-2025,Migraine,7400.72,UPI,Admitted
+P10276,4,Male,General Medicine,11-05-2025,23-05-2025,Fracture,9903.75,Cash,Discharged
+P10277,67,Female,Neurology,01-06-2025,08-06-2025,Fracture,14041.2,Cash,Discharged
+P10278,29,Male,Orthopedics,23-02-2025,05-03-2025,Heart Disease,10982.03,Card,Discharged
+P10279,29,Male,Neurology,30-04-2025,09-05-2025,Fever,14924.3,Insurance,Discharged
+P10280,28,Female,Cardiology,10-06-2025,12-06-2025,Heart Disease,6768.27,UPI,Discharged
+P10281,77,Female,Orthopedics,26-04-2025,29-04-2025,Diabetes,37460.84,Insurance,Discharged
+P10282,79,Male,Emergency,16-03-2025,20-03-2025,Migraine,26832.84,Card,Discharged
+P10283,87,Male,Orthopedics,23-04-2025,03-05-2025,Fracture,69416.17,Insurance,Transferred
+P10284,44,Male,Cardiology,14-04-2025,15-04-2025,,7931.82,UPI,Discharged
+P10285,90,Male,Orthopedics,06-12-2025,13-12-2025,Heart Disease,20687.53,UPI,Discharged
+P10286,4,Female,Pediatrics,11-09-2025,13-09-2025,Migraine,11039.59,Card,Discharged
+P10287,90,Male,Cardiology,15-08-2025,20-08-2025,Migraine,8576.91,UPI,Discharged
+P10288,9,Female,Emergency,22-04-2025,23-04-2025,Fracture,26077.04,Insurance,Discharged
+P10289,5,Female,General Medicine,09-04-2025,12-04-2025,Respiratory Infection,16978.5,Cash,Discharged
+P10290,56,Male,Orthopedics,02-06-2025,14-06-2025,Hypertension,13533.81,Cash,Discharged
+P10291,84,Male,Neurology,15-12-2025,17-12-2025,Diabetes,19104,Cash,Discharged
+P10292,50,Female,Pediatrics,04-12-2025,05-12-2025,Diabetes,10145.96,UPI,Discharged
+P10293,75,Female,Emergency,13-07-2025,20-07-2025,Respiratory Infection,9954.3,Cash,Discharged
+P10294,15,Male,Emergency,06-11-2025,11-11-2025,Fever,11263.04,Insurance,Discharged
+P10295,32,Female,Cardiology,12-06-2025,13-06-2025,Respiratory Infection,28691.84,Cash,Transferred
+P10296,28,Male,General Medicine,27-07-2025,02-08-2025,Fever,27529.36,UPI,Discharged
+P10297,22,Male,General Medicine,18-06-2025,23-06-2025,Fever,7714.32,Card,Discharged
+P10298,17,Female,Pediatrics,10-06-2025,13-06-2025,Respiratory Infection,36653.28,UPI,Discharged
+P10299,59,,Emergency,09-03-2025,21-03-2025,Diabetes,16229.9,UPI,Admitted
+P10300,90,Male,General Medicine,16-10-2025,23-10-2025,Hypertension,20512.94,Cash,Discharged
+P10301,71,Female,General Medicine,04-10-2025,15-10-2025,Diabetes,11059.57,Insurance,Discharged
+P10302,57,Male,General Medicine,31-10-2025,10-11-2025,Heart Disease,16682.42,Cash,Admitted
+P10303,26,Male,Neurology,15-05-2025,24-05-2025,Diabetes,8546.8,UPI,Admitted
+P10304,25,Male,Cardiology,14-07-2025,28-07-2025,Diabetes,10635.02,Insurance,Discharged
+P10305,10,Female,Cardiology,08-05-2025,21-05-2025,Respiratory Infection,24997.48,Cash,Discharged
+P10306,45,Male,Orthopedics,02-02-2025,15-02-2025,Respiratory Infection,25291.87,Cash,Discharged
+P10307,83,Male,Emergency,25-06-2025,04-07-2025,Heart Disease,20997.47,Card,Discharged
+P10308,11,Male,Pediatrics,22-01-2025,05-02-2025,Heart Disease,13067.88,UPI,Discharged
+P10309,77,Male,Pediatrics,26-08-2025,04-09-2025,Respiratory Infection,7636.16,Insurance,Discharged
+P10310,53,Male,General Medicine,07-06-2025,09-06-2025,Diabetes,30427.96,UPI,Discharged
+P10311,72,Male,Orthopedics,07-02-2025,10-02-2025,Hypertension,26235.16,Card,Discharged
+P10312,68,Male,Pediatrics,18-08-2025,25-08-2025,Fever,5187.1,Cash,Discharged
+P10313,28,Male,Emergency,31-12-2025,05-01-2026,Migraine,25511.91,UPI,Discharged
+P10314,75,Male,General Medicine,20-02-2025,22-02-2025,Fever,13529.43,Cash,Discharged
+P10315,65,Male,General Medicine,21-09-2025,24-09-2025,Heart Disease,23324.13,UPI,Discharged
+P10316,49,Male,General Medicine,10-10-2025,20-10-2025,Heart Disease,6822.11,Card,Discharged
+P10317,47,Female,Cardiology,27-01-2025,02-02-2025,Fever,11384.28,Cash,Discharged
+P10318,52,Male,Neurology,14-08-2025,27-08-2025,Migraine,17328.01,Insurance,Discharged
+P10319,88,Male,General Medicine,04-10-2025,11-10-2025,Diabetes,37468.5,UPI,Discharged
+P10320,54,Male,Cardiology,13-10-2025,22-10-2025,Hypertension,17351.41,UPI,Discharged
+P10321,60,Female,Cardiology,07-04-2025,08-04-2025,Hypertension,28113.93,Cash,Discharged
+P10322,57,Male,General Medicine,11-10-2025,22-10-2025,Fever,18581.81,Cash,Discharged
+P10323,47,Female,Cardiology,13-11-2025,20-11-2025,Migraine,18238.68,Insurance,Discharged
+P10324,31,Male,General Medicine,31-10-2025,08-11-2025,Heart Disease,21578.21,Insurance,Discharged
+P10325,46,Male,Cardiology,27-05-2025,08-06-2025,Fracture,16001.62,UPI,Transferred
+P10326,26,Female,Pediatrics,04-01-2025,18-01-2025,Diabetes,24694.53,Cash,Discharged
+P10327,5,Male,Orthopedics,04-02-2025,07-02-2025,Fever,8913.36,UPI,Admitted
+P10328,84,Female,General Medicine,11-07-2025,15-07-2025,Hypertension,16059.84,Insurance,Admitted
+P10329,52,Female,Emergency,18-02-2025,28-02-2025,Heart Disease,39067.49,UPI,Discharged
+P10330,75,Male,Pediatrics,17-01-2025,23-01-2025,Respiratory Infection,28700.37,Insurance,Discharged
+P10331,54,Male,Neurology,21-06-2025,01-07-2025,Respiratory Infection,19423.42,Insurance,Discharged
+P10332,33,Male,General Medicine,08-08-2025,15-08-2025,Migraine,26730.45,UPI,Discharged
+P10333,50,Male,General Medicine,07-06-2025,20-06-2025,Migraine,33926.67,Insurance,Discharged
+P10334,38,Female,General Medicine,15-02-2025,01-03-2025,Fever,4749.5,UPI,Admitted
+P10335,27,Female,General Medicine,06-01-2025,10-01-2025,Fracture,14227.24,UPI,Discharged
+P10336,15,Male,Cardiology,09-04-2025,17-04-2025,Hypertension,11362.32,Insurance,Discharged
+P10337,61,Female,Emergency,21-08-2025,26-08-2025,Fever,7125.91,Insurance,Discharged
+P10338,21,Female,Cardiology,06-02-2025,07-02-2025,Fracture,41873.5,Cash,Admitted
+P10339,46,Male,General Medicine,07-10-2025,11-10-2025,Heart Disease,22103.82,Cash,Discharged
+P10340,69,Female,Orthopedics,15-12-2025,18-12-2025,Migraine,26259.11,Cash,Discharged
+P10341,6,Female,General Medicine,29-10-2025,07-11-2025,,11639.2,Cash,Discharged
+P10342,38,Male,Orthopedics,30-06-2025,08-07-2025,Diabetes,14064.11,Card,Discharged
+P10343,62,Female,Orthopedics,05-04-2025,06-04-2025,Heart Disease,16456.04,Card,Discharged
+P10344,86,Male,Neurology,09-04-2025,20-04-2025,Respiratory Infection,20180.12,Card,Transferred
+P10345,62,Female,Emergency,07-07-2025,13-07-2025,Hypertension,24232.72,Insurance,Discharged
+P10346,,Male,General Medicine,26-04-2025,05-05-2025,Hypertension,5433.26,Cash,Admitted
+P10347,78,Female,Orthopedics,10-07-2025,17-07-2025,Respiratory Infection,23456.92,Cash,Discharged
+P10348,74,Female,Emergency,10-09-2025,14-09-2025,Heart Disease,14566.87,Insurance,Admitted
+P10349,46,Male,Neurology,10-06-2025,23-06-2025,Respiratory Infection,34595.07,Insurance,Discharged
+P10350,13,Male,Orthopedics,13-09-2025,14-09-2025,Fracture,31126.05,Insurance,Discharged
+P10351,3,Male,Emergency,19-11-2025,01-12-2025,Fever,19140.27,Insurance,Admitted
+P10352,6,Male,General Medicine,08-05-2025,10-05-2025,Migraine,16778.89,UPI,Discharged
+P10353,8,Female,Emergency,18-01-2025,30-01-2025,Fracture,13977.54,Insurance,Discharged
+P10354,44,Female,General Medicine,08-10-2025,13-10-2025,Diabetes,20239.9,Insurance,Discharged
+P10355,33,Female,Orthopedics,11-08-2025,23-08-2025,Respiratory Infection,30304.68,UPI,Discharged
+P10356,81,Male,Emergency,23-02-2025,06-03-2025,Diabetes,16980.23,UPI,Discharged
+P10357,75,Female,General Medicine,27-02-2025,04-03-2025,Diabetes,12152.3,Insurance,Discharged
+P10358,77,Female,Orthopedics,19-11-2025,27-11-2025,Fracture,16782.84,Insurance,Discharged
+P10359,50,Male,Cardiology,26-12-2025,01-01-2026,Migraine,19322.49,Cash,Discharged
+P10360,11,Male,Emergency,23-06-2025,01-07-2025,Heart Disease,8567.95,Insurance,Discharged
+P10361,28,Female,Neurology,07-10-2025,09-10-2025,Hypertension,7315.96,UPI,Discharged
+P10362,70,Male,Pediatrics,24-04-2025,27-04-2025,Fever,12328.14,Insurance,Discharged
+P10363,41,Female,Orthopedics,15-10-2025,21-10-2025,Hypertension,34558.96,UPI,Admitted
+P10364,16,Female,Neurology,08-12-2025,20-12-2025,Migraine,29453.08,Insurance,Discharged
+P10365,68,Male,Cardiology,31-05-2025,13-06-2025,Hypertension,6325.61,UPI,Discharged
+P10366,48,Female,Cardiology,07-05-2025,17-05-2025,Respiratory Infection,9699.33,Insurance,Admitted
+P10367,56,Male,Neurology,04-06-2025,07-06-2025,Respiratory Infection,24024.06,Cash,Discharged
+P10368,64,Male,Cardiology,30-09-2025,06-10-2025,Fracture,13184.32,Insurance,Discharged
+P10369,59,Female,General Medicine,14-04-2025,,Diabetes,20797.64,Card,Discharged
+P10370,90,Female,General Medicine,26-10-2025,28-10-2025,Migraine,6551.46,Cash,Discharged
+P10371,62,Female,General Medicine,03-09-2025,10-09-2025,Migraine,16605.09,UPI,Discharged
+P10372,76,Male,Emergency,25-06-2025,07-07-2025,Hypertension,15712.58,Card,Discharged
+P10373,11,Female,Orthopedics,08-02-2025,10-02-2025,Fracture,26323.17,UPI,Discharged
+P10374,89,Male,Pediatrics,19-06-2025,25-06-2025,Hypertension,20182.37,Card,Discharged
+P10375,18,Male,Cardiology,04-09-2025,05-09-2025,Hypertension,17763.05,Cash,Discharged
+P10376,19,Female,General Medicine,26-01-2025,29-01-2025,Migraine,5648.35,UPI,Discharged
+P10377,87,Male,Cardiology,21-12-2025,23-12-2025,Hypertension,39700.03,Card,Discharged
+P10378,55,Female,Neurology,02-11-2025,09-11-2025,Diabetes,23155.48,Insurance,Discharged
+P10379,82,Female,Pediatrics,13-01-2025,27-01-2025,Hypertension,11098.42,Insurance,Discharged
+P10380,26,Female,Emergency,12-11-2025,16-11-2025,Diabetes,17529.96,Insurance,Discharged
+P10381,6,Female,Pediatrics,09-11-2025,17-11-2025,Migraine,13404.48,UPI,Discharged
+P10382,4,Female,Orthopedics,05-02-2025,11-02-2025,Fracture,14789.69,Insurance,Transferred
+P10383,29,Female,Pediatrics,22-06-2025,04-07-2025,Respiratory Infection,29223.95,Insurance,Admitted
+P10384,59,Female,Emergency,20-01-2025,30-01-2025,Diabetes,9672.6,UPI,Discharged
+P10385,17,Male,Neurology,17-11-2025,21-11-2025,Fracture,23644.29,Cash,Discharged
+P10386,43,Female,General Medicine,21-09-2025,26-09-2025,Fracture,29842.57,Insurance,Discharged
+P10387,80,Male,Orthopedics,22-05-2025,04-06-2025,Diabetes,21797.88,UPI,Admitted
+P10388,66,Male,Pediatrics,23-05-2025,05-06-2025,Migraine,15188.05,Insurance,Discharged
+P10389,34,Male,Neurology,02-04-2025,11-04-2025,Fever,10654.18,UPI,Discharged
+P10390,8,Female,General Medicine,20-12-2025,27-12-2025,Fracture,11496.1,Insurance,Discharged
+P10391,13,Male,Emergency,18-11-2025,28-11-2025,Fracture,17718.63,UPI,Discharged
+P10392,8,Male,Emergency,15-10-2025,29-10-2025,Migraine,16961.44,UPI,Discharged
+P10393,65,Female,General Medicine,03-08-2025,17-08-2025,Migraine,25135.55,Card,Discharged
+P10394,43,Female,Emergency,08-12-2025,17-12-2025,Hypertension,6843.53,Cash,Discharged
+P10395,39,Male,General Medicine,20-02-2025,27-02-2025,Migraine,29040.7,Insurance,Discharged
+P10396,81,Female,General Medicine,02-06-2025,14-06-2025,Fracture,52614.91,Insurance,Discharged
+P10397,59,Female,General Medicine,05-07-2025,06-07-2025,Diabetes,15956.79,Card,Discharged
+P10398,84,Female,General Medicine,04-03-2025,16-03-2025,Fever,14675.82,Cash,Discharged
+P10399,88,Female,Emergency,09-07-2025,17-07-2025,Heart Disease,15426.32,Card,Admitted
+P10400,86,Male,General Medicine,05-05-2025,09-05-2025,Hypertension,17400.38,UPI,Discharged
+P10401,86,Female,General Medicine,30-05-2025,02-06-2025,Heart Disease,14064.66,Insurance,Discharged
+P10402,44,Female,General Medicine,10-11-2025,24-11-2025,Diabetes,4812.28,Insurance,Discharged
+P10403,9,Female,General Medicine,27-02-2025,12-03-2025,Fever,15246.15,Cash,Discharged
+P10404,37,Male,General Medicine,08-12-2025,15-12-2025,Fever,9418.32,Card,Discharged
+P10405,74,Male,Pediatrics,01-11-2025,13-11-2025,Fever,17948.06,Cash,Discharged
+P10406,36,Female,General Medicine,29-06-2025,02-07-2025,Respiratory Infection,30610.87,Cash,Discharged
+P10407,28,Female,Emergency,19-06-2025,27-06-2025,Diabetes,9600.64,UPI,Discharged
+P10408,42,Male,Neurology,22-11-2025,28-11-2025,Hypertension,36686.58,UPI,Discharged
+P10409,43,Female,General Medicine,28-09-2025,03-10-2025,Hypertension,13549.3,Cash,Discharged
+P10410,85,Female,Emergency,23-02-2025,27-02-2025,Fever,10265.57,Cash,Discharged
+P10411,88,Male,General Medicine,11-04-2025,19-04-2025,Diabetes,23158.52,Card,Discharged
+P10412,42,Female,General Medicine,21-09-2025,29-09-2025,Respiratory Infection,12715.53,Insurance,Discharged
+P10413,66,Female,General Medicine,22-02-2025,06-03-2025,Fever,16118.61,Cash,Discharged
+P10414,55,Male,Cardiology,01-03-2025,02-03-2025,Migraine,16699.68,Card,Discharged
+P10415,72,Male,Orthopedics,18-04-2025,27-04-2025,Heart Disease,22491.69,Cash,Discharged
+P10416,48,Female,Neurology,05-01-2025,19-01-2025,Hypertension,15867.63,UPI,Discharged
+P10417,22,Male,Cardiology,13-04-2025,18-04-2025,Heart Disease,14960.29,Insurance,Admitted
+P10418,27,Female,Pediatrics,15-07-2025,19-07-2025,Fracture,13359.36,Insurance,Admitted
+P10419,67,Female,General Medicine,19-09-2025,25-09-2025,Fever,21359.11,Card,Discharged
+P10420,13,Female,Neurology,31-12-2025,06-01-2026,Migraine,12355.71,UPI,Discharged
+P10421,45,Male,General Medicine,16-12-2025,18-12-2025,Hypertension,31120.99,UPI,Discharged
+P10422,10,Male,General Medicine,16-02-2025,24-02-2025,Heart Disease,16797.08,Cash,Discharged
+P10423,9,Female,General Medicine,21-12-2025,28-12-2025,Respiratory Infection,5840.84,Card,Discharged
+P10424,54,Female,General Medicine,07-11-2025,08-11-2025,Diabetes,19315.35,Insurance,Discharged
+P10425,27,Male,Orthopedics,04-11-2025,09-11-2025,Hypertension,20948.36,Cash,Admitted
+P10426,34,Male,Emergency,24-05-2025,05-06-2025,Heart Disease,31296.54,Insurance,Discharged
+P10427,1,Male,,26-09-2025,02-10-2025,Diabetes,10924.47,Insurance,Discharged
+P10428,32,Female,Pediatrics,04-05-2025,08-05-2025,Heart Disease,10039.89,Insurance,Admitted
+P10429,89,Male,Pediatrics,16-04-2025,18-04-2025,Diabetes,22870.47,Card,Discharged
+P10430,71,Male,Emergency,07-06-2025,20-06-2025,Respiratory Infection,28746.28,Insurance,Admitted
+P10431,67,Female,General Medicine,27-05-2025,10-06-2025,Respiratory Infection,10682.08,,Discharged
+P10432,84,Female,Cardiology,25-05-2025,29-05-2025,Fever,18958.75,Cash,Discharged
+P10433,20,Female,Emergency,30-04-2025,01-05-2025,Fever,16011.41,Insurance,Discharged
+P10434,35,Male,Pediatrics,15-11-2025,22-11-2025,Hypertension,10894.07,Cash,Discharged
+P10435,90,Female,Cardiology,02-10-2025,04-10-2025,Respiratory Infection,15520.52,Cash,Discharged
+P10436,78,Female,General Medicine,02-04-2025,15-04-2025,Migraine,27728.99,Insurance,Discharged
+P10437,17,Female,General Medicine,27-02-2025,01-03-2025,Heart Disease,16834.46,Cash,Discharged
+P10438,18,Female,Orthopedics,12-12-2025,21-12-2025,Heart Disease,15090.89,Cash,Discharged
+P10439,45,Male,Pediatrics,17-08-2025,22-08-2025,Heart Disease,22267.25,Cash,Discharged
+P10440,84,Female,General Medicine,27-04-2025,29-04-2025,Hypertension,28988.19,Insurance,Discharged
+P10441,53,Male,Orthopedics,14-11-2025,25-11-2025,Heart Disease,9504.62,Insurance,Admitted
+P10442,82,Male,Orthopedics,06-10-2025,15-10-2025,Fracture,19360.54,Cash,Discharged
+P10443,68,Male,Orthopedics,07-05-2025,16-05-2025,Diabetes,13596.16,Insurance,Discharged
+P10444,65,Female,Pediatrics,09-05-2025,10-05-2025,Heart Disease,16873.58,Cash,Transferred
+P10445,1,Male,Emergency,27-02-2025,10-03-2025,Diabetes,23154.41,Insurance,Admitted
+P10446,58,Female,Cardiology,02-05-2025,05-05-2025,Fever,14178.41,Insurance,Discharged
+P10447,26,Female,Emergency,01-01-2025,05-01-2025,Heart Disease,15804.34,Insurance,Discharged
+P10448,20,Female,General Medicine,27-08-2025,10-09-2025,Migraine,26599.39,UPI,Discharged
+P10449,87,Male,General Medicine,17-10-2025,24-10-2025,Respiratory Infection,20690.82,UPI,Discharged
+P10450,10,Female,General Medicine,06-04-2025,16-04-2025,Respiratory Infection,15617,Cash,Discharged
+P10451,59,Female,General Medicine,06-05-2025,10-05-2025,Fever,17732.85,UPI,Discharged
+P10452,75,Female,General Medicine,28-04-2025,30-04-2025,Fracture,17066.67,Cash,Admitted
+P10453,41,Male,General Medicine,17-02-2025,24-02-2025,Hypertension,5574.2,UPI,Discharged
+P10454,5,Male,Neurology,30-03-2025,05-04-2025,Hypertension,17888.55,Card,Transferred
+P10455,65,Male,General Medicine,25-08-2025,28-08-2025,Migraine,7795.78,Card,Discharged
+P10456,17,Female,Neurology,29-09-2025,05-10-2025,Fever,28583.8,Cash,Discharged
+P10457,22,Male,General Medicine,08-07-2025,19-07-2025,Fever,7688.7,Cash,Discharged
+P10458,41,Female,Emergency,11-07-2025,17-07-2025,Fracture,13235.74,UPI,Transferred
+P10459,68,Female,Pediatrics,10-03-2025,22-03-2025,Heart Disease,11910.66,UPI,Discharged
+P10460,69,Male,General Medicine,05-10-2025,10-10-2025,Hypertension,33856.26,Insurance,Discharged
+P10461,11,Female,Neurology,15-12-2025,19-12-2025,Heart Disease,27991.54,Insurance,Admitted
+P10462,56,Male,Orthopedics,04-09-2025,14-09-2025,Fever,3636.47,UPI,Discharged
+P10463,51,Female,Neurology,17-03-2025,29-03-2025,Heart Disease,16396.44,Card,Discharged
+P10464,21,Male,Orthopedics,03-06-2025,04-06-2025,Respiratory Infection,8604.17,Cash,Admitted
+P10465,76,Female,Pediatrics,24-05-2025,03-06-2025,Migraine,17923.37,Cash,Transferred
+P10466,26,Female,Neurology,27-03-2025,02-04-2025,Hypertension,22889.79,Card,Discharged
+P10467,19,Female,Cardiology,04-07-2025,06-07-2025,Fracture,18703.51,Card,Discharged
+P10468,60,Female,General Medicine,12-10-2025,25-10-2025,Migraine,23588.43,Cash,Discharged
+P10469,71,Female,Emergency,08-08-2025,11-08-2025,Diabetes,14382.66,Cash,Discharged
+P10470,47,Male,Cardiology,10-03-2025,24-03-2025,Respiratory Infection,19009.04,Cash,Discharged
+P10471,71,Female,Orthopedics,16-02-2025,24-02-2025,Fracture,23168.97,UPI,Discharged
+P10472,26,Male,General Medicine,04-04-2025,14-04-2025,Migraine,12965.09,Cash,Discharged
+P10473,40,Male,Orthopedics,26-08-2025,09-09-2025,Fever,10182.08,Insurance,Discharged
+P10474,5,Male,Emergency,23-07-2025,06-08-2025,Diabetes,11555.16,Insurance,Discharged
+P10475,21,Female,General Medicine,06-08-2025,12-08-2025,Fracture,15506.81,Insurance,Discharged
+P10476,78,Female,Cardiology,07-12-2025,10-12-2025,Fever,16629.83,Cash,Discharged
+P10477,4,Female,Pediatrics,08-02-2025,15-02-2025,Respiratory Infection,19570.59,Card,Discharged
+P10478,23,Male,Neurology,10-04-2025,14-04-2025,Diabetes,10929.1,Cash,Discharged
+P10479,84,Female,Cardiology,16-10-2025,30-10-2025,Hypertension,23505.14,Card,Discharged
+P10480,15,Female,Cardiology,11-09-2025,20-09-2025,Fever,37672.57,Cash,Discharged
+P10481,8,Male,Emergency,10-08-2025,15-08-2025,Migraine,11959.22,Insurance,Discharged
+P10482,41,Male,Pediatrics,23-12-2025,26-12-2025,Heart Disease,47936.59,Insurance,Admitted
+P10483,19,Male,General Medicine,23-01-2025,25-01-2025,Fracture,40174.22,Insurance,Discharged
+P10484,46,Male,General Medicine,07-09-2025,18-09-2025,Diabetes,16602.58,Insurance,Discharged
+P10485,28,Male,Orthopedics,10-01-2025,12-01-2025,Fever,15264.32,Card,Discharged
+P10486,68,Male,General Medicine,03-09-2025,06-09-2025,Hypertension,11464.06,UPI,Discharged
+P10487,15,Female,General Medicine,21-11-2025,23-11-2025,Heart Disease,25234.93,Cash,Transferred
+P10488,37,Male,Emergency,10-04-2025,24-04-2025,Fracture,17185.17,UPI,Discharged
+P10489,1,Female,General Medicine,17-10-2025,21-10-2025,Fracture,18127.6,UPI,Discharged
+P10490,67,Female,Pediatrics,29-06-2025,01-07-2025,Fever,10304.69,Insurance,Discharged
+P10491,24,Female,General Medicine,11-08-2025,21-08-2025,Hypertension,25590.86,Card,Discharged
+P10492,27,Male,Neurology,07-09-2025,16-09-2025,Respiratory Infection,14629.74,Insurance,Discharged
+P10493,40,Female,Pediatrics,27-05-2025,29-05-2025,Heart Disease,8978.26,Cash,Discharged
+P10494,63,Male,General Medicine,06-04-2025,15-04-2025,Respiratory Infection,15927.44,Cash,Discharged
+P10495,61,Male,Orthopedics,14-09-2025,27-09-2025,Diabetes,10682.61,Cash,Discharged
+P10496,36,Female,General Medicine,21-11-2025,27-11-2025,Fever,31319.05,Cash,Discharged
+P10497,24,Male,Emergency,04-01-2025,05-01-2025,Heart Disease,39914.09,Insurance,Discharged
+P10498,24,Female,Emergency,16-01-2025,20-01-2025,Diabetes,16165,UPI,Discharged
+P10499,4,Female,Cardiology,07-10-2025,21-10-2025,Respiratory Infection,27607.36,Card,Discharged
+P10500,67,Male,Cardiology,02-12-2025,03-12-2025,Heart Disease,27269.38,UPI,Discharged
+P10501,34,Female,Cardiology,04-09-2025,18-09-2025,Fracture,1890.92,UPI,Discharged
+P10502,57,Female,Pediatrics,15-09-2025,21-09-2025,Diabetes,11565.06,UPI,Discharged
+P10503,49,Female,Cardiology,09-06-2025,23-06-2025,Hypertension,17575.92,UPI,Transferred
+P10504,87,Male,General Medicine,06-12-2025,19-12-2025,Migraine,13146.75,Card,Discharged
+P10505,53,Female,Cardiology,01-06-2025,05-06-2025,Respiratory Infection,11070.59,Cash,Discharged
+P10506,23,Male,General Medicine,27-06-2025,30-06-2025,Respiratory Infection,28173.2,Insurance,Discharged
+P10507,69,Male,Neurology,12-06-2025,15-06-2025,Hypertension,12869.28,Insurance,Discharged
+P10508,53,Female,General Medicine,02-02-2025,11-02-2025,Heart Disease,19596.82,UPI,Discharged
+P10509,62,Female,Pediatrics,28-06-2025,04-07-2025,Heart Disease,26961.69,UPI,Admitted
+P10510,41,Male,General Medicine,11-04-2025,20-04-2025,Heart Disease,32229.62,Insurance,Admitted
+P10511,57,Male,General Medicine,25-09-2025,08-10-2025,Diabetes,9004.23,Card,Discharged
+P10512,60,Female,Pediatrics,19-11-2025,24-11-2025,Fever,9459.9,Cash,Discharged
+P10513,54,Female,Emergency,06-03-2025,08-03-2025,Fracture,18505.74,Cash,Discharged
+P10514,70,Male,Neurology,17-06-2025,25-06-2025,Migraine,4768.6,Insurance,Discharged
+P10515,57,Male,General Medicine,26-11-2025,01-12-2025,Fever,9724.45,Insurance,Discharged
+P10516,10,Male,General Medicine,12-02-2025,14-02-2025,Fever,29700.93,UPI,Discharged
+P10517,40,Male,Emergency,13-02-2025,17-02-2025,Hypertension,22602.32,Insurance,Discharged
+P10518,7,Male,Cardiology,12-10-2025,21-10-2025,Diabetes,15506.71,UPI,Discharged
+P10519,38,Female,General Medicine,12-01-2025,16-01-2025,Respiratory Infection,20937.06,Insurance,Admitted
+P10520,85,Male,Emergency,05-04-2025,18-04-2025,Respiratory Infection,23379.07,UPI,Discharged
+P10521,61,Male,Neurology,29-10-2025,10-11-2025,Hypertension,7258.35,Cash,Discharged
+P10522,84,Female,Emergency,10-09-2025,22-09-2025,Diabetes,12745.93,UPI,Discharged
+P10523,3,Female,Emergency,30-08-2025,11-09-2025,Hypertension,31681.6,Insurance,Admitted
+P10524,51,Male,Emergency,04-02-2025,17-02-2025,Respiratory Infection,18672.5,Cash,Discharged
+P10525,86,Male,General Medicine,03-08-2025,17-08-2025,Fever,19235.83,Cash,Admitted
+P10526,47,Female,General Medicine,03-12-2025,07-12-2025,Fracture,16186.8,UPI,Discharged
+P10527,68,Male,Orthopedics,31-03-2025,02-04-2025,Heart Disease,5598.77,Cash,Discharged
+P10528,76,Male,Orthopedics,21-09-2025,04-10-2025,Diabetes,11853.58,Insurance,Discharged
+P10529,38,Female,Cardiology,03-04-2025,15-04-2025,Migraine,20310.38,Card,Admitted
+P10530,36,Male,Cardiology,31-03-2025,06-04-2025,Migraine,12908.7,Insurance,Discharged
+P10531,41,Female,Cardiology,25-04-2025,08-05-2025,Fever,9191.23,UPI,Discharged
+P10532,69,Female,Orthopedics,15-04-2025,26-04-2025,Hypertension,9893.64,Card,Discharged
+P10533,13,Female,General Medicine,15-07-2025,29-07-2025,Hypertension,32002.44,Insurance,Admitted
+P10534,87,Female,General Medicine,10-11-2025,12-11-2025,Respiratory Infection,12535.11,UPI,Admitted
+P10535,58,Male,Orthopedics,24-04-2025,06-05-2025,Fever,28885.29,UPI,Transferred
+P10536,50,Female,Pediatrics,16-03-2025,23-03-2025,Respiratory Infection,19280.99,UPI,Transferred
+P10537,30,Male,General Medicine,05-08-2025,08-08-2025,Respiratory Infection,14588.01,Insurance,Discharged
+P10538,62,Male,Orthopedics,04-10-2025,07-10-2025,Migraine,10781.51,Card,Discharged
+P10539,25,Male,Pediatrics,06-09-2025,11-09-2025,Respiratory Infection,22904.62,Insurance,Discharged
+P10540,27,Male,Cardiology,13-06-2025,16-06-2025,Heart Disease,27157.94,Insurance,Discharged
+P10541,51,Male,General Medicine,23-12-2025,25-12-2025,Respiratory Infection,23999.99,Cash,Admitted
+P10542,78,Female,Cardiology,11-07-2025,21-07-2025,Migraine,7715.03,Card,Admitted
+P10543,57,Female,General Medicine,15-08-2025,24-08-2025,Heart Disease,12516.31,Cash,Discharged
+P10544,47,Female,Emergency,26-06-2025,28-06-2025,Hypertension,13336.7,Insurance,Discharged
+P10545,39,Female,General Medicine,09-04-2025,23-04-2025,Diabetes,4910.58,UPI,Admitted
+P10546,16,Male,Pediatrics,05-02-2025,16-02-2025,Fracture,20832.38,Cash,Discharged
+P10547,22,Female,General Medicine,06-04-2025,08-04-2025,Respiratory Infection,22325.07,Insurance,Discharged
+P10548,85,Male,Cardiology,01-06-2025,14-06-2025,Heart Disease,21940.54,UPI,Discharged
+P10549,54,Male,Orthopedics,31-05-2025,08-06-2025,Diabetes,20163.21,Card,Discharged
+P10550,21,Female,General Medicine,09-07-2025,18-07-2025,Migraine,13949.7,Insurance,Discharged
+P10551,72,Female,Cardiology,12-08-2025,19-08-2025,Diabetes,10547.59,UPI,Discharged
+P10552,16,Female,General Medicine,06-02-2025,09-02-2025,Fracture,13923.48,UPI,Discharged
+P10553,59,Female,Cardiology,25-09-2025,04-10-2025,Diabetes,19359.52,Card,Transferred
+P10554,31,Male,Pediatrics,02-07-2025,05-07-2025,Heart Disease,30205.72,Cash,Discharged
+P10555,42,Male,Cardiology,13-01-2025,18-01-2025,Diabetes,17181.35,Cash,Discharged
+P10556,74,Female,Emergency,06-10-2025,15-10-2025,Diabetes,16882.6,Insurance,Transferred
+P10557,32,Male,Pediatrics,05-08-2025,17-08-2025,Diabetes,5198.06,UPI,Discharged
+P10558,59,Male,Cardiology,21-12-2025,04-01-2026,Fever,20009.03,Insurance,Discharged
+P10559,34,Male,General Medicine,27-12-2025,10-01-2026,Respiratory Infection,31285.14,Card,Admitted
+P10560,9,Female,Orthopedics,13-10-2025,16-10-2025,Migraine,15571.31,Cash,Discharged
+P10561,81,Male,Neurology,30-09-2025,07-10-2025,Fracture,14964.04,Insurance,Admitted
+P10562,11,Female,General Medicine,03-03-2025,15-03-2025,Migraine,13471.27,Insurance,Discharged
+P10563,10,Female,Neurology,25-03-2025,26-03-2025,Fever,23290.84,UPI,Discharged
+P10564,86,Male,General Medicine,05-08-2025,09-08-2025,Fever,5043.08,Insurance,Discharged
+P10565,17,Male,Neurology,08-12-2025,12-12-2025,Heart Disease,28899.34,Card,Discharged
+P10566,68,Female,General Medicine,06-07-2025,13-07-2025,Fever,14620.71,Card,Discharged
+P10567,48,Male,Emergency,19-01-2025,27-01-2025,Respiratory Infection,20192.31,Cash,Discharged
+P10568,52,Male,Orthopedics,26-06-2025,27-06-2025,Fever,24197.59,Card,Admitted
+P10569,25,Female,General Medicine,10-04-2025,15-04-2025,Diabetes,9825.36,Cash,Admitted
+P10570,21,Female,General Medicine,21-08-2025,28-08-2025,Migraine,,Card,Discharged
+P10571,65,Female,Cardiology,17-03-2025,29-03-2025,Hypertension,14454.9,Cash,Admitted
+P10572,63,Female,Emergency,22-09-2025,26-09-2025,Fracture,8529.56,Cash,Discharged
+P10573,89,Male,General Medicine,11-10-2025,24-10-2025,Fever,27051.99,UPI,Discharged
+P10574,51,Male,General Medicine,25-07-2025,29-07-2025,Migraine,13843.2,Card,Admitted
+P10575,36,Female,Orthopedics,11-08-2025,15-08-2025,Heart Disease,8327.19,Insurance,Discharged
+P10576,81,Female,Orthopedics,21-02-2025,05-03-2025,Fever,16844.58,Insurance,Discharged
+P10577,88,Female,Orthopedics,05-12-2025,11-12-2025,Respiratory Infection,7025.42,Insurance,Discharged
+P10578,66,Male,Pediatrics,24-05-2025,31-05-2025,Fever,12910.96,UPI,Discharged
+P10579,15,Female,General Medicine,10-03-2025,12-03-2025,Fever,19164.74,Cash,Discharged
+P10580,39,Male,Emergency,09-04-2025,14-04-2025,Fever,6591.13,UPI,Discharged
+P10581,70,Female,Cardiology,25-01-2025,29-01-2025,Heart Disease,22555.02,UPI,Discharged
+P10582,1,Female,General Medicine,22-02-2025,08-03-2025,Fever,17298.12,UPI,Discharged
+P10583,23,Female,Neurology,31-05-2025,13-06-2025,Fracture,24266.35,Cash,Discharged
+P10584,39,Male,Pediatrics,24-05-2025,27-05-2025,Migraine,24133.14,Card,Discharged
+P10585,57,Male,Cardiology,26-02-2025,05-03-2025,Respiratory Infection,12671.44,Cash,Discharged
+P10586,81,Male,Pediatrics,08-02-2025,19-02-2025,Fever,12859.59,Insurance,Discharged
+P10587,34,Female,General Medicine,19-04-2025,01-05-2025,Fever,20944.15,,Discharged
+P10588,41,Male,Cardiology,30-06-2025,06-07-2025,Fever,8970.88,Card,Discharged
+P10589,73,Male,Emergency,11-02-2025,25-02-2025,Fever,9004.99,Insurance,Discharged
+P10590,13,Female,General Medicine,05-07-2025,12-07-2025,Diabetes,11735.54,Insurance,Discharged
+P10591,70,Female,Cardiology,11-08-2025,16-08-2025,Diabetes,7396.97,Insurance,Discharged
+P10592,6,Male,Neurology,02-05-2025,15-05-2025,Hypertension,8272.43,UPI,Transferred
+P10593,84,Male,Emergency,13-05-2025,19-05-2025,Fever,8432.74,UPI,Admitted
+P10594,52,Male,Cardiology,12-06-2025,17-06-2025,Hypertension,13869.99,Cash,Admitted
+P10595,3,Male,Orthopedics,03-08-2025,17-08-2025,Fracture,13533.56,Insurance,Admitted
+P10596,81,Female,Orthopedics,09-08-2025,16-08-2025,Hypertension,26092.65,Card,Discharged
+P10597,63,Female,Emergency,23-08-2025,25-08-2025,,14001.56,Insurance,Discharged
+P10598,49,Female,Emergency,27-11-2025,11-12-2025,Diabetes,15692.02,UPI,Discharged
+P10599,76,Male,General Medicine,26-05-2025,06-06-2025,Diabetes,36351.85,UPI,Discharged
+P10600,47,Male,Cardiology,27-08-2025,01-09-2025,Fever,3728.52,Insurance,Admitted
+P10601,55,Female,Orthopedics,17-03-2025,23-03-2025,Fever,18241.68,Card,Discharged
+P10602,64,Female,Neurology,09-01-2025,15-01-2025,Fracture,14632.23,Card,Transferred
+P10603,65,Male,Orthopedics,15-03-2025,20-03-2025,Respiratory Infection,19179.62,Insurance,Discharged
+P10604,81,Male,Pediatrics,10-09-2025,20-09-2025,Fracture,12138.14,Cash,Admitted
+P10605,67,Female,Emergency,18-08-2025,25-08-2025,Migraine,13954.36,Insurance,Discharged
+P10606,90,Female,General Medicine,07-01-2025,17-01-2025,Fever,29515.51,Cash,Discharged
+P10607,15,Female,General Medicine,23-06-2025,01-07-2025,Fever,20800.46,Card,Discharged
+P10608,32,Male,Cardiology,21-05-2025,28-05-2025,Fracture,14325.31,Cash,Admitted
+P10609,68,Male,Cardiology,17-06-2025,22-06-2025,Fracture,10687.5,UPI,Admitted
+P10610,18,Male,General Medicine,19-06-2025,20-06-2025,Fracture,8952.4,UPI,Discharged
+P10611,83,Male,General Medicine,10-10-2025,23-10-2025,Diabetes,12553.82,Card,Discharged
+P10612,43,Male,Pediatrics,02-05-2025,07-05-2025,Hypertension,15000.14,Cash,Discharged
+P10613,35,Male,Emergency,13-07-2025,,Hypertension,36284.37,Insurance,Transferred
+P10614,78,Female,Orthopedics,05-01-2025,07-01-2025,Fever,17572.34,Cash,Discharged
+P10615,58,Female,Orthopedics,29-01-2025,11-02-2025,Diabetes,11391.83,Insurance,Discharged
+P10616,33,Male,General Medicine,14-06-2025,19-06-2025,Fracture,3740.26,UPI,Discharged
+P10617,14,Female,Neurology,05-12-2025,10-12-2025,Fever,10519.82,Insurance,Discharged
+P10618,34,Male,Neurology,16-05-2025,18-05-2025,Diabetes,12562.97,Insurance,Discharged
+P10619,61,Female,Orthopedics,31-12-2025,05-01-2026,Migraine,18443.31,Insurance,Discharged
+P10620,4,Male,General Medicine,17-11-2025,30-11-2025,Respiratory Infection,12810.45,UPI,Admitted
+P10621,88,Female,General Medicine,08-12-2025,12-12-2025,Diabetes,37124.43,UPI,Admitted
+P10622,59,Female,General Medicine,25-05-2025,26-05-2025,Heart Disease,14459.16,Insurance,Discharged
+P10623,29,Male,Orthopedics,23-11-2025,26-11-2025,Fever,26530.84,Card,Transferred
+P10624,83,Male,Neurology,05-08-2025,06-08-2025,Hypertension,6260.24,,Discharged
+P10625,6,Female,Emergency,28-10-2025,09-11-2025,Heart Disease,,,Discharged
+P10626,49,Female,Orthopedics,12-05-2025,23-05-2025,Fracture,10580.99,Insurance,Discharged
+P10627,40,Male,Neurology,19-10-2025,24-10-2025,Respiratory Infection,26893.63,Insurance,Discharged
+P10628,83,Female,Emergency,11-03-2025,15-03-2025,Migraine,13262.5,Cash,Admitted
+P10629,65,Male,General Medicine,09-09-2025,16-09-2025,Respiratory Infection,29923.62,Cash,Discharged
+P10630,69,Male,Cardiology,02-10-2025,07-10-2025,Respiratory Infection,22404.52,Insurance,Discharged
+P10631,27,Female,Emergency,30-12-2025,09-01-2026,Diabetes,12348.58,UPI,Discharged
+P10632,80,Male,Cardiology,01-07-2025,15-07-2025,Fever,8858.01,Insurance,Discharged
+P10633,,Female,Emergency,16-06-2025,20-06-2025,Fever,10935.43,Insurance,Admitted
+P10634,13,Female,Emergency,01-04-2025,03-04-2025,Respiratory Infection,13963.11,Card,Discharged
+P10635,64,Male,Pediatrics,21-07-2025,25-07-2025,Fracture,22332.92,Insurance,Discharged
+P10636,62,Female,Neurology,12-12-2025,24-12-2025,Fever,16158.35,Insurance,Admitted
+P10637,19,Male,Neurology,19-01-2025,21-01-2025,Respiratory Infection,24341.3,Insurance,Discharged
+P10638,76,Male,Pediatrics,08-02-2025,16-02-2025,Fever,31069.27,Cash,Discharged
+P10639,80,Male,Cardiology,06-05-2025,09-05-2025,Fracture,16602.43,Insurance,Discharged
+P10640,43,Female,General Medicine,22-06-2025,01-07-2025,Migraine,9409.5,Card,Discharged
+P10641,74,Male,Cardiology,21-05-2025,03-06-2025,Heart Disease,19626.91,Card,Transferred
+P10642,89,Female,Pediatrics,30-08-2025,03-09-2025,Respiratory Infection,39147.96,UPI,Discharged
+P10643,20,Male,General Medicine,08-08-2025,21-08-2025,Hypertension,25020.63,Cash,Discharged
+P10644,68,Male,General Medicine,06-05-2025,12-05-2025,Hypertension,18883.73,Card,Admitted
+P10645,44,Male,General Medicine,27-02-2025,09-03-2025,Respiratory Infection,10093.95,Insurance,Discharged
+P10646,23,Female,Pediatrics,28-05-2025,02-06-2025,Diabetes,14727.09,UPI,Discharged
+P10647,2,Female,Emergency,13-11-2025,23-11-2025,Migraine,6503.4,Insurance,Discharged
+P10648,22,Male,Emergency,27-12-2025,09-01-2026,Diabetes,8560.57,UPI,Admitted
+P10649,57,Male,Orthopedics,01-01-2025,02-01-2025,Heart Disease,19829.77,UPI,Discharged
+P10650,72,Female,Emergency,14-12-2025,23-12-2025,Hypertension,5669.18,Card,Discharged
+P10651,7,Female,Neurology,09-07-2025,10-07-2025,Fracture,13600.36,Card,Discharged
+P10652,78,Female,Orthopedics,10-07-2025,18-07-2025,Respiratory Infection,8035.3,Card,Discharged
+P10653,56,Male,Orthopedics,08-11-2025,17-11-2025,Heart Disease,8801.15,UPI,Discharged
+P10654,67,Female,General Medicine,27-04-2025,06-05-2025,Fever,16758.08,Cash,Discharged
+P10655,16,Male,Emergency,14-05-2025,15-05-2025,Hypertension,10943.64,Card,Discharged
+P10656,83,Female,Cardiology,27-02-2025,01-03-2025,Migraine,7141.39,Insurance,Discharged
+P10657,51,Male,Cardiology,13-02-2025,25-02-2025,Hypertension,12116.14,Insurance,Discharged
+P10658,82,Male,Pediatrics,22-06-2025,05-07-2025,Migraine,6996.07,Insurance,Admitted
+P10659,80,Male,Cardiology,09-06-2025,10-06-2025,Migraine,29015.16,Insurance,Discharged
+P10660,72,Female,General Medicine,22-06-2025,02-07-2025,Respiratory Infection,22943.23,Cash,Discharged
+P10661,12,Female,Pediatrics,13-11-2025,15-11-2025,Migraine,22892.71,Insurance,Discharged
+P10662,53,Female,General Medicine,30-10-2025,09-11-2025,Diabetes,10376.72,Insurance,Discharged
+P10663,75,Male,Pediatrics,29-05-2025,10-06-2025,Heart Disease,20156.51,UPI,Discharged
+P10664,5,Male,Orthopedics,21-03-2025,29-03-2025,Fracture,18006.34,Card,Discharged
+P10665,27,Female,Orthopedics,01-08-2025,06-08-2025,Hypertension,10808.62,UPI,Discharged
+P10666,12,Male,Pediatrics,22-07-2025,03-08-2025,Fracture,15636.71,Insurance,Admitted
+P10667,17,Male,Orthopedics,09-09-2025,20-09-2025,Heart Disease,6318.48,Cash,Discharged
+P10668,6,Male,Orthopedics,17-08-2025,24-08-2025,Fever,8990.66,UPI,Discharged
+P10669,5,Female,Pediatrics,13-06-2025,15-06-2025,Heart Disease,15414.21,Cash,Discharged
+P10670,57,Male,Neurology,15-08-2025,23-08-2025,Hypertension,12490.5,UPI,Admitted
+P10671,28,Female,Pediatrics,27-05-2025,07-06-2025,Fracture,19276.51,UPI,Discharged
+P10672,78,Female,,20-01-2025,26-01-2025,Fracture,10966.96,Card,Discharged
+P10673,69,Female,General Medicine,16-02-2025,24-02-2025,Respiratory Infection,13471.96,Card,Admitted
+P10674,59,Female,Cardiology,21-08-2025,22-08-2025,Respiratory Infection,16082.81,Card,Discharged
+P10675,33,Female,Emergency,01-11-2025,02-11-2025,Heart Disease,10473.2,Card,Discharged
+P10676,62,Male,Cardiology,14-01-2025,26-01-2025,Heart Disease,13350.67,Card,Discharged
+P10677,50,Female,General Medicine,23-05-2025,30-05-2025,Fever,17942.92,Card,Admitted
+P10678,19,Female,Orthopedics,01-01-2025,09-01-2025,Migraine,33025.96,Insurance,Discharged
+P10679,86,Female,General Medicine,23-02-2025,08-03-2025,Hypertension,10507.46,Cash,Admitted
+P10680,69,Male,General Medicine,16-09-2025,19-09-2025,Respiratory Infection,12522.45,UPI,Discharged
+P10681,66,Male,Emergency,24-05-2025,29-05-2025,Hypertension,24898.62,UPI,Discharged
+P10682,47,Male,Orthopedics,12-01-2025,24-01-2025,Fever,27930.64,Insurance,Discharged
+P10683,39,Male,General Medicine,26-11-2025,27-11-2025,Respiratory Infection,21112.88,UPI,Discharged
+P10684,68,Female,Emergency,12-08-2025,19-08-2025,Respiratory Infection,27579.54,Card,Discharged
+P10685,33,Female,Emergency,29-09-2025,04-10-2025,Migraine,10184.73,Cash,Discharged
+P10686,13,Male,Cardiology,24-12-2025,01-01-2026,Hypertension,26294.15,Insurance,Discharged
+P10687,84,Male,General Medicine,05-06-2025,18-06-2025,Hypertension,23343.7,Insurance,Discharged
+P10688,54,Male,Emergency,08-01-2025,16-01-2025,Hypertension,8734.09,Insurance,Discharged
+P10689,7,Male,Pediatrics,02-05-2025,11-05-2025,Migraine,13575.95,UPI,Admitted
+P10690,79,Female,Pediatrics,14-12-2025,21-12-2025,Respiratory Infection,4324.2,UPI,Discharged
+P10691,87,Male,Emergency,13-06-2025,24-06-2025,Fever,17282.35,Insurance,Admitted
+P10692,14,Male,Pediatrics,31-03-2025,01-04-2025,Hypertension,26059.55,UPI,Discharged
+P10693,87,Male,General Medicine,16-05-2025,29-05-2025,Fracture,12181.91,Cash,Admitted
+P10694,19,Male,Pediatrics,05-07-2025,08-07-2025,Migraine,9312.42,Cash,Discharged
+P10695,54,Male,Cardiology,12-11-2025,20-11-2025,Diabetes,8953.4,UPI,Discharged
+P10696,20,Male,Neurology,27-06-2025,30-06-2025,Fever,15959.78,Insurance,Admitted
+P10697,29,Male,Pediatrics,28-01-2025,05-02-2025,Fracture,21019.55,Insurance,Transferred
+P10698,24,Female,General Medicine,08-08-2025,09-08-2025,Hypertension,33368.21,Card,Discharged
+P10699,82,Female,Orthopedics,23-12-2025,28-12-2025,Diabetes,4090.61,Insurance,Discharged
+P10700,63,Female,Cardiology,10-02-2025,14-02-2025,Fever,31374.26,Cash,Discharged
+P10701,74,Female,Cardiology,16-08-2025,21-08-2025,Migraine,17754.49,Insurance,Discharged
+P10702,57,Female,Orthopedics,11-07-2025,19-07-2025,Diabetes,25455.16,Cash,Admitted
+P10703,8,Female,Cardiology,25-05-2025,04-06-2025,Respiratory Infection,22672.16,Cash,Discharged
+P10704,90,Male,Neurology,20-07-2025,03-08-2025,Heart Disease,16464.93,Card,Admitted
+P10705,62,Male,General Medicine,31-07-2025,04-08-2025,Diabetes,16147.02,Card,Discharged
+P10706,29,Female,Pediatrics,08-08-2025,19-08-2025,Heart Disease,19551.76,UPI,Admitted
+P10707,74,Male,Neurology,28-08-2025,01-09-2025,Fracture,14125.29,Cash,Admitted
+P10708,17,Female,Pediatrics,15-02-2025,18-02-2025,Fever,14719.54,Cash,Discharged
+P10709,66,Male,Orthopedics,04-02-2025,11-02-2025,Fracture,857.18,Insurance,Discharged
+P10710,6,Male,Emergency,10-09-2025,13-09-2025,Fracture,21529.86,Insurance,Admitted
+P10711,58,Male,General Medicine,23-03-2025,04-04-2025,Hypertension,10486.72,Cash,Discharged
+P10712,69,Male,General Medicine,13-09-2025,16-09-2025,Migraine,26636.85,Cash,Discharged
+P10713,28,Male,Cardiology,16-07-2025,27-07-2025,Diabetes,25559.81,UPI,Discharged
+P10714,62,Male,General Medicine,30-10-2025,09-11-2025,Fever,12556.61,Insurance,Discharged
+P10715,41,Female,Emergency,10-01-2025,15-01-2025,Respiratory Infection,21635.49,Card,Admitted
+P10716,69,Female,General Medicine,08-11-2025,13-11-2025,Migraine,20287.94,Insurance,Discharged
+P10717,82,Male,,13-10-2025,27-10-2025,Migraine,11871.88,Card,Admitted
+P10718,90,Female,Neurology,30-08-2025,05-09-2025,Fever,22422.45,Card,Discharged
+P10719,84,Male,General Medicine,08-09-2025,16-09-2025,Migraine,32489.28,Insurance,Discharged
+P10720,41,Female,Pediatrics,31-12-2025,10-01-2026,Hypertension,27081.63,UPI,Discharged
+P10721,49,Male,General Medicine,05-01-2025,11-01-2025,Migraine,7093.72,Cash,Discharged
+P10722,49,Female,Orthopedics,29-04-2025,11-05-2025,Hypertension,20638.16,UPI,Discharged
+P10723,76,Male,General Medicine,16-10-2025,17-10-2025,Diabetes,24969.69,Cash,Discharged
+P10724,71,Female,Emergency,06-03-2025,14-03-2025,,11461.29,Cash,Discharged
+P10725,3,Male,Emergency,26-05-2025,03-06-2025,Fracture,26639.3,Cash,Admitted
+P10726,10,Female,General Medicine,12-08-2025,21-08-2025,Hypertension,10767.97,Cash,Discharged
+P10727,89,Male,General Medicine,27-08-2025,05-09-2025,Respiratory Infection,14049.95,UPI,Discharged
+P10728,35,Male,Neurology,26-06-2025,28-06-2025,Diabetes,10996.39,Insurance,Discharged
+P10729,80,Male,General Medicine,24-09-2025,26-09-2025,Migraine,10034.19,Cash,Discharged
+P10730,2,Female,Emergency,07-12-2025,10-12-2025,Fever,19536.25,UPI,Discharged
+P10731,24,Female,Orthopedics,09-10-2025,10-10-2025,Fever,7472.17,UPI,Discharged
+P10732,74,Female,Cardiology,04-03-2025,08-03-2025,Heart Disease,14459.19,UPI,Discharged
+P10733,38,Male,Emergency,05-08-2025,19-08-2025,Hypertension,19541.18,UPI,Discharged
+P10734,22,Female,Orthopedics,08-12-2025,12-12-2025,Respiratory Infection,11080.16,Card,Discharged
+P10735,26,Male,Emergency,11-11-2025,25-11-2025,Fracture,28879.7,UPI,Discharged
+P10736,43,Female,Emergency,10-10-2025,19-10-2025,Migraine,15061.5,Insurance,Discharged
+P10737,55,Female,General Medicine,26-06-2025,05-07-2025,Hypertension,35010.26,UPI,Admitted
+P10738,39,Female,General Medicine,08-04-2025,17-04-2025,Heart Disease,6984.16,UPI,Discharged
+P10739,29,Female,Emergency,15-04-2025,25-04-2025,Fever,19923.86,Card,Discharged
+P10740,20,Male,Emergency,09-04-2025,16-04-2025,Hypertension,17976.63,UPI,Discharged
+P10741,41,Female,General Medicine,07-11-2025,21-11-2025,Migraine,13256.71,Card,Admitted
+P10742,54,Female,Emergency,06-01-2025,08-01-2025,Respiratory Infection,16515.47,Card,Discharged
+P10743,20,Male,Cardiology,16-07-2025,26-07-2025,Respiratory Infection,21397.28,Cash,Discharged
+P10744,19,Male,General Medicine,17-12-2025,22-12-2025,Diabetes,23398.85,UPI,Transferred
+P10745,84,Female,Emergency,13-05-2025,17-05-2025,Migraine,15318.26,Card,Discharged
+P10746,66,Female,General Medicine,24-12-2025,05-01-2026,Heart Disease,20051.76,Insurance,Discharged
+P10747,30,Male,Emergency,16-09-2025,27-09-2025,Diabetes,10458.95,Card,Discharged
+P10748,53,Male,General Medicine,23-01-2025,31-01-2025,Diabetes,23621.53,UPI,Discharged
+P10749,34,Male,Pediatrics,22-02-2025,24-02-2025,Diabetes,31634.85,Card,Admitted
+P10750,22,Female,General Medicine,14-06-2025,20-06-2025,Hypertension,24510.36,UPI,Discharged
+P10751,67,Female,Orthopedics,21-07-2025,03-08-2025,Heart Disease,11008.97,UPI,Discharged
+P10752,6,Female,Pediatrics,24-03-2025,29-03-2025,Fever,9556.8,Insurance,Discharged
+P10753,79,Male,General Medicine,25-05-2025,06-06-2025,Respiratory Infection,45611.43,Card,Admitted
+P10754,27,Male,Orthopedics,26-03-2025,28-03-2025,Hypertension,30612.84,UPI,Discharged
+P10755,10,Male,Orthopedics,19-03-2025,30-03-2025,Fever,23440.81,UPI,Discharged
+P10756,73,Female,General Medicine,01-01-2025,11-01-2025,Respiratory Infection,32655.39,UPI,Discharged
+P10757,48,Male,Neurology,20-02-2025,21-02-2025,Heart Disease,16240.6,Card,Discharged
+P10758,70,Female,Cardiology,22-06-2025,30-06-2025,Heart Disease,23229.73,UPI,Discharged
+P10759,59,Male,Orthopedics,24-07-2025,26-07-2025,Migraine,28731.14,Card,Discharged
+P10760,59,Female,Orthopedics,17-09-2025,24-09-2025,Respiratory Infection,14121.71,Insurance,Discharged
+P10761,2,Female,Orthopedics,15-10-2025,24-10-2025,Respiratory Infection,20630.65,UPI,Discharged
+P10762,29,Male,General Medicine,03-02-2025,12-02-2025,Heart Disease,27182.52,Cash,Discharged
+P10763,68,Female,Cardiology,14-12-2025,22-12-2025,Respiratory Infection,9185.64,UPI,Discharged
+P10764,65,Male,Cardiology,05-04-2025,16-04-2025,Fracture,13391.54,Insurance,Discharged
+P10765,83,Female,Neurology,13-03-2025,27-03-2025,Migraine,26885.08,UPI,Transferred
+P10766,26,Male,Emergency,08-02-2025,20-02-2025,Hypertension,18223.29,Cash,Discharged
+P10767,89,Male,Orthopedics,03-06-2025,13-06-2025,Hypertension,17019.72,Insurance,Discharged
+P10768,10,Female,General Medicine,07-09-2025,16-09-2025,Fever,16006.63,UPI,Discharged
+P10769,53,Male,,11-06-2025,13-06-2025,Hypertension,28250.68,Cash,Admitted
+P10770,79,Female,General Medicine,28-04-2025,04-05-2025,Diabetes,9743.46,Cash,Discharged
+P10771,59,Male,General Medicine,16-09-2025,20-09-2025,Respiratory Infection,12916.76,UPI,Discharged
+P10772,22,Male,Cardiology,02-11-2025,16-11-2025,Hypertension,7434.93,Card,Discharged
+P10773,51,Male,General Medicine,25-09-2025,29-09-2025,Fever,13894.69,UPI,Discharged
+P10774,48,Male,General Medicine,23-02-2025,28-02-2025,Fever,17775,Cash,Admitted
+P10775,21,Female,General Medicine,24-08-2025,05-09-2025,Diabetes,5206.3,Card,Discharged
+P10776,22,Male,General Medicine,10-08-2025,13-08-2025,Fever,10547.71,UPI,Discharged
+P10777,30,Male,General Medicine,08-09-2025,22-09-2025,Heart Disease,18209.33,Insurance,Admitted
+P10778,25,Female,General Medicine,09-11-2025,10-11-2025,Fracture,20469.24,Insurance,Discharged
+P10779,,Female,Cardiology,22-04-2025,30-04-2025,Heart Disease,36246.22,Insurance,Admitted
+P10780,65,Female,Orthopedics,12-09-2025,17-09-2025,Respiratory Infection,21988.79,UPI,Discharged
+P10781,45,Female,General Medicine,30-10-2025,02-11-2025,Respiratory Infection,15013.05,Card,Discharged
+P10782,68,Female,Cardiology,26-07-2025,05-08-2025,Respiratory Infection,17534.13,Insurance,Admitted
+P10783,7,Female,Cardiology,17-08-2025,31-08-2025,Migraine,17839.34,Cash,Discharged
+P10784,49,Male,General Medicine,07-12-2025,14-12-2025,Hypertension,12927.79,Insurance,Discharged
+P10785,9,Female,General Medicine,07-03-2025,14-03-2025,Fracture,18602.01,Card,Discharged
+P10786,36,Male,Orthopedics,16-03-2025,17-03-2025,Hypertension,12597.47,Card,Discharged
+P10787,83,Female,Pediatrics,13-04-2025,25-04-2025,Fracture,19068.69,Insurance,Discharged
+P10788,1,Male,General Medicine,11-07-2025,20-07-2025,Hypertension,15998.22,Cash,Discharged
+P10789,10,Male,General Medicine,09-09-2025,11-09-2025,Diabetes,14668.54,Cash,Discharged
+P10790,36,Male,Emergency,14-08-2025,19-08-2025,Heart Disease,14887.29,Insurance,Discharged
+P10791,73,Female,General Medicine,21-10-2025,03-11-2025,Fever,23783.53,Insurance,Transferred
+P10792,46,Female,General Medicine,02-11-2025,16-11-2025,Fever,22672.73,UPI,Discharged
+P10793,32,Female,Emergency,08-04-2025,13-04-2025,Heart Disease,14278.99,Insurance,Discharged
+P10794,32,Female,Neurology,04-12-2025,18-12-2025,Diabetes,23334.54,Cash,Discharged
+P10795,6,Male,Cardiology,13-10-2025,21-10-2025,Fracture,15838.47,Insurance,Discharged
+P10796,48,Female,Orthopedics,01-12-2025,15-12-2025,Heart Disease,15963.97,Cash,Discharged
+P10797,38,Male,General Medicine,13-12-2025,21-12-2025,Migraine,12933.78,UPI,Discharged
+P10798,17,Male,General Medicine,04-11-2025,18-11-2025,Fracture,34384.45,UPI,Admitted
+P10799,74,Female,Orthopedics,06-09-2025,13-09-2025,Fever,32619.54,Insurance,Admitted
+P10800,27,Female,General Medicine,15-06-2025,22-06-2025,Migraine,11504.45,Insurance,Discharged
+P10801,54,Female,Cardiology,01-12-2025,13-12-2025,Hypertension,13842.34,Card,Discharged
+P10802,50,Male,Emergency,30-01-2025,10-02-2025,Migraine,19802.72,Insurance,Discharged
+P10803,35,Female,Emergency,04-09-2025,10-09-2025,Fracture,21617.83,UPI,Discharged
+P10804,85,Male,General Medicine,16-04-2025,22-04-2025,Diabetes,9292.42,Cash,Discharged
+P10805,25,Female,Pediatrics,20-02-2025,03-03-2025,Hypertension,10174.14,Card,Discharged
+P10806,28,Male,Orthopedics,22-03-2025,31-03-2025,Fracture,2110.81,Insurance,Discharged
+P10807,15,Female,Emergency,13-05-2025,19-05-2025,Hypertension,21651.49,Insurance,Discharged
+P10808,4,Female,General Medicine,12-10-2025,24-10-2025,Migraine,7057.7,Card,Admitted
+P10809,73,Male,General Medicine,18-05-2025,31-05-2025,Fever,11557.92,UPI,Discharged
+P10810,27,Female,General Medicine,03-07-2025,16-07-2025,Fracture,25077.33,Cash,Discharged
+P10811,26,Female,Cardiology,26-11-2025,28-11-2025,Diabetes,24512.97,Card,Discharged
+P10812,19,Female,Cardiology,30-09-2025,02-10-2025,Heart Disease,33462.83,Insurance,Admitted
+P10813,17,Female,Neurology,06-12-2025,19-12-2025,Migraine,38923.05,Card,Transferred
+P10814,43,Female,Pediatrics,10-03-2025,15-03-2025,Fracture,54760.89,Insurance,Discharged
+P10815,41,Female,General Medicine,03-02-2025,07-02-2025,Diabetes,13632.18,Cash,Discharged
+P10816,42,Female,Cardiology,19-09-2025,30-09-2025,Fracture,11975.5,Cash,Admitted
+P10817,50,Male,General Medicine,22-02-2025,24-02-2025,Migraine,20182.89,Cash,Discharged
+P10818,84,Male,Emergency,24-07-2025,27-07-2025,Fracture,7538.78,UPI,Admitted
+P10819,40,Female,Emergency,06-05-2025,13-05-2025,Hypertension,14527.03,Insurance,Discharged
+P10820,39,Female,Emergency,23-08-2025,31-08-2025,Migraine,17750.43,UPI,Discharged
+P10821,23,Female,Emergency,12-02-2025,24-02-2025,Fracture,20943.38,Card,Discharged
+P10822,52,Male,General Medicine,28-08-2025,10-09-2025,Heart Disease,22066.64,Insurance,Discharged
+P10823,47,Male,General Medicine,21-04-2025,27-04-2025,Fever,14295.66,Insurance,Discharged
+P10824,63,Female,Orthopedics,06-09-2025,17-09-2025,Fracture,8200.77,UPI,Discharged
+P10825,69,Male,Emergency,31-05-2025,05-06-2025,Hypertension,9221.99,UPI,Admitted
+P10826,43,Female,General Medicine,02-07-2025,15-07-2025,Diabetes,4810.51,UPI,Discharged
+P10827,48,Female,General Medicine,02-12-2025,03-12-2025,Heart Disease,12205.93,Cash,Discharged
+P10828,34,Female,Neurology,05-04-2025,13-04-2025,Diabetes,7436.77,Insurance,Discharged
+P10829,40,Female,General Medicine,08-01-2025,11-01-2025,Heart Disease,12658.84,Insurance,Discharged
+P10830,75,Male,Cardiology,26-12-2025,01-01-2026,Diabetes,20082.28,UPI,Discharged
+P10831,61,Male,Pediatrics,03-07-2025,06-07-2025,Fever,8311.09,Card,Discharged
+P10832,50,Female,General Medicine,08-10-2025,15-10-2025,Hypertension,17248.6,Card,Discharged
+P10833,67,Male,General Medicine,14-07-2025,27-07-2025,Migraine,14215.66,Insurance,Discharged
+P10834,62,Male,Neurology,18-12-2025,01-01-2026,Diabetes,19558.78,Card,Transferred
+P10835,58,Female,Pediatrics,14-07-2025,21-07-2025,Heart Disease,21860.86,Cash,Discharged
+P10836,33,Male,Emergency,04-06-2025,16-06-2025,Hypertension,13756.44,UPI,Admitted
+P10837,75,Female,Cardiology,03-04-2025,12-04-2025,Fracture,16519.24,Insurance,Discharged
+P10838,16,Female,General Medicine,09-06-2025,14-06-2025,Fever,14244.78,UPI,Discharged
+P10839,82,Female,Neurology,02-03-2025,10-03-2025,Hypertension,12865.47,UPI,Admitted
+P10840,48,Female,Orthopedics,02-05-2025,12-05-2025,Hypertension,11245.86,Card,Discharged
+P10841,10,Male,General Medicine,20-02-2025,02-03-2025,Migraine,20867.02,Insurance,Discharged
+P10842,82,Female,Neurology,04-10-2025,12-10-2025,Hypertension,30565.76,Cash,Discharged
+P10843,38,Male,General Medicine,05-01-2025,06-01-2025,Migraine,28788.22,UPI,Discharged
+P10844,19,Female,General Medicine,02-04-2025,14-04-2025,Fever,7868.12,Insurance,Discharged
+P10845,36,Female,General Medicine,19-06-2025,24-06-2025,Fever,30288.43,Card,Admitted
+P10846,59,Male,Cardiology,13-11-2025,16-11-2025,Fracture,9858.35,Card,Discharged
+P10847,63,Female,Cardiology,22-01-2025,23-01-2025,Migraine,17753.91,Insurance,Discharged
+P10848,77,Male,Orthopedics,22-11-2025,26-11-2025,Migraine,19353.62,Card,Admitted
+P10849,46,Male,Pediatrics,01-01-2025,09-01-2025,Diabetes,6728.67,Card,Discharged
+P10850,3,Female,Emergency,13-05-2025,16-05-2025,Diabetes,15040.38,UPI,Discharged
+P10851,74,Female,General Medicine,21-08-2025,31-08-2025,Fracture,31214.47,UPI,Discharged
+P10852,65,Female,General Medicine,12-01-2025,14-01-2025,Fever,3815.55,Card,Discharged
+P10853,8,Female,General Medicine,12-12-2025,23-12-2025,Respiratory Infection,47349.65,Insurance,Discharged
+P10854,51,Female,General Medicine,15-02-2025,24-02-2025,Diabetes,4672.96,UPI,Discharged
+P10855,81,Female,Pediatrics,03-02-2025,13-02-2025,Hypertension,19108.42,Cash,Discharged
+P10856,73,Male,Pediatrics,19-03-2025,24-03-2025,Fever,6923.27,UPI,Discharged
+P10857,6,Male,Neurology,06-08-2025,20-08-2025,Respiratory Infection,20637.74,Cash,Discharged
+P10858,89,Female,General Medicine,28-10-2025,04-11-2025,Hypertension,28166.65,Insurance,Discharged
+P10859,39,Male,Cardiology,14-03-2025,25-03-2025,Heart Disease,24460.44,Insurance,Discharged
+P10860,60,Male,Orthopedics,09-10-2025,20-10-2025,Migraine,7061.34,Insurance,Discharged
+P10861,28,Female,General Medicine,06-09-2025,08-09-2025,Fever,26441.91,UPI,Discharged
+P10862,54,Female,Pediatrics,16-02-2025,25-02-2025,Heart Disease,14278.18,Cash,Admitted
+P10863,37,Male,Emergency,01-05-2025,14-05-2025,Fracture,7188.07,Card,Discharged
+P10864,9,Female,Cardiology,02-08-2025,11-08-2025,Migraine,31107.45,Insurance,Discharged
+P10865,82,Male,Neurology,27-08-2025,31-08-2025,Migraine,42006.92,,Discharged
+P10866,56,Female,Orthopedics,25-02-2025,01-03-2025,Hypertension,17299.42,Cash,Discharged
+P10867,59,Male,General Medicine,16-12-2025,22-12-2025,Heart Disease,13434,UPI,Discharged
+P10868,85,Male,Orthopedics,17-04-2025,27-04-2025,Migraine,10649.23,Card,Admitted
+P10869,2,Male,General Medicine,15-11-2025,25-11-2025,Diabetes,23681.23,Cash,Admitted
+P10870,61,Male,General Medicine,17-02-2025,27-02-2025,Fever,27064.8,UPI,Admitted
+P10871,58,Female,Pediatrics,02-03-2025,08-03-2025,Diabetes,13437.15,Cash,Admitted
+P10872,60,Female,Emergency,03-12-2025,15-12-2025,Hypertension,34446.81,Insurance,Admitted
+P10873,40,Male,Cardiology,26-01-2025,27-01-2025,Respiratory Infection,22701.95,Cash,Discharged
+P10874,36,Male,Cardiology,19-10-2025,02-11-2025,Hypertension,17198.24,Card,Discharged
+P10875,37,Female,Emergency,14-09-2025,28-09-2025,Fever,19422.78,Insurance,Admitted
+P10876,79,Female,Neurology,08-01-2025,17-01-2025,Migraine,9367.62,Insurance,Discharged
+P10877,18,Male,Pediatrics,23-04-2025,25-04-2025,Heart Disease,23547.38,Insurance,Discharged
+P10878,63,Male,General Medicine,21-12-2025,26-12-2025,Heart Disease,9720.17,Insurance,Discharged
+P10879,22,Male,Emergency,10-09-2025,19-09-2025,Fracture,12526.07,Card,Discharged
+P10880,11,Male,General Medicine,29-06-2025,03-07-2025,Hypertension,15880.13,Insurance,Discharged
+P10881,58,Male,Pediatrics,26-07-2025,06-08-2025,Fever,38720.63,UPI,Discharged
+P10882,57,Female,General Medicine,30-10-2025,02-11-2025,Fracture,18638.55,UPI,Discharged
+P10883,77,Male,Pediatrics,07-05-2025,14-05-2025,Migraine,10263.82,Cash,Admitted
+P10884,4,Female,General Medicine,25-02-2025,03-03-2025,Respiratory Infection,19459.57,Cash,Discharged
+P10885,86,Female,Cardiology,02-08-2025,10-08-2025,Hypertension,22025.28,UPI,Admitted
+P10886,7,Female,Cardiology,14-01-2025,17-01-2025,Respiratory Infection,29267.01,Insurance,Discharged
+P10887,61,Male,General Medicine,28-01-2025,02-02-2025,Fever,16291.61,Insurance,Discharged
+P10888,54,Female,Pediatrics,19-03-2025,29-03-2025,Respiratory Infection,11123.99,UPI,Discharged
+P10889,88,Female,Emergency,04-08-2025,08-08-2025,Respiratory Infection,43806.48,Card,Discharged
+P10890,68,Female,Emergency,31-12-2025,13-01-2026,Fever,19481.09,Insurance,Discharged
+P10891,79,Female,General Medicine,03-06-2025,07-06-2025,Fever,10299.32,UPI,Admitted
+P10892,1,Male,Pediatrics,14-01-2025,18-01-2025,Hypertension,16217.06,Insurance,Discharged
+P10893,55,Male,Pediatrics,06-07-2025,16-07-2025,Respiratory Infection,12529.5,Cash,Transferred
+P10894,3,Female,Cardiology,08-11-2025,16-11-2025,Fracture,30142.09,Cash,Discharged
+P10895,78,Female,General Medicine,07-01-2025,13-01-2025,Fever,21920.14,Cash,Discharged
+P10896,38,Male,Pediatrics,03-01-2025,06-01-2025,Migraine,13948.47,UPI,Discharged
+P10897,1,Male,Emergency,21-04-2025,01-05-2025,Respiratory Infection,27072.83,Card,Discharged
+P10898,38,Male,Pediatrics,26-08-2025,31-08-2025,Fever,15540.67,Cash,Discharged
+P10899,85,Female,Cardiology,29-12-2025,04-01-2026,Fracture,16023.39,UPI,Discharged
+P10900,29,Male,Orthopedics,27-08-2025,01-09-2025,Heart Disease,10955.99,Cash,Discharged
+P10901,5,Female,General Medicine,01-10-2025,07-10-2025,Hypertension,10908.15,Cash,Discharged
+P10902,74,Female,Neurology,21-10-2025,29-10-2025,Respiratory Infection,42354.67,Card,Discharged
+P10903,21,Male,Neurology,15-08-2025,22-08-2025,Heart Disease,26441.62,Card,Discharged
+P10904,71,Female,General Medicine,15-01-2025,20-01-2025,Fever,5293.51,Insurance,Discharged
+P10905,67,Male,Emergency,11-07-2025,21-07-2025,Fever,9588.98,UPI,Discharged
+P10906,47,Female,General Medicine,29-04-2025,05-05-2025,Migraine,8486.5,UPI,Discharged
+P10907,84,Male,Emergency,28-01-2025,11-02-2025,Migraine,17021.6,Insurance,Discharged
+P10908,83,Female,Cardiology,21-07-2025,25-07-2025,Respiratory Infection,13176.75,Insurance,Discharged
+P10909,35,Female,General Medicine,08-02-2025,20-02-2025,Heart Disease,33120.79,Insurance,Discharged
+P10910,68,Male,Cardiology,30-09-2025,09-10-2025,Heart Disease,13842.6,Card,Admitted
+P10911,69,Male,Cardiology,19-08-2025,01-09-2025,Fever,40201.47,Cash,Discharged
+P10912,1,Male,General Medicine,27-03-2025,31-03-2025,Respiratory Infection,15788.53,UPI,Discharged
+P10913,68,Male,Orthopedics,06-05-2025,07-05-2025,Fever,44540.5,Cash,Discharged
+P10914,12,Female,Orthopedics,27-10-2025,03-11-2025,Migraine,14817.17,Cash,Transferred
+P10915,60,Male,Neurology,25-01-2025,01-02-2025,Fracture,14970.84,Insurance,Discharged
+P10916,27,Male,General Medicine,25-05-2025,29-05-2025,Diabetes,26151.56,Insurance,Admitted
+P10917,56,Female,Orthopedics,13-01-2025,26-01-2025,Diabetes,24276.06,Cash,Discharged
+P10918,23,Male,General Medicine,31-07-2025,14-08-2025,Fever,7677.41,Cash,Discharged
+P10919,25,Male,Pediatrics,25-01-2025,28-01-2025,Heart Disease,17233.32,Card,Admitted
+P10920,21,Female,General Medicine,09-03-2025,17-03-2025,Migraine,13111.77,Insurance,Discharged
+P10921,61,Male,Emergency,08-03-2025,13-03-2025,Hypertension,12633.74,Card,Discharged
+P10922,63,Male,Pediatrics,21-08-2025,31-08-2025,Hypertension,17190.56,Insurance,Discharged
+P10923,52,Male,Orthopedics,19-04-2025,26-04-2025,Diabetes,,Insurance,Discharged
+P10924,88,Male,Cardiology,26-05-2025,30-05-2025,Fracture,18127.77,UPI,Discharged
+P10925,25,Male,General Medicine,21-04-2025,25-04-2025,Diabetes,9346.01,Card,Discharged
+P10926,55,Male,General Medicine,16-08-2025,24-08-2025,,6641.65,Cash,Discharged
+P10927,46,Female,Emergency,21-04-2025,05-05-2025,Fracture,26652.77,Insurance,Admitted
+P10928,32,Male,Emergency,03-02-2025,11-02-2025,Hypertension,28704.75,UPI,Discharged
+P10929,55,Female,General Medicine,21-04-2025,23-04-2025,Heart Disease,25830.77,Cash,Discharged
+P10930,5,Female,Orthopedics,21-09-2025,05-10-2025,Migraine,16797.62,Insurance,Discharged
+P10931,36,Female,Pediatrics,24-08-2025,26-08-2025,Migraine,13569.36,Cash,Transferred
+P10932,49,Female,Pediatrics,24-03-2025,27-03-2025,Fever,11724.63,Cash,Discharged
+P10933,58,Male,General Medicine,11-02-2025,23-02-2025,,10554.59,Insurance,Discharged
+P10934,39,Male,General Medicine,11-04-2025,23-04-2025,Fever,15797.62,Card,Admitted
+P10935,80,Male,General Medicine,06-01-2025,09-01-2025,Migraine,28354.44,UPI,Admitted
+P10936,85,Female,Emergency,29-06-2025,30-06-2025,Hypertension,11190.88,Insurance,Discharged
+P10937,61,Male,Orthopedics,09-10-2025,23-10-2025,Migraine,28378.67,Insurance,Discharged
+P10938,9,Male,Orthopedics,16-11-2025,19-11-2025,Fracture,6851.88,Insurance,Discharged
+P10939,6,Male,Emergency,14-08-2025,20-08-2025,Heart Disease,18610.19,Insurance,Discharged
+P10940,35,Female,Pediatrics,11-11-2025,19-11-2025,Heart Disease,20592.76,Cash,Admitted
+P10941,39,Female,Emergency,31-12-2025,13-01-2026,Respiratory Infection,12405.7,UPI,Admitted
+P10942,22,Male,Cardiology,17-08-2025,29-08-2025,Migraine,9002.79,UPI,Discharged
+P10943,41,Female,General Medicine,16-10-2025,30-10-2025,Migraine,24917.47,Cash,Discharged
+P10944,5,Female,Emergency,30-05-2025,09-06-2025,Heart Disease,16863.65,Cash,Discharged
+P10945,42,Male,Cardiology,04-10-2025,10-10-2025,Respiratory Infection,51243.24,Cash,Transferred
+P10946,87,Female,General Medicine,17-07-2025,22-07-2025,Fracture,28569,,Discharged
+P10947,81,Female,Cardiology,11-03-2025,15-03-2025,Diabetes,28681.85,Insurance,Discharged
+P10948,76,Male,General Medicine,22-04-2025,25-04-2025,Migraine,3267.81,UPI,Discharged
+P10949,87,Female,Orthopedics,04-01-2025,17-01-2025,Heart Disease,11313.61,UPI,Discharged
+P10950,80,Female,Emergency,16-12-2025,20-12-2025,Fever,8401.19,Insurance,Discharged
+P10951,67,Female,Emergency,27-11-2025,11-12-2025,Migraine,4640.52,Insurance,Admitted
+P10952,30,Female,Emergency,14-11-2025,21-11-2025,Fever,16171.97,Insurance,Discharged
+P10953,57,Female,General Medicine,16-12-2025,17-12-2025,Fracture,24608.52,Insurance,Discharged
+P10954,86,Female,Cardiology,05-04-2025,12-04-2025,Migraine,9512.94,Insurance,Discharged
+P10955,73,Female,General Medicine,01-06-2025,02-06-2025,Heart Disease,4823.27,Insurance,Admitted
+P10956,29,Female,Emergency,07-11-2025,09-11-2025,Fracture,9964.82,Insurance,Discharged
+P10957,37,Male,Cardiology,17-05-2025,21-05-2025,Fracture,15161.4,Insurance,Discharged
+P10958,87,Male,Pediatrics,04-09-2025,05-09-2025,Diabetes,14578.37,Insurance,Admitted
+P10959,13,Male,Pediatrics,31-08-2025,11-09-2025,Migraine,16591.04,Insurance,Admitted
+P10960,32,Male,Cardiology,31-01-2025,12-02-2025,Fever,20377.27,Insurance,Admitted
+P10961,46,Female,Cardiology,09-02-2025,20-02-2025,Fever,16379.89,Insurance,Discharged
+P10962,23,Male,Emergency,17-08-2025,28-08-2025,Migraine,25292.44,Insurance,Discharged
+P10963,45,Male,Emergency,05-02-2025,14-02-2025,Respiratory Infection,9614.2,Insurance,Discharged
+P10964,17,Female,General Medicine,11-08-2025,23-08-2025,Diabetes,14257.57,Card,Discharged
+P10965,85,Female,Orthopedics,06-01-2025,12-01-2025,Diabetes,22071.84,Cash,Discharged
+P10966,66,Female,Emergency,18-11-2025,01-12-2025,Diabetes,19043.53,Insurance,Discharged
+P10967,6,Female,General Medicine,08-08-2025,09-08-2025,Fever,37863.97,Insurance,Discharged
+P10968,18,Female,Cardiology,16-03-2025,17-03-2025,Fracture,9844.37,UPI,Discharged
+P10969,22,Male,General Medicine,04-01-2025,10-01-2025,Heart Disease,22272.11,Card,Discharged
+P10970,33,Female,Orthopedics,01-12-2025,05-12-2025,Respiratory Infection,11644.64,Card,Transferred
+P10971,30,Male,General Medicine,14-05-2025,18-05-2025,Diabetes,10947.89,Cash,Discharged
+P10972,81,Male,Cardiology,28-04-2025,09-05-2025,Fever,27720.2,Cash,Discharged
+P10973,32,Female,General Medicine,04-04-2025,10-04-2025,Fever,16283.9,UPI,Discharged
+P10974,42,Male,Orthopedics,03-03-2025,17-03-2025,Fracture,18878.69,Card,Discharged
+P10975,78,Male,Emergency,13-07-2025,25-07-2025,Migraine,12138.11,Insurance,Discharged
+P10976,10,Female,Neurology,01-12-2025,12-12-2025,Migraine,12523.96,Insurance,Discharged
+P10977,36,Male,Emergency,22-07-2025,29-07-2025,Heart Disease,6562.83,Insurance,Discharged
+P10978,34,Male,Pediatrics,26-01-2025,04-02-2025,Heart Disease,18119.38,UPI,Admitted
+P10979,73,Male,General Medicine,22-06-2025,02-07-2025,Diabetes,9086.33,Insurance,Discharged
+P10980,28,Female,General Medicine,27-10-2025,01-11-2025,Heart Disease,15308.79,Card,Discharged
+P10981,11,Female,Emergency,13-05-2025,22-05-2025,Diabetes,25278.83,UPI,Discharged
+P10982,78,Female,Cardiology,22-11-2025,26-11-2025,Respiratory Infection,5472.6,UPI,Discharged
+P10983,39,Male,General Medicine,28-04-2025,11-05-2025,Heart Disease,58057.15,Cash,Discharged
+P10984,47,Female,Pediatrics,20-11-2025,30-11-2025,Fracture,10823.54,Cash,Discharged
+P10985,19,Male,General Medicine,02-10-2025,04-10-2025,Diabetes,15540.42,Cash,Discharged
+P10986,15,Female,General Medicine,31-07-2025,03-08-2025,Fracture,18866.88,Card,Admitted
+P10987,28,Male,Emergency,13-08-2025,26-08-2025,Fever,10623.38,UPI,Admitted
+P10988,24,Female,Emergency,20-01-2025,31-01-2025,Diabetes,12766.91,Insurance,Admitted
+P10989,72,Female,Cardiology,23-04-2025,24-04-2025,Fever,28169.37,Card,Discharged
+P10990,9,Male,Emergency,20-05-2025,03-06-2025,Hypertension,23920.64,UPI,Discharged
+P10991,47,Female,Pediatrics,16-02-2025,02-03-2025,Fracture,14417.5,Insurance,Admitted
+P10992,33,Male,Neurology,01-01-2025,07-01-2025,Hypertension,16484.25,Card,Discharged
+P10993,62,Female,General Medicine,31-03-2025,13-04-2025,Diabetes,17735.84,UPI,Admitted
+P10994,19,Female,General Medicine,22-05-2025,28-05-2025,Fever,21784.23,UPI,Discharged
+P10995,67,Male,Pediatrics,16-11-2025,17-11-2025,Diabetes,22569.25,UPI,Discharged
+P10996,74,Male,Emergency,07-02-2025,18-02-2025,Hypertension,22271.52,Insurance,Discharged
+P10997,40,Male,Pediatrics,20-10-2025,02-11-2025,Diabetes,13213.03,UPI,Discharged
+P10998,47,Female,General Medicine,19-05-2025,22-05-2025,Respiratory Infection,17445.54,Cash,Admitted
+P10999,65,Male,General Medicine,22-12-2025,27-12-2025,Migraine,26682.72,Insurance,Admitted
+P11000,29,Female,Emergency,29-11-2025,02-12-2025,Hypertension,43750.55,UPI,Discharged
+P11001,50,Male,General Medicine,16-09-2025,26-09-2025,Diabetes,17195.89,Card,Discharged
+P11002,13,Male,Orthopedics,10-06-2025,13-06-2025,Fever,12267.94,UPI,Admitted
+P11003,1,Male,General Medicine,27-06-2025,11-07-2025,Diabetes,10512.49,Insurance,Discharged
+P11004,34,Male,General Medicine,10-01-2025,20-01-2025,Fever,22358.12,Cash,Discharged
+P11005,48,Male,Pediatrics,18-09-2025,21-09-2025,Migraine,6380.27,UPI,Discharged
+P11006,77,Male,Pediatrics,18-05-2025,23-05-2025,Diabetes,22470.94,Cash,Discharged
+P11007,48,Female,Cardiology,21-06-2025,04-07-2025,Heart Disease,22668.41,Insurance,Discharged
+P11008,49,Male,General Medicine,13-01-2025,18-01-2025,Heart Disease,12508.11,Cash,Discharged
+P11009,64,Female,Neurology,17-06-2025,21-06-2025,Migraine,18654.46,UPI,Admitted
+P11010,61,Male,General Medicine,10-05-2025,11-05-2025,Hypertension,14670.16,Card,Discharged
+P11011,29,Male,Orthopedics,25-03-2025,30-03-2025,Fever,7474.56,Card,Discharged
+P11012,39,Male,Emergency,17-11-2025,27-11-2025,Heart Disease,21651.93,Cash,Discharged
+P11013,88,Female,General Medicine,15-11-2025,20-11-2025,Respiratory Infection,20683.59,UPI,Discharged
+P11014,26,Female,Emergency,11-04-2025,15-04-2025,Hypertension,13045.74,Insurance,Discharged
+P11015,17,Male,General Medicine,25-11-2025,01-12-2025,Fever,43409.1,UPI,Discharged
+P11016,71,Female,Orthopedics,30-09-2025,10-10-2025,Migraine,16555.05,Insurance,Discharged
+P11017,13,Male,Cardiology,22-09-2025,26-09-2025,Heart Disease,5148.39,Insurance,Discharged
+P11018,69,Male,Emergency,07-02-2025,21-02-2025,Fracture,27375.81,Cash,Discharged
+P11019,26,Female,General Medicine,04-04-2025,11-04-2025,Diabetes,24267.33,Insurance,Discharged
+P11020,49,Female,Cardiology,05-04-2025,12-04-2025,Migraine,25696.24,Card,Discharged
+P11021,67,Female,Emergency,01-11-2025,03-11-2025,Fever,9372.47,UPI,Discharged
+P11022,7,Female,Orthopedics,10-03-2025,13-03-2025,Fever,18402.66,UPI,Discharged
+P11023,58,Male,Orthopedics,14-11-2025,15-11-2025,Fever,16410.96,Insurance,Discharged
+P11024,49,Female,General Medicine,24-08-2025,01-09-2025,Fever,15046.65,Cash,Transferred
+P11025,53,Female,Pediatrics,30-11-2025,09-12-2025,Diabetes,30930.95,UPI,Discharged
+P11026,65,Male,General Medicine,17-05-2025,21-05-2025,Hypertension,16672.9,Cash,Admitted
+P11027,62,Female,General Medicine,17-03-2025,23-03-2025,Respiratory Infection,13288.98,Cash,Discharged
+P11028,17,Female,Orthopedics,04-02-2025,13-02-2025,Fracture,13218.15,Cash,Admitted
+P11029,43,Female,Cardiology,01-01-2025,07-01-2025,Diabetes,8970.18,Insurance,Discharged
+P11030,25,Female,Emergency,23-10-2025,06-11-2025,Fever,17510.38,UPI,Discharged
+P11031,3,Male,Emergency,16-11-2025,28-11-2025,Diabetes,32108.06,Card,Discharged
+P11032,79,Male,Pediatrics,01-03-2025,13-03-2025,Migraine,13869.03,Cash,Discharged
+P11033,29,Female,Neurology,16-11-2025,28-11-2025,Respiratory Infection,18926.39,Insurance,Discharged
+P11034,32,Female,Pediatrics,15-12-2025,24-12-2025,Fever,14922.88,UPI,Discharged
+P11035,26,Male,General Medicine,24-11-2025,28-11-2025,Fracture,15767.17,Card,Discharged
+P11036,16,Female,Neurology,24-09-2025,02-10-2025,Fever,24808.36,Cash,Discharged
+P11037,25,Female,General Medicine,27-12-2025,05-01-2026,Respiratory Infection,8903.7,UPI,Admitted
+P11038,54,Female,Cardiology,17-08-2025,21-08-2025,Fracture,6766.4,UPI,Discharged
+P11039,28,Female,Neurology,27-09-2025,02-10-2025,Respiratory Infection,27396.34,UPI,Discharged
+P11040,73,Female,Orthopedics,12-11-2025,26-11-2025,Fracture,12326.25,UPI,Discharged
+P11041,56,Female,Emergency,13-10-2025,21-10-2025,Hypertension,13373.14,Cash,Discharged
+P11042,65,Female,General Medicine,18-10-2025,30-10-2025,Heart Disease,48068.33,Cash,Discharged
+P11043,86,Female,Orthopedics,01-08-2025,11-08-2025,Hypertension,24191.69,,Discharged
+P11044,80,Female,General Medicine,14-06-2025,28-06-2025,Diabetes,10116.88,Card,Admitted
+P11045,41,Male,Pediatrics,05-01-2025,11-01-2025,Diabetes,28347.39,UPI,Admitted
+P11046,51,Male,Neurology,05-12-2025,17-12-2025,Fracture,24472.78,UPI,Discharged
+P11047,71,Male,Orthopedics,19-03-2025,26-03-2025,Fever,1913.59,UPI,Discharged
+P11048,78,Female,General Medicine,03-03-2025,06-03-2025,Heart Disease,17841.61,Cash,Discharged
+P11049,29,Female,General Medicine,12-05-2025,19-05-2025,Migraine,9157.18,UPI,Discharged
+P11050,83,Male,General Medicine,30-03-2025,11-04-2025,Migraine,15750.16,UPI,Discharged
+P11051,19,Female,Pediatrics,25-08-2025,08-09-2025,Fever,43820.26,Cash,Discharged
+P11052,66,Male,Emergency,11-02-2025,19-02-2025,Fever,25331.22,UPI,Discharged
+P11053,41,Female,General Medicine,30-03-2025,09-04-2025,Hypertension,27031.61,Card,Discharged
+P11054,45,Male,Neurology,23-10-2025,29-10-2025,Migraine,14938.7,Cash,Discharged
+P11055,15,Male,Emergency,24-11-2025,04-12-2025,Fracture,27093.67,Insurance,Admitted
+P11056,3,Male,Orthopedics,22-10-2025,31-10-2025,Respiratory Infection,11030.64,Insurance,Discharged
+P11057,11,Female,Pediatrics,14-04-2025,27-04-2025,Diabetes,17725.66,Cash,Discharged
+P11058,53,Male,Neurology,14-01-2025,20-01-2025,Respiratory Infection,24752.02,Card,Discharged
+P11059,46,Female,General Medicine,15-10-2025,27-10-2025,Hypertension,24376.7,UPI,Discharged
+P11060,30,Female,General Medicine,28-06-2025,07-07-2025,Migraine,7019.13,Insurance,Discharged
+P11061,57,Female,General Medicine,05-05-2025,18-05-2025,Heart Disease,39061.37,UPI,Discharged
+P11062,18,Female,Emergency,19-12-2025,23-12-2025,Fever,9880.13,Cash,Discharged
+P11063,51,Female,Emergency,23-01-2025,31-01-2025,Heart Disease,52382.55,Cash,Discharged
+P11064,48,Female,Neurology,04-03-2025,15-03-2025,Heart Disease,25119.96,Card,Admitted
+P11065,66,Female,General Medicine,23-05-2025,27-05-2025,Migraine,24054.48,Card,Discharged
+P11066,8,Male,Cardiology,02-06-2025,04-06-2025,Fracture,10361.32,Card,Discharged
+P11067,22,Male,General Medicine,25-05-2025,04-06-2025,Hypertension,12606.63,Cash,Admitted
+P11068,6,Male,General Medicine,13-08-2025,24-08-2025,Fever,37491.46,Insurance,Admitted
+P11069,76,Female,Pediatrics,05-11-2025,14-11-2025,Respiratory Infection,35070.29,Card,Discharged
+P11070,57,Female,Emergency,14-04-2025,19-04-2025,Fracture,15158.74,UPI,Discharged
+P11071,36,Female,Emergency,14-04-2025,18-04-2025,Respiratory Infection,14490.19,Cash,Discharged
+P11072,79,Female,Pediatrics,08-02-2025,10-02-2025,Diabetes,14714.28,Insurance,Discharged
+P11073,57,Male,General Medicine,17-07-2025,18-07-2025,Hypertension,28443.63,Cash,Discharged
+P11074,49,Female,General Medicine,14-05-2025,25-05-2025,Fracture,27078.36,Insurance,Discharged
+P11075,45,Male,Cardiology,08-03-2025,15-03-2025,Fracture,20076.06,Cash,Discharged
+P11076,82,Female,Neurology,28-06-2025,04-07-2025,Respiratory Infection,17815.51,UPI,Discharged
+P11077,66,Male,Neurology,11-02-2025,13-02-2025,Fever,15067.87,UPI,Discharged
+P11078,77,Female,Cardiology,15-01-2025,23-01-2025,Diabetes,50275.51,Insurance,Discharged
+P11079,45,Male,Cardiology,21-04-2025,02-05-2025,Respiratory Infection,7487.03,Cash,Discharged
+P11080,79,Female,General Medicine,06-06-2025,10-06-2025,Fracture,13464.32,Insurance,Discharged
+P11081,20,Male,General Medicine,16-10-2025,24-10-2025,Hypertension,19376.1,UPI,Discharged
+P11082,64,Female,Cardiology,19-08-2025,26-08-2025,Fracture,6622.04,Cash,Discharged
+P11083,67,Male,General Medicine,06-06-2025,11-06-2025,Migraine,12152.73,Insurance,Discharged
+P11084,83,Male,Cardiology,07-02-2025,17-02-2025,Hypertension,43535.98,UPI,Discharged
+P11085,3,Female,Emergency,07-04-2025,17-04-2025,Hypertension,26181.18,UPI,Discharged
+P11086,54,Male,Orthopedics,16-10-2025,28-10-2025,Fracture,12099.6,UPI,Admitted
+P11087,78,Female,General Medicine,11-09-2025,19-09-2025,Fever,11901.59,UPI,Transferred
+P11088,64,Female,General Medicine,15-07-2025,29-07-2025,Hypertension,7520.54,UPI,Discharged
+P11089,40,Female,Orthopedics,27-03-2025,05-04-2025,Migraine,13021.71,Insurance,Admitted
+P11090,59,Male,Cardiology,18-11-2025,23-11-2025,Respiratory Infection,21900.96,Insurance,Discharged
+P11091,55,Male,Cardiology,10-01-2025,20-01-2025,Fever,20024.41,UPI,Discharged
+P11092,62,Female,Orthopedics,05-01-2025,10-01-2025,Fever,13392.22,Insurance,Transferred
+P11093,4,Female,Orthopedics,03-05-2025,05-05-2025,Fever,9800.15,UPI,Discharged
+P11094,60,Male,Neurology,26-11-2025,01-12-2025,Hypertension,14962.41,Cash,Discharged
+P11095,75,Male,Cardiology,19-12-2025,22-12-2025,Fever,14789.11,Card,Discharged
+P11096,30,Male,Neurology,28-04-2025,05-05-2025,Fracture,24506.21,Card,Discharged
+P11097,2,Female,Cardiology,21-10-2025,31-10-2025,Fever,18568.92,Card,Discharged
+P11098,62,Female,General Medicine,08-06-2025,13-06-2025,Migraine,17311.1,Card,Discharged
+P11099,49,Female,Orthopedics,30-10-2025,07-11-2025,Diabetes,29693.72,Insurance,Discharged
+P11100,9,Female,Orthopedics,16-08-2025,17-08-2025,Migraine,34909.59,Cash,Discharged
+P11101,31,Female,Emergency,31-12-2025,03-01-2026,Hypertension,19901.31,UPI,Discharged
+P11102,61,Male,Pediatrics,04-08-2025,07-08-2025,Fever,20152.05,Insurance,Transferred
+P11103,79,Female,Emergency,03-07-2025,12-07-2025,Fever,,Card,Admitted
+P11104,48,Male,Emergency,15-01-2025,20-01-2025,Fracture,10285.12,Card,Discharged
+P11105,25,Male,Orthopedics,06-06-2025,18-06-2025,Respiratory Infection,25485.18,Insurance,Discharged
+P11106,36,Female,Orthopedics,16-05-2025,25-05-2025,Fever,23041.18,UPI,Admitted
+P11107,8,Male,Orthopedics,18-09-2025,01-10-2025,Heart Disease,16177.38,UPI,Discharged
+P11108,73,Female,Emergency,06-06-2025,15-06-2025,Migraine,18598.33,UPI,Discharged
+P11109,58,Male,Neurology,16-02-2025,17-02-2025,Hypertension,28711.97,UPI,Discharged
+P11110,45,Female,General Medicine,20-11-2025,22-11-2025,Diabetes,31111.7,Insurance,Admitted
+P11111,62,Female,Neurology,28-11-2025,03-12-2025,Fever,3360.09,UPI,Discharged
+P11112,39,Male,General Medicine,22-06-2025,26-06-2025,Diabetes,11664.84,UPI,Discharged
+P11113,58,Female,Cardiology,10-05-2025,20-05-2025,Fever,16149.93,UPI,Discharged
+P11114,81,Male,General Medicine,05-04-2025,14-04-2025,Hypertension,8960.28,Cash,Discharged
+P11115,83,Female,Pediatrics,25-04-2025,02-05-2025,Respiratory Infection,18850.53,UPI,Discharged
+P11116,64,Female,Emergency,31-08-2025,06-09-2025,Migraine,12002.3,Insurance,Discharged
+P11117,44,Female,General Medicine,19-10-2025,26-10-2025,Hypertension,19176.08,UPI,Discharged
+P11118,29,Male,General Medicine,09-10-2025,10-10-2025,Diabetes,12200.53,Cash,Discharged
+P11119,59,Male,General Medicine,26-10-2025,27-10-2025,Fever,12483.56,Card,Discharged
+P11120,71,Female,Pediatrics,10-10-2025,18-10-2025,Diabetes,19101.23,Card,Admitted
+P11121,9,Male,Cardiology,10-03-2025,23-03-2025,Migraine,26040.9,Card,Admitted
+P11122,6,Female,General Medicine,28-05-2025,10-06-2025,Heart Disease,22370.68,Cash,Discharged
+P11123,29,Male,General Medicine,11-01-2025,13-01-2025,Hypertension,16221.5,UPI,Discharged
+P11124,58,Male,Orthopedics,11-09-2025,23-09-2025,Diabetes,5426.04,Cash,Discharged
+P11125,17,Female,General Medicine,26-11-2025,06-12-2025,Diabetes,12320.15,Card,Discharged
+P11126,16,Female,Neurology,26-12-2025,06-01-2026,Migraine,11598.28,Cash,Discharged
+P11127,87,Female,General Medicine,07-02-2025,16-02-2025,Heart Disease,23744.3,Insurance,Discharged
+P11128,3,Female,Pediatrics,14-05-2025,21-05-2025,Fever,17895.93,Card,Discharged
+P11129,21,Female,General Medicine,19-07-2025,25-07-2025,Heart Disease,18237.55,Card,Discharged
+P11130,64,Male,Orthopedics,23-01-2025,24-01-2025,Diabetes,10549.72,Insurance,Admitted
+P11131,90,Male,General Medicine,30-10-2025,31-10-2025,Migraine,31734.66,Insurance,Discharged
+P11132,36,Female,Pediatrics,12-12-2025,14-12-2025,Fever,18174.24,Cash,Discharged
+P11133,86,Female,Emergency,29-10-2025,04-11-2025,Heart Disease,10198.6,Cash,Discharged
+P11134,62,Female,Emergency,29-12-2025,12-01-2026,Heart Disease,10607.92,Card,Admitted
+P11135,42,Male,Orthopedics,06-08-2025,12-08-2025,Heart Disease,19532.9,UPI,Admitted
+P11136,76,Female,Orthopedics,21-05-2025,23-05-2025,Respiratory Infection,9984.2,Card,Discharged
+P11137,42,Female,Neurology,14-04-2025,15-04-2025,Fever,11680.29,Insurance,Discharged
+P11138,61,Male,Pediatrics,29-07-2025,08-08-2025,Heart Disease,8713.38,Card,Discharged
+P11139,13,Male,General Medicine,21-04-2025,26-04-2025,Respiratory Infection,23647.06,Insurance,Discharged
+P11140,11,Male,Neurology,14-04-2025,19-04-2025,Hypertension,10116,Cash,Discharged
+P11141,54,Male,Cardiology,12-11-2025,,Migraine,34336.1,Cash,Discharged
+P11142,16,Female,General Medicine,20-06-2025,26-06-2025,Heart Disease,20773.43,Insurance,Discharged
+P11143,8,Male,General Medicine,22-12-2025,31-12-2025,Fever,8693.76,Card,Discharged
+P11144,59,Male,General Medicine,20-11-2025,22-11-2025,Respiratory Infection,22267.96,Cash,Discharged
+P11145,57,Female,Orthopedics,13-05-2025,23-05-2025,Respiratory Infection,31762.42,Insurance,Discharged
+P11146,40,Female,General Medicine,20-10-2025,22-10-2025,Hypertension,15856.51,UPI,Discharged
+P11147,59,Female,General Medicine,24-11-2025,27-11-2025,Fracture,33611.31,Card,Admitted
+P11148,2,Male,General Medicine,07-05-2025,20-05-2025,Migraine,20972.5,Insurance,Discharged
+P11149,76,Female,Orthopedics,16-04-2025,23-04-2025,Fracture,12009.16,UPI,Admitted
+P11150,10,Male,Neurology,02-04-2025,08-04-2025,Fever,43880.44,UPI,Discharged
+P11151,44,Male,Cardiology,14-10-2025,26-10-2025,Migraine,7398.42,Insurance,Transferred
+P11152,11,Male,General Medicine,20-02-2025,28-02-2025,Hypertension,13879.9,UPI,Admitted
+P11153,79,Female,General Medicine,29-01-2025,06-02-2025,Fever,16221.7,Cash,Discharged
+P11154,80,Male,Emergency,23-10-2025,29-10-2025,Migraine,40175.32,Insurance,Admitted
+P11155,81,Female,Orthopedics,24-10-2025,05-11-2025,Migraine,23922.23,Card,Discharged
+P11156,90,Female,Cardiology,02-08-2025,13-08-2025,Fracture,21926.95,Cash,Discharged
+P11157,2,Female,General Medicine,24-09-2025,04-10-2025,Fever,11018.02,Insurance,Discharged
+P11158,50,Male,Pediatrics,14-09-2025,17-09-2025,Hypertension,15544.01,Cash,Discharged
+P11159,,Male,Orthopedics,29-10-2025,01-11-2025,Hypertension,12162.89,Insurance,Discharged
+P11160,90,Male,General Medicine,11-04-2025,12-04-2025,Fever,21557.4,Insurance,Discharged
+P11161,23,Female,General Medicine,12-12-2025,19-12-2025,Fever,29264.23,Insurance,Discharged
+P11162,18,Male,Cardiology,20-04-2025,25-04-2025,Respiratory Infection,48873.87,Cash,Discharged
+P11163,62,Male,Emergency,01-07-2025,05-07-2025,Diabetes,12906.23,Cash,Discharged
+P11164,62,Male,Emergency,09-11-2025,19-11-2025,Fracture,7274.43,Insurance,Discharged
+P11165,38,Male,Orthopedics,01-01-2025,05-01-2025,Fever,14004.04,UPI,Discharged
+P11166,67,Male,Pediatrics,15-11-2025,29-11-2025,Fever,27280.55,Cash,Admitted
+P11167,38,Female,General Medicine,24-02-2025,28-02-2025,Diabetes,10280.12,Card,Discharged
+P11168,67,Female,Orthopedics,29-05-2025,04-06-2025,Diabetes,16526.38,UPI,Discharged
+P11169,61,Female,Pediatrics,05-11-2025,13-11-2025,Migraine,22067.67,Cash,Admitted
+P11170,1,Female,General Medicine,17-05-2025,25-05-2025,Heart Disease,13048.22,UPI,Discharged
+P11171,45,Male,Emergency,21-07-2025,26-07-2025,Hypertension,18578.42,Insurance,Discharged
+P11172,28,Female,General Medicine,09-11-2025,15-11-2025,Fracture,9729.58,Insurance,Discharged
+P11173,21,Male,Cardiology,27-04-2025,01-05-2025,Migraine,30278.49,Card,Discharged
+P11174,13,Female,Pediatrics,03-06-2025,15-06-2025,Fever,14567.79,Card,Transferred
+P11175,27,Female,Pediatrics,18-10-2025,01-11-2025,Diabetes,18302.52,Card,Discharged
+P11176,7,Female,Pediatrics,04-03-2025,15-03-2025,Respiratory Infection,5569.66,UPI,Discharged
+P11177,22,Male,General Medicine,01-09-2025,14-09-2025,Hypertension,8974.7,UPI,Discharged
+P11178,74,Male,Emergency,25-01-2025,03-02-2025,Migraine,26827.36,Insurance,Discharged
+P11179,53,Female,Orthopedics,31-03-2025,08-04-2025,Respiratory Infection,12949.32,UPI,Admitted
+P11180,79,Male,Orthopedics,16-03-2025,26-03-2025,Hypertension,10007.35,Card,Admitted
+P11181,79,Female,Emergency,21-10-2025,02-11-2025,Heart Disease,6929.12,Insurance,Admitted
+P11182,4,Female,Neurology,29-07-2025,08-08-2025,Heart Disease,29993.91,Insurance,Discharged
+P11183,23,Female,General Medicine,13-12-2025,14-12-2025,Respiratory Infection,23404.53,UPI,Discharged
+P11184,70,Male,Neurology,17-01-2025,19-01-2025,Diabetes,22636.5,Card,Discharged
+P11185,88,Female,General Medicine,08-05-2025,17-05-2025,Migraine,35876.88,Insurance,Discharged
+P11186,84,Female,General Medicine,30-12-2025,07-01-2026,Migraine,13887.34,UPI,Discharged
+P11187,84,Female,Cardiology,08-09-2025,22-09-2025,Heart Disease,7326.3,Insurance,Discharged
+P11188,76,Male,Emergency,28-06-2025,01-07-2025,Hypertension,17029.34,Cash,Admitted
+P11189,33,Female,General Medicine,01-07-2025,09-07-2025,Respiratory Infection,39286.49,Insurance,Discharged
+P11190,28,Male,Pediatrics,01-06-2025,13-06-2025,Diabetes,17210.31,Card,Discharged
+P11191,8,Female,General Medicine,25-01-2025,26-01-2025,Fever,28885.01,Insurance,Discharged
+P11192,1,Male,Pediatrics,29-06-2025,09-07-2025,Migraine,7493.23,UPI,Discharged
+P11193,37,Female,Orthopedics,17-07-2025,21-07-2025,Fever,10894.45,Insurance,Discharged
+P11194,63,Female,Pediatrics,10-12-2025,13-12-2025,Diabetes,26031.83,Insurance,Discharged
+P11195,22,Male,General Medicine,10-06-2025,16-06-2025,Heart Disease,18111.63,Insurance,Discharged
+P11196,70,Male,Neurology,26-06-2025,03-07-2025,Migraine,15704,Cash,Discharged
+P11197,21,Female,Emergency,12-10-2025,16-10-2025,Migraine,28687.17,Card,Discharged
+P11198,35,Male,Pediatrics,04-03-2025,11-03-2025,Respiratory Infection,25857.95,UPI,Discharged
+P11199,79,Female,Orthopedics,30-05-2025,08-06-2025,Fever,18362.53,Insurance,Discharged
+P11200,5,Female,Emergency,03-06-2025,14-06-2025,Heart Disease,3391.12,Cash,Discharged
+P11201,60,Female,General Medicine,05-06-2025,07-06-2025,Respiratory Infection,16657.78,Cash,Discharged
+P11202,46,Male,Pediatrics,18-02-2025,01-03-2025,Fracture,20647.6,Insurance,Admitted
+P11203,50,Female,Emergency,03-12-2025,06-12-2025,Fever,5664.2,UPI,Discharged
+P11204,48,Male,General Medicine,25-03-2025,30-03-2025,Fever,20294.85,UPI,Discharged
+P11205,6,Female,Cardiology,27-12-2025,30-12-2025,Fracture,29335.7,Card,Admitted
+P11206,89,Male,General Medicine,26-06-2025,07-07-2025,Diabetes,16641.5,UPI,Discharged
+P11207,56,Male,Orthopedics,28-05-2025,05-06-2025,Diabetes,9373.08,Insurance,Discharged
+P11208,59,Female,Pediatrics,28-04-2025,10-05-2025,Migraine,3695.99,Insurance,Discharged
+P11209,29,Male,Cardiology,08-12-2025,18-12-2025,Hypertension,20499.57,Insurance,Discharged
+P11210,71,Female,Cardiology,04-03-2025,12-03-2025,Respiratory Infection,6110.94,Cash,Admitted
+P11211,77,Female,General Medicine,08-07-2025,16-07-2025,Hypertension,22542.96,UPI,Discharged
+P11212,18,Female,Cardiology,26-12-2025,07-01-2026,Migraine,38337.98,Cash,Discharged
+P11213,2,Female,General Medicine,18-02-2025,02-03-2025,Hypertension,11176.01,Card,Discharged
+P11214,8,Female,Emergency,23-11-2025,02-12-2025,Fever,14760.8,UPI,Discharged
+P11215,75,Male,General Medicine,14-09-2025,18-09-2025,Fever,39433.79,Insurance,Discharged
+P11216,54,Female,Emergency,12-08-2025,17-08-2025,Fracture,17698.55,UPI,Discharged
+P11217,38,Male,Orthopedics,21-05-2025,26-05-2025,Fracture,13019.05,Insurance,Discharged
+P11218,48,Male,Cardiology,03-08-2025,11-08-2025,Migraine,27279.5,Card,Discharged
+P11219,27,Female,Pediatrics,30-07-2025,06-08-2025,Migraine,13406.02,UPI,Admitted
+P11220,20,Male,Orthopedics,14-11-2025,23-11-2025,Heart Disease,10765.56,Cash,Discharged
+P11221,12,Female,Orthopedics,01-02-2025,15-02-2025,Migraine,22368.63,UPI,Discharged
+P11222,43,Male,General Medicine,07-06-2025,15-06-2025,Fever,28374.05,Card,Discharged
+P11223,61,Male,Cardiology,12-10-2025,14-10-2025,Hypertension,2948.35,UPI,Admitted
+P11224,31,Male,General Medicine,01-11-2025,11-11-2025,Respiratory Infection,10722.62,Cash,Discharged
+P11225,61,Female,General Medicine,13-10-2025,25-10-2025,Heart Disease,18457.33,Insurance,Admitted
+P11226,74,Male,Cardiology,24-05-2025,28-05-2025,Heart Disease,15103.92,UPI,Discharged
+P11227,67,Female,General Medicine,19-01-2025,25-01-2025,Heart Disease,16396.84,Insurance,Admitted
+P11228,35,Male,General Medicine,18-01-2025,30-01-2025,Migraine,9425.9,UPI,Discharged
+P11229,15,Male,General Medicine,14-09-2025,16-09-2025,Migraine,23228.46,UPI,Discharged
+P11230,16,Male,General Medicine,19-03-2025,26-03-2025,Fever,34265.52,UPI,Discharged
+P11231,13,Male,General Medicine,24-06-2025,27-06-2025,Respiratory Infection,10585.82,UPI,Admitted
+P11232,35,Female,Emergency,13-07-2025,26-07-2025,Fever,23218.81,Insurance,Discharged
+P11233,75,Female,General Medicine,23-04-2025,26-04-2025,Respiratory Infection,26965.61,Cash,Admitted
+P11234,59,Male,Pediatrics,24-04-2025,05-05-2025,Fever,18387.69,Cash,Admitted
+P11235,21,Male,General Medicine,10-08-2025,12-08-2025,Hypertension,22725.57,Card,Discharged
+P11236,54,Female,Emergency,15-06-2025,26-06-2025,Migraine,11277.06,Cash,Discharged
+P11237,75,Female,General Medicine,15-11-2025,23-11-2025,Diabetes,33305.71,Insurance,Discharged
+P11238,30,Female,Emergency,12-05-2025,18-05-2025,Diabetes,28481.92,Cash,Admitted
+P11239,48,Female,Pediatrics,21-09-2025,22-09-2025,Migraine,30101.25,Cash,Discharged
+P11240,35,Male,General Medicine,24-02-2025,08-03-2025,Heart Disease,8521.43,Cash,Admitted
+P11241,86,Male,Emergency,25-12-2025,26-12-2025,Migraine,21289.09,UPI,Discharged
+P11242,38,Female,Orthopedics,11-05-2025,18-05-2025,Migraine,11740.37,Insurance,Discharged
+P11243,31,Female,General Medicine,15-10-2025,23-10-2025,Migraine,34724.1,Card,Discharged
+P11244,78,Female,Neurology,23-09-2025,28-09-2025,Heart Disease,10711.9,UPI,Discharged
+P11245,24,Female,Emergency,11-06-2025,23-06-2025,,18769.92,Cash,Admitted
+P11246,49,Female,Orthopedics,28-03-2025,08-04-2025,Hypertension,4679.58,UPI,Discharged
+P11247,32,Female,Cardiology,24-02-2025,01-03-2025,Diabetes,18720.31,Insurance,Discharged
+P11248,55,Male,Neurology,15-10-2025,19-10-2025,Fracture,8579.46,Cash,Discharged
+P11249,79,Male,Pediatrics,27-06-2025,11-07-2025,Diabetes,21840.76,Insurance,Discharged
+P11250,58,Male,Emergency,15-12-2025,21-12-2025,Diabetes,15341.34,UPI,Discharged
+P11251,3,Female,Pediatrics,08-01-2025,22-01-2025,Heart Disease,13619.07,Insurance,Discharged
+P11252,80,Female,General Medicine,17-11-2025,23-11-2025,Fever,35162.24,UPI,Admitted
+P11253,69,Female,Emergency,09-11-2025,12-11-2025,Migraine,45413.3,Cash,Discharged
+P11254,85,Male,General Medicine,04-09-2025,13-09-2025,Migraine,7140.83,Card,Discharged
+P11255,10,Female,General Medicine,19-11-2025,01-12-2025,Migraine,,Cash,Discharged
+P11256,83,Female,Orthopedics,12-09-2025,23-09-2025,Fever,,Cash,Discharged
+P11257,25,Male,Orthopedics,24-11-2025,08-12-2025,Heart Disease,20044.46,Card,Discharged
+P11258,68,Female,General Medicine,23-02-2025,02-03-2025,Hypertension,24382.01,UPI,Discharged
+P11259,61,Male,Neurology,06-09-2025,07-09-2025,Hypertension,15925.62,Cash,Discharged
+P11260,29,Male,Cardiology,27-08-2025,09-09-2025,Heart Disease,29070.24,Insurance,Discharged
+P11261,19,Female,Cardiology,17-08-2025,24-08-2025,Fracture,18353.25,Insurance,Discharged
+P11262,43,Male,Neurology,08-03-2025,13-03-2025,Hypertension,20645.99,UPI,Discharged
+P11263,66,Female,Cardiology,20-02-2025,25-02-2025,Heart Disease,8585.45,UPI,Transferred
+P11264,74,Male,General Medicine,07-04-2025,21-04-2025,Hypertension,17399.45,UPI,Discharged
+P11265,61,Female,General Medicine,02-04-2025,15-04-2025,Migraine,25207.1,UPI,Discharged
+P11266,43,Male,Emergency,21-09-2025,23-09-2025,Respiratory Infection,19482.79,UPI,Discharged
+P11267,25,Female,General Medicine,18-10-2025,22-10-2025,Heart Disease,41015.57,UPI,Discharged
+P11268,20,Male,Cardiology,06-04-2025,18-04-2025,Diabetes,17800.06,Insurance,Admitted
+P11269,48,Male,Orthopedics,29-03-2025,04-04-2025,Hypertension,21301.76,Cash,Discharged
+P11270,83,Male,Orthopedics,19-03-2025,29-03-2025,Hypertension,18300.11,Insurance,Discharged
+P11271,87,Female,General Medicine,15-10-2025,26-10-2025,Fever,16203.95,Insurance,Discharged
+P11272,24,Female,Orthopedics,30-04-2025,07-05-2025,Fracture,25599.58,Card,Discharged
+P11273,11,Male,Cardiology,29-10-2025,09-11-2025,Respiratory Infection,15621.53,Card,Discharged
+P11274,55,Female,Emergency,14-06-2025,19-06-2025,Fever,8275.21,Insurance,Admitted
+P11275,28,Male,General Medicine,01-07-2025,10-07-2025,Migraine,34371.25,UPI,Discharged
+P11276,69,Female,Cardiology,11-08-2025,14-08-2025,Diabetes,11936.04,Cash,Discharged
+P11277,63,Male,Cardiology,07-11-2025,08-11-2025,Fracture,6926.77,UPI,Discharged
+P11278,59,Female,Cardiology,07-01-2025,11-01-2025,Fever,22632.71,UPI,Discharged
+P11279,5,Male,Pediatrics,26-11-2025,05-12-2025,Heart Disease,36556.33,UPI,Discharged
+P11280,51,Male,General Medicine,20-09-2025,24-09-2025,Hypertension,22904.1,UPI,Discharged
+P11281,21,Male,General Medicine,10-06-2025,12-06-2025,Hypertension,31940.63,UPI,Discharged
+P11282,12,Male,Pediatrics,31-05-2025,10-06-2025,Fracture,10055.35,Insurance,Discharged
+P11283,50,Female,Orthopedics,26-03-2025,09-04-2025,Hypertension,8343.91,Cash,Admitted
+P11284,4,Male,Cardiology,27-05-2025,10-06-2025,Heart Disease,13829.11,Insurance,Discharged
+P11285,42,Female,General Medicine,22-04-2025,27-04-2025,Fever,28003.93,UPI,Admitted
+P11286,84,Female,General Medicine,05-02-2025,08-02-2025,Fever,21879.71,UPI,Discharged
+P11287,38,Male,General Medicine,12-10-2025,25-10-2025,Hypertension,22697.91,UPI,Discharged
+P11288,25,Female,General Medicine,07-07-2025,19-07-2025,Hypertension,17794.61,Cash,Admitted
+P11289,14,Female,Orthopedics,23-03-2025,05-04-2025,Migraine,13974.12,Insurance,Discharged
+P11290,75,Female,Emergency,02-01-2025,11-01-2025,Diabetes,18210.39,Card,Admitted
+P11291,32,Male,General Medicine,30-10-2025,03-11-2025,Fracture,15336.46,Cash,Discharged
+P11292,11,Female,Cardiology,16-07-2025,22-07-2025,Fever,13456.79,Cash,Discharged
+P11293,61,Female,General Medicine,11-01-2025,13-01-2025,Fracture,20322.2,Cash,Discharged
+P11294,18,Male,Cardiology,22-08-2025,28-08-2025,Migraine,14570.95,UPI,Admitted
+P11295,27,Male,General Medicine,14-07-2025,17-07-2025,Fever,19154.07,Card,Admitted
+P11296,55,Female,Emergency,29-04-2025,11-05-2025,Migraine,5021.89,Card,Discharged
+P11297,54,Male,Pediatrics,20-01-2025,01-02-2025,Migraine,18350.02,UPI,Discharged
+P11298,82,Female,Emergency,18-09-2025,27-09-2025,Respiratory Infection,14522.91,Card,Discharged
+P11299,87,Female,Emergency,20-10-2025,31-10-2025,Hypertension,32795.09,Cash,Transferred
+P11300,75,Female,Orthopedics,13-09-2025,15-09-2025,Heart Disease,6739.13,Card,Discharged
+P11301,21,Male,Orthopedics,10-08-2025,22-08-2025,Respiratory Infection,17655.82,Cash,Discharged
+P11302,44,Female,General Medicine,14-08-2025,26-08-2025,Fracture,25359.27,Cash,Discharged
+P11303,5,Male,Orthopedics,22-02-2025,03-03-2025,Heart Disease,15658.93,Cash,Discharged
+P11304,87,Male,Emergency,21-12-2025,26-12-2025,Fracture,14262.1,Insurance,Discharged
+P11305,41,Female,General Medicine,08-12-2025,16-12-2025,Hypertension,25315.91,Cash,Transferred
+P11306,59,Male,Emergency,30-12-2025,01-01-2026,Heart Disease,21610.28,Card,Discharged
+P11307,89,Male,Cardiology,07-10-2025,13-10-2025,Respiratory Infection,22430.09,UPI,Admitted
+P11308,54,Male,Emergency,22-03-2025,25-03-2025,Fracture,13471.2,Insurance,Discharged
+P11309,74,Male,Emergency,21-07-2025,02-08-2025,Respiratory Infection,12574.98,UPI,Discharged
+P11310,22,Male,Pediatrics,07-06-2025,19-06-2025,Hypertension,19166,Insurance,Discharged
+P11311,83,,Pediatrics,30-04-2025,14-05-2025,Heart Disease,26365.76,Card,Discharged
+P11312,65,Male,Cardiology,28-02-2025,10-03-2025,Heart Disease,7666.36,UPI,Admitted
+P11313,64,Female,Emergency,03-08-2025,08-08-2025,Fever,15951.8,Cash,Discharged
+P11314,71,Female,Emergency,08-05-2025,20-05-2025,Migraine,12880.42,Cash,Discharged
+P11315,4,Female,Neurology,12-08-2025,20-08-2025,Migraine,16956.16,Insurance,Discharged
+P11316,65,Female,Pediatrics,28-07-2025,07-08-2025,Respiratory Infection,24173.14,Insurance,Discharged
+P11317,15,Female,Orthopedics,25-04-2025,09-05-2025,Heart Disease,10598.45,UPI,Transferred
+P11318,76,Female,Emergency,28-07-2025,29-07-2025,Fracture,22832.66,UPI,Discharged
+P11319,22,Male,Orthopedics,14-01-2025,19-01-2025,Respiratory Infection,13714.83,Card,Discharged
+P11320,86,Male,Neurology,09-01-2025,12-01-2025,Respiratory Infection,28428.88,Insurance,Discharged
+P11321,47,Male,Orthopedics,09-02-2025,13-02-2025,Diabetes,10944.55,Insurance,Discharged
+P11322,81,Female,General Medicine,25-08-2025,27-08-2025,Heart Disease,26183.9,UPI,Discharged
+P11323,46,Male,Cardiology,08-10-2025,17-10-2025,Migraine,8148.3,UPI,Discharged
+P11324,14,Male,Cardiology,25-12-2025,28-12-2025,Heart Disease,18518.11,UPI,Discharged
+P11325,50,Male,General Medicine,20-07-2025,22-07-2025,Hypertension,23072.81,Card,Discharged
+P11326,20,Female,General Medicine,03-09-2025,13-09-2025,Respiratory Infection,11106.13,UPI,Transferred
+P11327,50,Male,Orthopedics,05-10-2025,16-10-2025,Diabetes,4162.8,Card,Discharged
+P11328,33,Female,General Medicine,23-08-2025,01-09-2025,Diabetes,13110.22,Cash,Discharged
+P11329,59,Male,Cardiology,04-01-2025,11-01-2025,Migraine,17050.88,UPI,Transferred
+P11330,43,Female,Neurology,03-06-2025,09-06-2025,Migraine,14235.43,Cash,Admitted
+P11331,79,Female,Emergency,29-01-2025,30-01-2025,Migraine,12454.78,UPI,Transferred
+P11332,12,Female,Pediatrics,19-04-2025,24-04-2025,Hypertension,25506.6,Cash,Transferred
+P11333,,Male,Emergency,08-04-2025,20-04-2025,Diabetes,29864.04,UPI,Discharged
+P11334,20,Male,Pediatrics,03-08-2025,14-08-2025,Fracture,28996.17,Card,Discharged
+P11335,38,Female,General Medicine,20-10-2025,03-11-2025,Hypertension,21160.05,Card,Discharged
+P11336,3,Male,Pediatrics,16-03-2025,27-03-2025,Fever,22599.88,Cash,Discharged
+P11337,28,Female,Pediatrics,22-11-2025,25-11-2025,Respiratory Infection,10100.72,Insurance,Admitted
+P11338,56,Female,Cardiology,26-05-2025,27-05-2025,Migraine,16245.5,Card,Discharged
+P11339,,Male,General Medicine,08-05-2025,12-05-2025,Diabetes,17774.48,Insurance,Discharged
+P11340,13,Male,Pediatrics,07-12-2025,20-12-2025,Respiratory Infection,19517.59,Cash,Discharged
+P11341,77,Male,General Medicine,11-02-2025,13-02-2025,Heart Disease,19345.41,Cash,Discharged
+P11342,66,Female,Pediatrics,22-12-2025,24-12-2025,Hypertension,17072.96,Cash,Admitted
+P11343,,Female,General Medicine,10-02-2025,13-02-2025,Fever,21037.8,Insurance,Discharged
+P11344,49,Male,Orthopedics,03-02-2025,11-02-2025,Heart Disease,18913.77,UPI,Discharged
+P11345,66,Female,Orthopedics,17-01-2025,25-01-2025,Hypertension,18891.97,UPI,Admitted
+P11346,36,Male,General Medicine,14-06-2025,26-06-2025,Hypertension,11515.69,Card,Discharged
+P11347,54,Female,Cardiology,02-06-2025,09-06-2025,Fracture,8825.74,Insurance,Discharged
+P11348,26,Male,Orthopedics,17-03-2025,23-03-2025,Respiratory Infection,19566.43,UPI,Discharged
+P11349,75,Male,Emergency,28-03-2025,06-04-2025,Fracture,13416.26,Card,Discharged
+P11350,72,Female,Emergency,27-04-2025,01-05-2025,Hypertension,11809.1,Insurance,Admitted
+P11351,40,Male,Orthopedics,28-12-2025,09-01-2026,Fever,23367.27,Insurance,Discharged
+P11352,43,Male,Pediatrics,08-12-2025,09-12-2025,Diabetes,16335.78,Cash,Discharged
+P11353,22,Female,Cardiology,27-01-2025,04-02-2025,Diabetes,32012.21,Cash,Discharged
+P11354,20,Male,Cardiology,09-11-2025,16-11-2025,Heart Disease,22146.12,Cash,Admitted
+P11355,8,Female,General Medicine,14-10-2025,21-10-2025,Respiratory Infection,11129.1,Insurance,Discharged
+P11356,29,Male,Orthopedics,14-05-2025,17-05-2025,Migraine,23509.84,Cash,Admitted
+P11357,40,Female,Cardiology,07-08-2025,11-08-2025,Migraine,20541.44,Cash,Discharged
+P11358,90,Male,General Medicine,17-06-2025,27-06-2025,Diabetes,10899.87,Card,Discharged
+P11359,30,Male,Pediatrics,08-04-2025,17-04-2025,Hypertension,12559.64,Cash,Admitted
+P11360,81,Male,Pediatrics,25-09-2025,01-10-2025,Hypertension,22962.99,Cash,Discharged
+P11361,84,Male,Cardiology,25-08-2025,30-08-2025,Fracture,5909,UPI,Discharged
+P11362,55,Female,General Medicine,05-11-2025,08-11-2025,Respiratory Infection,4563.63,Cash,Discharged
+P11363,16,Female,Cardiology,22-06-2025,01-07-2025,Fracture,18356.69,Insurance,Discharged
+P11364,46,Female,Cardiology,09-07-2025,14-07-2025,Migraine,17669.15,Card,Discharged
+P11365,62,Female,Pediatrics,02-05-2025,07-05-2025,Diabetes,19183.63,Insurance,Discharged
+P11366,7,Female,Cardiology,15-02-2025,01-03-2025,Heart Disease,17694.7,Insurance,Discharged
+P11367,80,Female,Pediatrics,05-03-2025,09-03-2025,Hypertension,20904.34,Card,Admitted
+P11368,45,Female,Emergency,10-05-2025,24-05-2025,Diabetes,30065.44,UPI,Discharged
+P11369,59,Male,General Medicine,06-11-2025,10-11-2025,Fever,16886.88,Insurance,Discharged
+P11370,56,Male,Emergency,29-12-2025,10-01-2026,Diabetes,7305.9,UPI,Transferred
+P11371,48,Male,Cardiology,12-07-2025,13-07-2025,Fever,5472.49,Insurance,Discharged
+P11372,27,Male,General Medicine,03-11-2025,10-11-2025,Fracture,14042.38,UPI,Discharged
+P11373,53,Female,Cardiology,30-06-2025,09-07-2025,Fracture,14235,UPI,Discharged
+P11374,87,Female,General Medicine,19-10-2025,22-10-2025,Migraine,8038.49,UPI,Discharged
+P11375,88,Female,General Medicine,09-10-2025,21-10-2025,Diabetes,4020.8,Insurance,Discharged
+P11376,73,Male,Cardiology,29-01-2025,11-02-2025,Diabetes,13503.23,Insurance,Discharged
+P11377,35,Female,Neurology,29-05-2025,31-05-2025,Fever,36463.76,UPI,Discharged
+P11378,51,Male,Emergency,24-09-2025,27-09-2025,Fracture,20479.24,UPI,Discharged
+P11379,84,Female,Pediatrics,23-10-2025,24-10-2025,Fever,19594.55,UPI,Discharged
+P11380,37,Female,General Medicine,11-01-2025,17-01-2025,Fracture,15418.16,Card,Discharged
+P11381,81,Female,Pediatrics,13-06-2025,24-06-2025,Fever,14030.04,UPI,Discharged
+P11382,57,Female,Pediatrics,23-04-2025,04-05-2025,Fracture,21510.15,Cash,Discharged
+P11383,8,Male,Neurology,06-07-2025,13-07-2025,Fever,8590.62,Insurance,Discharged
+P11384,79,Male,Neurology,22-10-2025,02-11-2025,Heart Disease,41149.23,Cash,Discharged
+P11385,20,Female,Emergency,20-08-2025,31-08-2025,Fracture,8962.13,Card,Transferred
+P11386,53,Male,Cardiology,15-08-2025,17-08-2025,Respiratory Infection,22475.16,UPI,Admitted
+P11387,12,Female,Pediatrics,06-11-2025,14-11-2025,Fever,9434.22,Cash,Admitted
+P11388,49,Female,General Medicine,08-04-2025,22-04-2025,Diabetes,17919.9,Insurance,Discharged
+P11389,17,Female,Emergency,24-02-2025,02-03-2025,Migraine,23668.48,Insurance,Discharged
+P11390,64,Female,General Medicine,21-04-2025,05-05-2025,Respiratory Infection,6480.16,Cash,Discharged
+P11391,42,Male,General Medicine,01-06-2025,05-06-2025,Respiratory Infection,10021.66,Card,Discharged
+P11392,29,Female,General Medicine,03-09-2025,08-09-2025,Fever,10392.72,Insurance,Discharged
+P11393,19,Female,Neurology,10-03-2025,18-03-2025,Migraine,14651.87,Cash,Discharged
+P11394,11,Male,Cardiology,08-11-2025,22-11-2025,Diabetes,19051.53,UPI,Discharged
+P11395,50,Female,Cardiology,16-10-2025,19-10-2025,Respiratory Infection,36830.4,UPI,Discharged
+P11396,71,Male,Emergency,07-09-2025,10-09-2025,Diabetes,12500.36,Cash,Transferred
+P11397,58,Female,Emergency,05-02-2025,19-02-2025,Fracture,35670.33,Cash,Discharged
+P11398,34,Female,Cardiology,27-08-2025,10-09-2025,Heart Disease,20121.1,Insurance,Admitted
+P11399,20,Female,General Medicine,28-05-2025,08-06-2025,Migraine,8789.81,UPI,Discharged
+P11400,50,Female,Emergency,15-08-2025,19-08-2025,Heart Disease,15455.3,Card,Admitted
+P11401,88,Female,Emergency,01-09-2025,02-09-2025,Hypertension,7380.36,,Discharged
+P11402,10,Female,Orthopedics,03-12-2025,12-12-2025,Fracture,14046.6,Insurance,Transferred
+P11403,32,Male,Pediatrics,31-12-2025,08-01-2026,Migraine,13540.32,UPI,Discharged
+P11404,52,Female,General Medicine,20-07-2025,28-07-2025,Fever,18070.48,Card,Discharged
+P11405,15,Male,Neurology,03-06-2025,17-06-2025,Heart Disease,22512.61,Insurance,Discharged
+P11406,84,Male,Pediatrics,14-03-2025,24-03-2025,Fever,16083.35,UPI,Discharged
+P11407,3,Female,Orthopedics,20-07-2025,26-07-2025,Diabetes,9363.71,Insurance,Admitted
+P11408,37,Male,General Medicine,23-10-2025,30-10-2025,Respiratory Infection,44321.82,Insurance,Transferred
+P11409,40,Female,Emergency,17-01-2025,23-01-2025,Heart Disease,31945.5,Insurance,Discharged
+P11410,72,Male,Pediatrics,09-05-2025,18-05-2025,Hypertension,38002.88,UPI,Discharged
+P11411,40,Female,General Medicine,05-08-2025,08-08-2025,Fever,15278.97,Insurance,Discharged
+P11412,56,Male,Orthopedics,02-03-2025,16-03-2025,Migraine,19678.15,UPI,Admitted
+P11413,23,Male,Pediatrics,14-04-2025,17-04-2025,Heart Disease,14843.46,Insurance,Discharged
+P11414,11,Female,Orthopedics,11-02-2025,14-02-2025,Heart Disease,18144.42,UPI,Discharged
+P11415,64,Male,Pediatrics,25-01-2025,04-02-2025,Respiratory Infection,18633.61,Card,Discharged
+P11416,8,Female,Orthopedics,08-02-2025,11-02-2025,Respiratory Infection,8111.59,Card,Discharged
+P11417,56,Female,Emergency,18-10-2025,27-10-2025,Migraine,14185.51,UPI,Discharged
+P11418,60,Female,General Medicine,11-05-2025,23-05-2025,Respiratory Infection,27311.53,Card,Discharged
+P11419,10,Female,General Medicine,17-08-2025,21-08-2025,Fever,26149.61,Insurance,Discharged
+P11420,39,Female,General Medicine,18-04-2025,01-05-2025,Migraine,14048.55,Card,Admitted
+P11421,28,Male,Pediatrics,21-06-2025,28-06-2025,Migraine,18813.04,UPI,Discharged
+P11422,49,Male,Pediatrics,12-04-2025,26-04-2025,Diabetes,14608.55,Cash,Discharged
+P11423,36,Male,Emergency,20-12-2025,29-12-2025,Hypertension,22941.3,UPI,Discharged
+P11424,13,Female,Neurology,12-01-2025,23-01-2025,Heart Disease,6446.26,Insurance,Discharged
+P11425,36,Male,Orthopedics,02-10-2025,14-10-2025,Diabetes,21539.25,Cash,Discharged
+P11426,26,Male,Emergency,11-04-2025,18-04-2025,Hypertension,32997.54,Insurance,Transferred
+P11427,86,Male,General Medicine,13-02-2025,22-02-2025,Migraine,11447.85,Card,Admitted
+P11428,4,Male,Emergency,01-11-2025,13-11-2025,Heart Disease,30800.84,Card,Admitted
+P11429,82,Male,Cardiology,17-01-2025,20-01-2025,Respiratory Infection,19289.64,Card,Admitted
+P11430,64,Female,Pediatrics,26-11-2025,30-11-2025,Hypertension,16062.43,Cash,Discharged
+P11431,38,Female,Pediatrics,26-02-2025,12-03-2025,Migraine,13991.58,UPI,Discharged
+P11432,88,Male,Pediatrics,07-11-2025,15-11-2025,Migraine,31332.27,Cash,Discharged
+P11433,87,Female,General Medicine,30-10-2025,05-11-2025,Diabetes,14633.36,Insurance,Admitted
+P11434,22,Female,Cardiology,12-01-2025,17-01-2025,Diabetes,35430.98,Card,Discharged
+P11435,2,Male,Orthopedics,14-11-2025,27-11-2025,Respiratory Infection,33431.15,Insurance,Discharged
+P11436,31,Male,Emergency,21-03-2025,25-03-2025,Fracture,12955.27,Card,Discharged
+P11437,11,Female,Cardiology,04-08-2025,12-08-2025,Fever,15202.96,Insurance,Discharged
+P11438,46,Male,Emergency,05-12-2025,06-12-2025,Fracture,5288.24,UPI,Discharged
+P11439,62,Female,Cardiology,21-09-2025,05-10-2025,Fracture,16334.1,Insurance,Admitted
+P11440,69,Female,Orthopedics,29-05-2025,07-06-2025,Heart Disease,17391.31,Cash,Discharged
+P11441,64,Male,Neurology,22-03-2025,23-03-2025,Heart Disease,28739.74,Insurance,Admitted
+P11442,10,Female,Orthopedics,03-08-2025,11-08-2025,Respiratory Infection,34320.99,Card,Discharged
+P11443,40,Female,Emergency,17-07-2025,21-07-2025,Heart Disease,24013.14,Cash,Discharged
+P11444,24,Female,Pediatrics,19-07-2025,28-07-2025,Hypertension,27585.4,Insurance,Admitted
+P11445,44,Male,Orthopedics,25-01-2025,08-02-2025,Respiratory Infection,,Insurance,Admitted
+P11446,60,Male,General Medicine,30-03-2025,10-04-2025,Respiratory Infection,8410.58,Insurance,Discharged
+P11447,62,Male,Cardiology,25-09-2025,30-09-2025,Migraine,19271.59,Insurance,Discharged
+P11448,87,Male,General Medicine,23-05-2025,26-05-2025,Migraine,28501.81,Card,Discharged
+P11449,17,Female,Neurology,28-02-2025,09-03-2025,Migraine,2915.97,Card,Discharged
+P11450,65,Male,General Medicine,31-12-2025,11-01-2026,Fever,17815.76,Cash,Discharged
+P11451,57,Male,,26-01-2025,09-02-2025,Hypertension,5756.06,Insurance,Transferred
+P11452,55,Male,General Medicine,16-02-2025,02-03-2025,Hypertension,10944.08,Insurance,Discharged
+P11453,53,Male,General Medicine,15-10-2025,24-10-2025,Migraine,18179.36,Card,Discharged
+P11454,56,Female,Cardiology,23-09-2025,27-09-2025,Fracture,34597.22,Insurance,Discharged
+P11455,9,Female,Emergency,16-01-2025,27-01-2025,Fever,16910.93,Insurance,Admitted
+P11456,22,Female,Neurology,18-07-2025,22-07-2025,Fracture,23238.88,Insurance,Transferred
+P11457,13,Male,Neurology,09-10-2025,21-10-2025,Diabetes,19176.88,Insurance,Discharged
+P11458,89,Male,Neurology,27-03-2025,04-04-2025,Hypertension,11310.5,Insurance,Discharged
+P11459,48,Female,General Medicine,07-09-2025,09-09-2025,Hypertension,21084.31,Insurance,Admitted
+P11460,18,Male,Emergency,27-09-2025,06-10-2025,Fracture,8278.93,Card,Discharged
+P11461,76,Male,General Medicine,01-12-2025,14-12-2025,Fever,16786.2,Cash,Discharged
+P11462,40,Female,Cardiology,27-04-2025,11-05-2025,Hypertension,31040.45,Cash,Admitted
+P11463,17,Female,Orthopedics,07-01-2025,13-01-2025,Fracture,18438.49,Insurance,Transferred
+P11464,15,Male,General Medicine,17-05-2025,26-05-2025,Respiratory Infection,19181.08,UPI,Discharged
+P11465,15,Male,Neurology,25-06-2025,03-07-2025,Respiratory Infection,14035.79,Insurance,Discharged
+P11466,79,Male,Cardiology,24-11-2025,01-12-2025,Heart Disease,6729.45,Cash,Discharged
+P11467,63,Female,Neurology,11-11-2025,24-11-2025,Fever,14889.45,UPI,Discharged
+P11468,39,,Orthopedics,03-08-2025,17-08-2025,Fracture,25496.71,UPI,Discharged
+P11469,13,Female,General Medicine,23-03-2025,24-03-2025,Heart Disease,20413.2,UPI,Discharged
+P11470,81,Female,Neurology,11-08-2025,25-08-2025,Respiratory Infection,8560.32,Insurance,Discharged
+P11471,32,Male,General Medicine,13-04-2025,25-04-2025,Fever,5570.61,UPI,Discharged
+P11472,9,Female,Orthopedics,30-09-2025,03-10-2025,Heart Disease,11238.09,Cash,Discharged
+P11473,40,Female,General Medicine,14-01-2025,25-01-2025,Migraine,14968.45,Cash,Discharged
+P11474,20,Male,Pediatrics,08-06-2025,22-06-2025,Fever,15529.17,Cash,Discharged
+P11475,90,Male,Pediatrics,01-06-2025,03-06-2025,Diabetes,15635.74,Insurance,Discharged
+P11476,85,Male,Cardiology,18-04-2025,23-04-2025,Migraine,16825.71,Cash,Discharged
+P11477,82,Female,Emergency,07-07-2025,12-07-2025,Heart Disease,20753.01,Insurance,Discharged
+P11478,77,Male,Emergency,28-10-2025,02-11-2025,Fracture,13534.79,Insurance,Admitted
+P11479,80,Male,Pediatrics,08-04-2025,12-04-2025,Migraine,9917.33,Card,Discharged
+P11480,73,Female,Pediatrics,11-05-2025,16-05-2025,Migraine,21950.98,UPI,Transferred
+P11481,63,Female,General Medicine,20-10-2025,23-10-2025,Heart Disease,25799.42,Cash,Discharged
+P11482,76,Male,Pediatrics,20-06-2025,02-07-2025,Fracture,12408.11,Card,Discharged
+P11483,44,Female,General Medicine,02-07-2025,03-07-2025,Fracture,41289.8,UPI,Discharged
+P11484,38,Male,General Medicine,30-12-2025,04-01-2026,Respiratory Infection,33684.13,Cash,Discharged
+P11485,83,Male,Emergency,08-02-2025,21-02-2025,Diabetes,8915.36,Insurance,Admitted
+P11486,60,Female,Pediatrics,15-01-2025,24-01-2025,Fracture,5828.51,UPI,Transferred
+P11487,71,Male,Cardiology,04-01-2025,17-01-2025,Hypertension,15309.17,UPI,Transferred
+P11488,48,Female,General Medicine,15-12-2025,24-12-2025,Hypertension,19244.57,UPI,Discharged
+P11489,18,Female,Orthopedics,29-07-2025,02-08-2025,Diabetes,40989.02,Card,Discharged
+P11490,16,Female,General Medicine,10-06-2025,13-06-2025,Fever,40306.31,Insurance,Discharged
+P11491,55,Male,General Medicine,16-01-2025,17-01-2025,Heart Disease,23266.71,Cash,Discharged
+P11492,39,Female,General Medicine,18-04-2025,20-04-2025,Fever,13682.94,Card,Discharged
+P11493,68,Female,Orthopedics,07-11-2025,15-11-2025,Hypertension,29358.23,Cash,Admitted
+P11494,59,Male,Orthopedics,15-08-2025,16-08-2025,Fracture,17876.62,Card,Admitted
+P11495,89,Male,General Medicine,19-06-2025,27-06-2025,Diabetes,7835.03,UPI,Discharged
+P11496,62,Male,Pediatrics,03-02-2025,16-02-2025,Fever,8011.19,Card,Discharged
+P11497,13,Male,General Medicine,08-09-2025,15-09-2025,Fever,13731.92,Insurance,Discharged
+P11498,81,Female,Pediatrics,04-09-2025,12-09-2025,Heart Disease,26965.61,Insurance,Discharged
+P11499,6,Female,Emergency,26-09-2025,08-10-2025,Migraine,9351.34,Insurance,Discharged
+P11500,83,Female,Pediatrics,21-05-2025,27-05-2025,Hypertension,13715.92,UPI,Admitted
+P11501,77,Male,Emergency,01-10-2025,13-10-2025,Fracture,33539.76,Card,Discharged
+P11502,60,Male,Emergency,06-04-2025,20-04-2025,Diabetes,20395.45,Insurance,Discharged
+P11503,90,Female,Orthopedics,15-08-2025,24-08-2025,Fever,38097.54,Insurance,Discharged
+P11504,14,Male,Pediatrics,08-02-2025,11-02-2025,Heart Disease,21604.38,Cash,Discharged
+P11505,54,Male,Emergency,29-10-2025,08-11-2025,Migraine,27449.13,Insurance,Admitted
+P11506,4,Female,Cardiology,29-01-2025,02-02-2025,Hypertension,13866.37,UPI,Discharged
+P11507,39,Female,General Medicine,14-11-2025,27-11-2025,Hypertension,34666.59,Cash,Transferred
+P11508,72,Male,Emergency,02-09-2025,08-09-2025,Heart Disease,23615.15,Cash,Discharged
+P11509,25,Male,Pediatrics,24-08-2025,01-09-2025,Diabetes,15793.65,Cash,Discharged
+P11510,77,Male,General Medicine,04-07-2025,09-07-2025,Fever,31441.28,UPI,Discharged
+P11511,32,Female,Cardiology,29-09-2025,02-10-2025,Diabetes,23098.04,UPI,Discharged
+P11512,59,Female,Neurology,24-08-2025,30-08-2025,Heart Disease,16621.87,Insurance,Discharged
+P11513,63,Female,Orthopedics,27-08-2025,31-08-2025,Heart Disease,21924.92,Insurance,Discharged
+P11514,38,Female,Pediatrics,23-09-2025,02-10-2025,Diabetes,10430.28,UPI,Discharged
+P11515,53,Female,Neurology,25-12-2025,07-01-2026,Respiratory Infection,29410.17,UPI,Discharged
+P11516,67,Male,Pediatrics,06-12-2025,09-12-2025,Migraine,40642.65,UPI,Transferred
+P11517,28,Male,,06-03-2025,10-03-2025,Hypertension,6547.56,UPI,Transferred
+P11518,3,Male,Neurology,26-06-2025,03-07-2025,Respiratory Infection,12331.45,Insurance,Discharged
+P11519,80,Female,Pediatrics,03-01-2025,10-01-2025,Fracture,11775.23,Insurance,Admitted
+P11520,22,Female,Pediatrics,22-05-2025,03-06-2025,Hypertension,24357.13,UPI,Discharged
+P11521,38,Female,Cardiology,07-06-2025,19-06-2025,Hypertension,18738.94,UPI,Discharged
+P11522,72,Male,Cardiology,20-11-2025,24-11-2025,Migraine,,Cash,Discharged
+P11523,72,Female,Emergency,26-05-2025,01-06-2025,Fracture,14454.31,Cash,Transferred
+P11524,62,Female,General Medicine,20-10-2025,01-11-2025,Fever,12700.12,UPI,Discharged
+P11525,57,Male,General Medicine,02-06-2025,15-06-2025,Fracture,22850.89,Card,Discharged
+P11526,6,Female,Orthopedics,12-07-2025,15-07-2025,Fever,18582.74,UPI,Discharged
+P11527,78,Male,Emergency,14-03-2025,20-03-2025,Fracture,14085.9,Card,Discharged
+P11528,32,Female,General Medicine,01-11-2025,13-11-2025,Diabetes,12824.36,Cash,Discharged
+P11529,10,Female,General Medicine,10-12-2025,12-12-2025,Heart Disease,31713.69,Cash,Discharged
+P11530,3,Male,General Medicine,20-05-2025,,Fracture,29039.6,Cash,Discharged
+P11531,59,Male,Pediatrics,06-07-2025,08-07-2025,Respiratory Infection,22983.75,Card,Transferred
+P11532,76,Male,General Medicine,20-10-2025,31-10-2025,Respiratory Infection,27519.73,Insurance,Admitted
+P11533,49,Male,Cardiology,02-03-2025,09-03-2025,,7881.5,Insurance,Admitted
+P11534,59,Male,Cardiology,17-07-2025,26-07-2025,Heart Disease,9302.37,UPI,Discharged
+P11535,31,Male,Emergency,22-10-2025,23-10-2025,Heart Disease,8728.06,Insurance,Discharged
+P11536,69,Female,Cardiology,15-11-2025,23-11-2025,Fever,16887.04,Insurance,Discharged
+P11537,62,Female,General Medicine,29-10-2025,05-11-2025,Hypertension,27970.55,Insurance,Discharged
+P11538,52,Male,Orthopedics,10-12-2025,16-12-2025,Migraine,13455.98,Insurance,Transferred
+P11539,89,Female,Emergency,11-01-2025,17-01-2025,Respiratory Infection,29882.16,Insurance,Discharged
+P11540,,Male,Orthopedics,03-03-2025,09-03-2025,Respiratory Infection,12316.97,Cash,Admitted
+P11541,31,Female,Emergency,29-11-2025,08-12-2025,Fever,15693.63,Cash,Discharged
+P11542,85,Male,Emergency,14-08-2025,16-08-2025,Respiratory Infection,13373.8,Cash,Admitted
+P11543,84,Female,General Medicine,02-06-2025,03-06-2025,Respiratory Infection,15068.49,Cash,Discharged
+P11544,22,Female,Pediatrics,18-07-2025,31-07-2025,Fever,15936.85,Insurance,Discharged
+P11545,4,Female,General Medicine,21-02-2025,05-03-2025,Respiratory Infection,5719.42,Cash,Discharged
+P11546,13,Female,Orthopedics,17-09-2025,23-09-2025,Hypertension,20110.57,UPI,Discharged
+P11547,45,Female,General Medicine,28-02-2025,10-03-2025,Diabetes,15743.22,UPI,Discharged
+P11548,42,Male,Cardiology,13-03-2025,24-03-2025,Migraine,34628.64,UPI,Discharged
+P11549,49,Male,Emergency,28-05-2025,05-06-2025,Hypertension,22419.36,UPI,Discharged
+P11550,20,Male,General Medicine,15-12-2025,18-12-2025,Hypertension,19669.71,Card,Admitted
+P11551,77,Female,Emergency,04-03-2025,16-03-2025,Diabetes,33609.17,Insurance,Discharged
+P11552,81,Male,General Medicine,06-11-2025,16-11-2025,Heart Disease,31930.86,Cash,Discharged
+P11553,54,Female,General Medicine,31-08-2025,01-09-2025,Migraine,35395.55,UPI,Discharged
+P11554,36,Female,Emergency,26-11-2025,05-12-2025,Hypertension,12728.41,UPI,Discharged
+P11555,1,Female,Pediatrics,17-04-2025,30-04-2025,Respiratory Infection,8603.44,UPI,Discharged
+P11556,15,Male,Neurology,14-08-2025,27-08-2025,Diabetes,5738.37,Insurance,Discharged
+P11557,77,Female,General Medicine,09-11-2025,10-11-2025,Heart Disease,27332.91,UPI,Discharged
+P11558,17,Male,Orthopedics,06-08-2025,09-08-2025,Migraine,5169.52,Cash,Discharged
+P11559,24,Male,Neurology,29-08-2025,06-09-2025,Fracture,18723.73,Cash,Discharged
+P11560,58,Female,Pediatrics,16-09-2025,30-09-2025,Fever,6888.07,UPI,Discharged
+P11561,72,Female,Orthopedics,19-09-2025,22-09-2025,Respiratory Infection,29316.89,Insurance,Discharged
+P11562,23,Male,Emergency,05-01-2025,18-01-2025,Diabetes,21530.98,UPI,Discharged
+P11563,46,Male,Pediatrics,18-09-2025,22-09-2025,Fever,29233,Cash,Discharged
+P11564,72,Male,Emergency,23-02-2025,03-03-2025,Heart Disease,18928.66,UPI,Discharged
+P11565,8,Male,Pediatrics,16-02-2025,17-02-2025,Heart Disease,9895.41,Insurance,Discharged
+P11566,59,Male,Neurology,03-08-2025,16-08-2025,Fracture,13187.64,UPI,Discharged
+P11567,90,Male,General Medicine,26-06-2025,09-07-2025,Hypertension,25985.36,UPI,Discharged
+P11568,59,Female,Cardiology,09-01-2025,15-01-2025,Hypertension,6516.89,UPI,Transferred
+P11569,13,Male,Emergency,09-04-2025,10-04-2025,Migraine,12616.53,Card,Discharged
+P11570,39,Male,General Medicine,20-01-2025,03-02-2025,Diabetes,11665.15,UPI,Discharged
+P11571,28,Male,General Medicine,29-08-2025,30-08-2025,Diabetes,16049.58,Cash,Discharged
+P11572,89,Male,Cardiology,02-03-2025,16-03-2025,Heart Disease,22795.77,Cash,Discharged
+P11573,61,Female,General Medicine,27-06-2025,05-07-2025,Migraine,28861.95,Insurance,Discharged
+P11574,16,Female,Emergency,04-12-2025,15-12-2025,Fever,7577.75,UPI,Admitted
+P11575,2,Male,Emergency,03-03-2025,07-03-2025,Hypertension,10278.96,Insurance,Admitted
+P11576,82,Male,Orthopedics,25-05-2025,06-06-2025,Hypertension,8101.32,UPI,Discharged
+P11577,17,Male,General Medicine,04-08-2025,05-08-2025,Heart Disease,16383.92,UPI,Discharged
+P11578,30,Female,Pediatrics,03-01-2025,13-01-2025,Diabetes,8682.75,Cash,Admitted
+P11579,13,Female,Pediatrics,09-06-2025,16-06-2025,Heart Disease,20029.64,UPI,Transferred
+P11580,82,Female,Emergency,15-08-2025,20-08-2025,Diabetes,9348.58,Cash,Discharged
+P11581,13,Female,Orthopedics,26-09-2025,01-10-2025,Migraine,30815.84,UPI,Discharged
+P11582,43,Female,Cardiology,30-04-2025,01-05-2025,Fracture,5863.68,Card,Discharged
+P11583,85,Female,Orthopedics,30-03-2025,13-04-2025,Fever,10480.39,Insurance,Discharged
+P11584,21,Male,Emergency,25-11-2025,05-12-2025,Respiratory Infection,35582.32,Insurance,Discharged
+P11585,55,Female,Pediatrics,09-03-2025,20-03-2025,Fracture,18460.61,Cash,Admitted
+P11586,81,Female,Pediatrics,23-12-2025,29-12-2025,Fracture,12733.26,Card,Discharged
+P11587,40,Male,General Medicine,08-04-2025,22-04-2025,Diabetes,53697.14,Cash,Admitted
+P11588,83,Female,Neurology,24-09-2025,03-10-2025,Diabetes,14425.95,Cash,Discharged
+P11589,15,Male,Neurology,15-04-2025,24-04-2025,Diabetes,22345.47,Cash,Discharged
+P11590,73,Female,Cardiology,19-11-2025,27-11-2025,Fracture,10737.49,Insurance,Discharged
+P11591,52,Male,Orthopedics,03-05-2025,08-05-2025,Heart Disease,9694.81,UPI,Discharged
+P11592,74,Male,General Medicine,29-01-2025,30-01-2025,Fever,23010.15,Insurance,Discharged
+P11593,53,Male,General Medicine,17-05-2025,26-05-2025,Heart Disease,37188.6,UPI,Discharged
+P11594,87,Male,General Medicine,14-07-2025,15-07-2025,Diabetes,13035.78,Insurance,Admitted
+P11595,52,Male,General Medicine,14-08-2025,22-08-2025,Hypertension,9290.18,Insurance,Admitted
+P11596,30,Female,Orthopedics,28-11-2025,03-12-2025,Heart Disease,27100.05,Insurance,Discharged
+P11597,33,Female,General Medicine,19-06-2025,22-06-2025,Fever,13105.07,Insurance,Discharged
+P11598,57,Male,General Medicine,09-01-2025,20-01-2025,Hypertension,20169.03,Insurance,Discharged
+P11599,52,Male,Emergency,09-02-2025,16-02-2025,Fever,12825.23,Cash,Transferred
+P11600,9,Male,Orthopedics,25-01-2025,01-02-2025,Diabetes,13993.11,UPI,Discharged
+P11601,54,Female,Orthopedics,18-09-2025,27-09-2025,Heart Disease,10247.96,UPI,Discharged
+P11602,1,Male,Cardiology,14-08-2025,21-08-2025,Respiratory Infection,23318.67,Card,Discharged
+P11603,44,Male,Pediatrics,04-05-2025,17-05-2025,Migraine,20473.12,UPI,Discharged
+P11604,75,Male,General Medicine,07-02-2025,18-02-2025,Diabetes,20111.86,Cash,Discharged
+P11605,80,Male,Neurology,24-11-2025,08-12-2025,Fracture,11357.8,Cash,Admitted
+P11606,9,Female,General Medicine,08-09-2025,11-09-2025,Respiratory Infection,,Cash,Admitted
+P11607,32,Male,Pediatrics,25-06-2025,06-07-2025,Fracture,39699.3,UPI,Discharged
+P11608,15,Male,Cardiology,31-03-2025,13-04-2025,Fever,9326.38,UPI,Discharged
+P11609,12,Female,Neurology,06-02-2025,20-02-2025,Fracture,10780.67,UPI,Discharged
+P11610,78,Male,Orthopedics,12-11-2025,25-11-2025,Respiratory Infection,11106.94,Cash,Admitted
+P11611,57,Male,Cardiology,25-06-2025,26-06-2025,Respiratory Infection,17645.71,Insurance,Discharged
+P11612,8,Female,General Medicine,11-10-2025,19-10-2025,Diabetes,8930.49,Insurance,Discharged
+P11613,72,Female,Pediatrics,22-03-2025,03-04-2025,Hypertension,21545.96,Cash,Discharged
+P11614,27,Female,Emergency,24-04-2025,27-04-2025,Diabetes,5471.42,Insurance,Discharged
+P11615,62,Male,Neurology,09-02-2025,21-02-2025,Fever,24736.92,Cash,Discharged
+P11616,12,Male,General Medicine,28-10-2025,05-11-2025,Fracture,19925.75,Cash,Discharged
+P11617,65,Female,Cardiology,12-08-2025,20-08-2025,Hypertension,39243.91,Insurance,Discharged
+P11618,42,Female,Emergency,14-11-2025,27-11-2025,Heart Disease,9574.88,Insurance,Discharged
+P11619,62,Female,Orthopedics,15-12-2025,20-12-2025,Migraine,27642.64,Cash,Discharged
+P11620,11,Male,Pediatrics,25-04-2025,08-05-2025,Respiratory Infection,15768.18,Cash,Discharged
+P11621,43,Male,Emergency,05-07-2025,17-07-2025,Hypertension,14165.66,Cash,Discharged
+P11622,17,Female,Emergency,19-11-2025,02-12-2025,Heart Disease,9312.2,Card,Discharged
+P11623,32,Male,Orthopedics,25-02-2025,26-02-2025,Hypertension,12926.23,Card,Discharged
+P11624,85,Female,Cardiology,09-02-2025,22-02-2025,Diabetes,13242.17,Card,Admitted
+P11625,85,Male,Cardiology,20-12-2025,30-12-2025,Heart Disease,6915.58,Insurance,Discharged
+P11626,40,Male,Pediatrics,09-02-2025,16-02-2025,Migraine,19819.16,Insurance,Discharged
+P11627,23,Male,General Medicine,13-12-2025,25-12-2025,Respiratory Infection,18518.23,UPI,Discharged
+P11628,56,Male,General Medicine,25-08-2025,04-09-2025,Fever,22300.06,Insurance,Discharged
+P11629,6,Female,Cardiology,16-10-2025,21-10-2025,Fever,12028.29,Cash,Discharged
+P11630,86,Male,General Medicine,19-09-2025,27-09-2025,Hypertension,25208.78,Cash,Discharged
+P11631,50,Male,Pediatrics,04-08-2025,13-08-2025,Heart Disease,31628.7,UPI,Discharged
+P11632,37,Female,Pediatrics,27-05-2025,07-06-2025,Hypertension,14737.86,Cash,Discharged
+P11633,64,Male,Orthopedics,02-12-2025,16-12-2025,Fracture,9685.9,Cash,Admitted
+P11634,,Female,Cardiology,17-06-2025,24-06-2025,Migraine,17177.61,Cash,Admitted
+P11635,72,Female,Emergency,02-04-2025,16-04-2025,Respiratory Infection,16769.12,Insurance,Transferred
+P11636,49,Male,General Medicine,19-12-2025,01-01-2026,Hypertension,15144.96,Insurance,Discharged
+P11637,,Male,Neurology,28-02-2025,07-03-2025,Fracture,22326.16,UPI,Admitted
+P11638,88,Female,Emergency,28-02-2025,01-03-2025,Heart Disease,13802.39,UPI,Discharged
+P11639,49,Female,Cardiology,31-10-2025,04-11-2025,Migraine,9253.89,Insurance,Discharged
+P11640,21,Female,Orthopedics,18-06-2025,20-06-2025,Respiratory Infection,17992.48,Card,Discharged
+P11641,66,Male,Emergency,26-09-2025,28-09-2025,Fever,22869.21,Card,Discharged
+P11642,63,Female,General Medicine,29-12-2025,31-12-2025,Fracture,23816.09,Cash,Admitted
+P11643,83,Female,Orthopedics,14-02-2025,18-02-2025,Heart Disease,13324.67,Cash,Discharged
+P11644,28,Female,Orthopedics,11-12-2025,25-12-2025,Migraine,19308.84,Cash,Discharged
+P11645,17,Male,General Medicine,30-06-2025,01-07-2025,Fracture,32062.76,Cash,Discharged
+P11646,6,Female,Neurology,19-06-2025,23-06-2025,Hypertension,31926.3,Card,Admitted
+P11647,19,Male,Emergency,22-12-2025,24-12-2025,Diabetes,28043.06,Card,Discharged
+P11648,56,Male,Neurology,10-07-2025,15-07-2025,Fever,6652.21,UPI,Transferred
+P11649,28,Female,General Medicine,04-06-2025,07-06-2025,Hypertension,13869.74,Insurance,Discharged
+P11650,66,Male,General Medicine,07-07-2025,19-07-2025,Hypertension,30891.38,UPI,Discharged
+P11651,38,Female,Orthopedics,07-01-2025,15-01-2025,Heart Disease,6628.58,Card,Discharged
+P11652,37,Male,General Medicine,13-05-2025,17-05-2025,Heart Disease,16073.66,Insurance,Discharged
+P11653,68,Male,Pediatrics,23-08-2025,24-08-2025,Migraine,11920.92,Card,Discharged
+P11654,86,Female,Orthopedics,14-02-2025,15-02-2025,Heart Disease,19520.05,Cash,Discharged
+P11655,90,Female,Pediatrics,10-11-2025,22-11-2025,Fracture,4336.6,Cash,Discharged
+P11656,49,Female,Orthopedics,06-09-2025,16-09-2025,Fever,29426.06,UPI,Discharged
+P11657,43,Male,Cardiology,31-01-2025,03-02-2025,Hypertension,16480.72,UPI,Discharged
+P11658,36,Male,General Medicine,23-01-2025,01-02-2025,Migraine,8905.35,Cash,Discharged
+P11659,58,Female,Cardiology,09-06-2025,16-06-2025,Fever,11020.11,Cash,Discharged
+P11660,13,Female,Orthopedics,29-12-2025,31-12-2025,Heart Disease,19864.88,Insurance,Discharged
+P11661,52,Male,Pediatrics,07-06-2025,20-06-2025,Heart Disease,10549.32,Cash,Discharged
+P11662,58,Male,Neurology,08-02-2025,17-02-2025,Fracture,36588.25,Card,Discharged
+P11663,32,Male,Neurology,23-03-2025,02-04-2025,Heart Disease,15490.25,Cash,Discharged
+P11664,81,Female,,22-12-2025,24-12-2025,Hypertension,33290.12,Insurance,Discharged
+P11665,60,Male,General Medicine,15-09-2025,18-09-2025,Respiratory Infection,18008.41,Card,Discharged
+P11666,83,Female,General Medicine,25-07-2025,05-08-2025,Hypertension,23316.42,Card,Transferred
+P11667,58,Male,Cardiology,18-03-2025,31-03-2025,Hypertension,22619.1,Cash,Discharged
+P11668,56,Male,Neurology,12-01-2025,22-01-2025,Heart Disease,12735.2,Insurance,Transferred
+P11669,28,Female,Cardiology,22-10-2025,05-11-2025,Fever,,UPI,Discharged
+P11670,1,Female,Neurology,12-08-2025,14-08-2025,Heart Disease,13337.35,Card,Discharged
+P11671,42,Female,Orthopedics,13-01-2025,16-01-2025,Fever,6254.18,UPI,Discharged
+P11672,82,Male,Emergency,15-02-2025,21-02-2025,Fever,14777.28,UPI,Admitted
+P11673,48,Male,Emergency,04-06-2025,13-06-2025,Fever,8180.4,UPI,Discharged
+P11674,40,Male,General Medicine,23-04-2025,02-05-2025,Migraine,13090.49,UPI,Discharged
+P11675,63,Female,Cardiology,21-08-2025,28-08-2025,Diabetes,16200.74,Insurance,Admitted
+P11676,76,Male,Orthopedics,17-01-2025,29-01-2025,Heart Disease,9851.56,,Discharged
+P11677,72,Female,General Medicine,26-12-2025,29-12-2025,Migraine,21797.58,Cash,Discharged
+P11678,88,Female,Cardiology,11-08-2025,15-08-2025,Hypertension,13253.12,Insurance,Discharged
+P11679,80,Female,Pediatrics,20-12-2025,26-12-2025,Migraine,8038.57,UPI,Discharged
+P11680,4,Male,General Medicine,07-07-2025,18-07-2025,Fracture,9940.74,UPI,Discharged
+P11681,38,Male,Orthopedics,10-12-2025,15-12-2025,Respiratory Infection,17446.08,UPI,Discharged
+P11682,27,Female,Pediatrics,31-12-2025,02-01-2026,Fever,14439.02,UPI,Discharged
+P11683,9,Male,General Medicine,12-06-2025,25-06-2025,Heart Disease,19147.79,UPI,Discharged
+P11684,16,Female,Orthopedics,22-11-2025,28-11-2025,Fracture,17509.52,Insurance,Discharged
+P11685,56,Female,General Medicine,15-03-2025,18-03-2025,Heart Disease,9426.4,UPI,Discharged
+P11686,76,Male,Pediatrics,21-08-2025,04-09-2025,Respiratory Infection,11765.45,Insurance,Discharged
+P11687,31,Female,General Medicine,12-08-2025,20-08-2025,Fracture,25106.64,UPI,Discharged
+P11688,88,Female,Emergency,15-11-2025,17-11-2025,Heart Disease,10331.16,UPI,Discharged
+P11689,14,Male,Cardiology,01-03-2025,02-03-2025,Hypertension,33680.54,UPI,Discharged
+P11690,25,Female,General Medicine,01-12-2025,10-12-2025,Fever,7040.06,Insurance,Discharged
+P11691,34,Female,Cardiology,10-08-2025,24-08-2025,Fracture,24699.43,Card,Discharged
+P11692,67,Female,Cardiology,06-02-2025,18-02-2025,Hypertension,15619.9,Cash,Transferred
+P11693,24,Female,Cardiology,05-10-2025,08-10-2025,Fever,9460.71,UPI,Discharged
+P11694,73,Female,Orthopedics,15-07-2025,26-07-2025,Diabetes,17195.27,Insurance,Discharged
+P11695,26,Female,Orthopedics,18-12-2025,19-12-2025,Hypertension,10520.54,Card,Discharged
+P11696,20,Female,General Medicine,30-08-2025,06-09-2025,Migraine,12181.04,Cash,Discharged
+P11697,64,Male,General Medicine,20-11-2025,03-12-2025,Heart Disease,13425.17,UPI,Admitted
+P11698,10,Male,Pediatrics,07-08-2025,17-08-2025,Fever,23734.51,UPI,Discharged
+P11699,83,Female,Orthopedics,11-07-2025,16-07-2025,Fracture,11673.87,UPI,Discharged
+P11700,67,Female,Cardiology,17-01-2025,22-01-2025,Respiratory Infection,18561.58,Insurance,Discharged
+P11701,24,Male,Neurology,12-01-2025,26-01-2025,Fracture,24190.14,Card,Discharged
+P11702,5,Male,Cardiology,12-07-2025,13-07-2025,Migraine,16955.41,Card,Discharged
+P11703,67,Male,Neurology,22-01-2025,31-01-2025,Heart Disease,20007.97,Cash,Discharged
+P11704,58,Male,Cardiology,30-04-2025,07-05-2025,Migraine,16152.57,UPI,Discharged
+P11705,27,Male,General Medicine,29-07-2025,06-08-2025,Fracture,21571.29,Cash,Discharged
+P11706,80,Female,Emergency,02-11-2025,11-11-2025,Heart Disease,7904.99,Insurance,Discharged
+P11707,15,Male,Cardiology,27-09-2025,03-10-2025,Respiratory Infection,32192.82,Insurance,Discharged
+P11708,35,Male,Neurology,11-07-2025,23-07-2025,Fever,11274.58,Insurance,Discharged
+P11709,76,Male,General Medicine,24-06-2025,29-06-2025,Heart Disease,15700.96,UPI,Discharged
+P11710,53,Female,Pediatrics,12-10-2025,18-10-2025,Hypertension,5108.72,Cash,Transferred
+P11711,44,Female,Emergency,23-07-2025,03-08-2025,Heart Disease,12500.52,UPI,Discharged
+P11712,26,Female,General Medicine,13-06-2025,15-06-2025,Migraine,18953.52,Cash,Transferred
+P11713,47,Female,Emergency,08-09-2025,12-09-2025,Migraine,34353.98,Cash,Discharged
+P11714,34,Female,Orthopedics,15-08-2025,18-08-2025,Migraine,22059.45,Insurance,Admitted
+P11715,87,Female,Orthopedics,07-01-2025,20-01-2025,Respiratory Infection,13026.52,Cash,Discharged
+P11716,50,Male,Orthopedics,29-01-2025,05-02-2025,Heart Disease,6693.2,UPI,Discharged
+P11717,84,Female,Emergency,02-02-2025,11-02-2025,Heart Disease,30366.06,Insurance,Admitted
+P11718,12,Female,General Medicine,14-05-2025,19-05-2025,Diabetes,12698.34,Cash,Admitted
+P11719,87,Male,General Medicine,20-03-2025,26-03-2025,Respiratory Infection,18926.76,Cash,Discharged
+P11720,4,Female,Emergency,27-02-2025,09-03-2025,Fever,13045.58,Insurance,Discharged
+P11721,87,Male,Neurology,26-01-2025,09-02-2025,Fever,20118.03,UPI,Discharged
+P11722,48,Male,General Medicine,14-08-2025,26-08-2025,Fever,29693.26,Insurance,Admitted
+P11723,55,Female,Orthopedics,12-10-2025,24-10-2025,Fever,23592.52,Insurance,Discharged
+P11724,1,Male,Orthopedics,04-01-2025,06-01-2025,Fever,14298.58,UPI,Discharged
+P11725,89,Male,Cardiology,09-04-2025,12-04-2025,Fracture,30723.26,Insurance,Discharged
+P11726,66,Male,General Medicine,08-02-2025,11-02-2025,Migraine,38096.5,Card,Discharged
+P11727,30,Male,Pediatrics,28-09-2025,10-10-2025,Respiratory Infection,26593.7,Insurance,Discharged
+P11728,3,Female,General Medicine,12-10-2025,24-10-2025,Fracture,13260.09,Insurance,Discharged
+P11729,21,Male,Neurology,06-06-2025,15-06-2025,Respiratory Infection,24725.49,UPI,Transferred
+P11730,89,Female,Neurology,16-03-2025,23-03-2025,Diabetes,26458.29,Insurance,Discharged
+P11731,84,Male,Cardiology,15-10-2025,23-10-2025,Heart Disease,14440.89,UPI,Discharged
+P11732,49,Male,General Medicine,10-05-2025,21-05-2025,Hypertension,38093.89,Cash,Discharged
+P11733,86,Male,General Medicine,24-06-2025,04-07-2025,Migraine,,UPI,Discharged
+P11734,85,Female,Orthopedics,25-03-2025,05-04-2025,Diabetes,14830.44,Insurance,Discharged
+P11735,62,Female,Pediatrics,22-01-2025,31-01-2025,Fracture,13252.7,Insurance,Discharged
+P11736,38,Female,Cardiology,27-01-2025,02-02-2025,Hypertension,26158.41,Cash,Discharged
+P11737,15,Male,Pediatrics,14-07-2025,18-07-2025,Heart Disease,43180.78,Card,Discharged
+P11738,52,Male,Cardiology,03-12-2025,15-12-2025,Diabetes,8229.17,UPI,Discharged
+P11739,79,Male,Cardiology,24-08-2025,25-08-2025,Heart Disease,20606.81,Insurance,Discharged
+P11740,46,Male,General Medicine,02-04-2025,10-04-2025,Heart Disease,24501.73,Cash,Discharged
+P11741,25,Female,General Medicine,21-01-2025,28-01-2025,Respiratory Infection,29559.62,Insurance,Discharged
+P11742,21,Male,General Medicine,30-10-2025,01-11-2025,Hypertension,24624.02,Cash,Discharged
+P11743,88,Female,Cardiology,23-12-2025,31-12-2025,Respiratory Infection,12788.83,UPI,Discharged
+P11744,5,Male,Emergency,25-03-2025,06-04-2025,Heart Disease,7696.17,UPI,Discharged
+P11745,70,Female,Neurology,19-09-2025,24-09-2025,Diabetes,14035.37,Cash,Admitted
+P11746,47,Female,General Medicine,27-05-2025,03-06-2025,Heart Disease,24210.14,UPI,Discharged
+P11747,87,Male,General Medicine,14-09-2025,18-09-2025,Fracture,12067.48,UPI,Discharged
+P11748,68,Male,General Medicine,27-02-2025,04-03-2025,Heart Disease,31857.44,Card,Discharged
+P11749,18,Female,Cardiology,15-01-2025,23-01-2025,Respiratory Infection,,Insurance,Discharged
+P11750,21,Male,Orthopedics,11-06-2025,12-06-2025,Hypertension,11661.79,Insurance,Discharged
+P11751,86,Male,Cardiology,12-06-2025,13-06-2025,Diabetes,21767.83,Insurance,Discharged
+P11752,23,Female,General Medicine,16-11-2025,20-11-2025,Respiratory Infection,14624.01,Card,Discharged
+P11753,64,Female,General Medicine,08-10-2025,11-10-2025,Heart Disease,13062.03,Card,Discharged
+P11754,67,Female,General Medicine,07-10-2025,20-10-2025,Fracture,40562.84,Insurance,Discharged
+P11755,40,Female,General Medicine,12-01-2025,22-01-2025,Migraine,12027.48,Cash,Discharged
+P11756,10,Male,Pediatrics,01-10-2025,13-10-2025,Fracture,13772.47,UPI,Discharged
+P11757,89,Female,General Medicine,28-09-2025,30-09-2025,Heart Disease,21927.82,Card,Discharged
+P11758,52,Female,Orthopedics,27-07-2025,08-08-2025,Fracture,31617.87,Insurance,Admitted
+P11759,72,Female,Orthopedics,27-01-2025,30-01-2025,Migraine,20890.44,UPI,Admitted
+P11760,75,Male,Emergency,13-03-2025,24-03-2025,Fracture,17406.95,Insurance,Admitted
+P11761,61,Female,Emergency,01-03-2025,12-03-2025,Migraine,42928.41,Insurance,Admitted
+P11762,64,Male,Neurology,25-05-2025,08-06-2025,Heart Disease,13432.2,UPI,Discharged
+P11763,5,Female,General Medicine,03-04-2025,14-04-2025,Migraine,13467.63,UPI,Admitted
+P11764,53,Female,Orthopedics,05-11-2025,06-11-2025,Respiratory Infection,12122.04,Cash,Discharged
+P11765,55,Male,Neurology,08-01-2025,09-01-2025,Respiratory Infection,20241.99,Insurance,Discharged
+P11766,37,Female,General Medicine,20-03-2025,26-03-2025,Migraine,10233.83,UPI,Admitted
+P11767,56,Female,Orthopedics,27-01-2025,01-02-2025,Diabetes,8822.31,Card,Discharged
+P11768,59,Male,Emergency,23-06-2025,01-07-2025,Hypertension,13750.41,Card,Transferred
+P11769,69,Female,Orthopedics,19-02-2025,21-02-2025,Diabetes,6503.8,Cash,Discharged
+P11770,73,Female,General Medicine,18-07-2025,22-07-2025,Migraine,18931.06,Cash,Discharged
+P11771,59,Female,General Medicine,15-12-2025,23-12-2025,Hypertension,20268.21,UPI,Discharged
+P11772,2,Female,Cardiology,30-06-2025,12-07-2025,Respiratory Infection,22029.79,UPI,Discharged
+P11773,65,Male,General Medicine,24-01-2025,30-01-2025,Hypertension,25264.86,UPI,Discharged
+P11774,60,Female,Pediatrics,12-11-2025,13-11-2025,Migraine,13956.57,UPI,Admitted
+P11775,51,Male,Pediatrics,15-02-2025,19-02-2025,Respiratory Infection,29814.79,Card,Discharged
+P11776,30,Female,General Medicine,15-01-2025,16-01-2025,Hypertension,28357.71,Cash,Discharged
+P11777,,Male,Emergency,02-06-2025,15-06-2025,Hypertension,9456.75,UPI,Discharged
+P11778,76,Female,Cardiology,10-08-2025,12-08-2025,Diabetes,16178.43,Card,Discharged
+P11779,39,Male,General Medicine,25-07-2025,30-07-2025,Hypertension,3884.36,Card,Discharged
+P11780,90,Female,Neurology,30-09-2025,14-10-2025,Heart Disease,30024.51,UPI,Discharged
+P11781,77,Male,Neurology,24-08-2025,01-09-2025,Migraine,25042.9,Insurance,Discharged
+P11782,72,Male,Pediatrics,06-12-2025,14-12-2025,Fever,33432.83,Cash,Discharged
+P11783,63,Female,Emergency,16-08-2025,27-08-2025,Fever,7007.04,UPI,Discharged
+P11784,64,Male,Neurology,09-01-2025,12-01-2025,Fever,21185.25,UPI,Discharged
+P11785,61,Female,Emergency,15-06-2025,26-06-2025,Migraine,12561.1,Cash,Discharged
+P11786,54,Female,Cardiology,15-11-2025,28-11-2025,Fever,5050,UPI,Discharged
+P11787,73,Female,Neurology,02-08-2025,06-08-2025,Diabetes,26887.13,Card,Admitted
+P11788,58,Female,Emergency,27-04-2025,07-05-2025,Migraine,8322.24,Insurance,Discharged
+P11789,85,Female,Pediatrics,10-12-2025,21-12-2025,Heart Disease,19824.37,UPI,Discharged
+P11790,56,Male,General Medicine,13-03-2025,27-03-2025,Respiratory Infection,12484.77,UPI,Discharged
+P11791,34,Female,Orthopedics,05-03-2025,11-03-2025,Heart Disease,18120.04,Card,Discharged
+P11792,31,Female,Orthopedics,24-07-2025,04-08-2025,Migraine,25440.09,Cash,Discharged
+P11793,52,Female,General Medicine,28-07-2025,08-08-2025,Migraine,18145.66,Cash,Discharged
+P11794,89,Female,Emergency,13-03-2025,23-03-2025,Hypertension,10123.69,Insurance,Admitted
+P11795,76,Female,General Medicine,04-10-2025,07-10-2025,Hypertension,41061.81,Cash,Discharged
+P11796,1,Female,General Medicine,01-10-2025,03-10-2025,Hypertension,14061.9,Insurance,Discharged
+P11797,55,Male,Emergency,16-11-2025,22-11-2025,Fracture,11226.16,Cash,Discharged
+P11798,22,Male,Orthopedics,04-12-2025,15-12-2025,Diabetes,15919.26,Insurance,Discharged
+P11799,40,Female,General Medicine,05-04-2025,18-04-2025,Migraine,7104.52,Cash,Transferred
+P11800,1,Male,Orthopedics,15-06-2025,20-06-2025,Heart Disease,11774.65,UPI,Discharged
+P11801,65,Female,Orthopedics,01-02-2025,15-02-2025,Migraine,14511.42,Cash,Transferred
+P11802,63,Female,General Medicine,11-01-2025,21-01-2025,Hypertension,18885.53,Card,Discharged
+P11803,54,Female,Emergency,28-10-2025,02-11-2025,Migraine,17055.02,UPI,Discharged
+P11804,42,Female,Orthopedics,05-08-2025,15-08-2025,Respiratory Infection,21213.66,UPI,Discharged
+P11805,21,Female,Orthopedics,16-10-2025,29-10-2025,Migraine,16252.94,Cash,Discharged
+P11806,79,Male,Orthopedics,12-04-2025,17-04-2025,Heart Disease,28196.94,Cash,Discharged
+P11807,81,Male,Pediatrics,24-09-2025,04-10-2025,Fever,23048.04,Insurance,Discharged
+P11808,22,Male,General Medicine,02-08-2025,14-08-2025,Respiratory Infection,20392.79,Card,Discharged
+P11809,38,Male,General Medicine,28-06-2025,03-07-2025,Respiratory Infection,30492.47,UPI,Discharged
+P11810,80,Female,Orthopedics,29-03-2025,01-04-2025,Migraine,30490.81,Insurance,Discharged
+P11811,8,Male,Neurology,10-02-2025,17-02-2025,Fracture,,Card,Discharged
+P11812,62,Female,General Medicine,17-03-2025,23-03-2025,Hypertension,13702.28,Insurance,Admitted
+P11813,47,Male,Orthopedics,15-02-2025,19-02-2025,Diabetes,18534.6,UPI,Discharged
+P11814,17,Male,Neurology,09-06-2025,11-06-2025,Diabetes,15540.45,UPI,Discharged
+P11815,17,Male,General Medicine,21-03-2025,02-04-2025,Fever,13418.02,Cash,Discharged
+P11816,90,Male,General Medicine,06-11-2025,15-11-2025,Diabetes,18165.36,Insurance,Discharged
+P11817,,Female,Cardiology,27-03-2025,28-03-2025,Diabetes,20078.41,Cash,Discharged
+P11818,17,Male,Orthopedics,02-04-2025,15-04-2025,Hypertension,22498.98,Insurance,Discharged
+P11819,38,Male,General Medicine,28-05-2025,10-06-2025,Hypertension,32883.99,UPI,Discharged
+P11820,81,Female,Cardiology,10-06-2025,21-06-2025,Fracture,19069.32,Card,Discharged
+P11821,78,Female,Orthopedics,21-07-2025,04-08-2025,Heart Disease,16439.21,UPI,Discharged
+P11822,45,Male,Orthopedics,30-08-2025,03-09-2025,Fever,26558.39,Insurance,Discharged
+P11823,6,Female,General Medicine,19-12-2025,20-12-2025,Diabetes,10678.46,UPI,Admitted
+P11824,35,Female,Cardiology,02-01-2025,15-01-2025,Fracture,6545.58,UPI,Discharged
+P11825,14,Female,Neurology,13-08-2025,19-08-2025,Fever,21039.25,Cash,Discharged
+P11826,72,Male,Emergency,16-10-2025,20-10-2025,Respiratory Infection,14033.68,Card,Discharged
+P11827,61,Female,Emergency,21-08-2025,26-08-2025,Diabetes,14590.18,Card,Admitted
+P11828,15,Male,Orthopedics,18-03-2025,23-03-2025,Diabetes,10541.21,Cash,Discharged
+P11829,54,Male,Cardiology,26-04-2025,05-05-2025,Hypertension,29195.7,Insurance,Discharged
+P11830,27,Male,Cardiology,03-06-2025,04-06-2025,Migraine,6706.52,,Admitted
+P11831,13,Male,General Medicine,13-04-2025,26-04-2025,Fever,22093.15,UPI,Discharged
+P11832,31,Female,General Medicine,13-07-2025,15-07-2025,Diabetes,16556.49,Insurance,Discharged
+P11833,35,Male,Pediatrics,15-06-2025,28-06-2025,Fever,33893.94,UPI,Discharged
+P11834,60,Female,General Medicine,25-12-2025,31-12-2025,Heart Disease,26616.42,UPI,Admitted
+P11835,6,Male,General Medicine,31-03-2025,05-04-2025,Fracture,9023.03,UPI,Admitted
+P11836,69,Female,Emergency,23-06-2025,04-07-2025,Fracture,23058.55,Cash,Discharged
+P11837,86,Male,General Medicine,02-05-2025,09-05-2025,Migraine,20736.43,Insurance,Discharged
+P11838,58,Female,General Medicine,23-05-2025,26-05-2025,Diabetes,15936.4,Card,Discharged
+P11839,49,Male,General Medicine,16-04-2025,19-04-2025,Heart Disease,22174.87,Card,Discharged
+P11840,23,Male,Orthopedics,01-11-2025,11-11-2025,Hypertension,11760.02,Card,Discharged
+P11841,89,Female,Pediatrics,26-12-2025,28-12-2025,Diabetes,17404.24,UPI,Discharged
+P11842,34,Male,Cardiology,13-11-2025,26-11-2025,Fever,16707.5,Insurance,Transferred
+P11843,26,Male,Orthopedics,03-05-2025,06-05-2025,Respiratory Infection,10840.32,Insurance,Discharged
+P11844,47,Male,Neurology,09-01-2025,19-01-2025,Fracture,14051.08,UPI,Discharged
+P11845,5,Female,Neurology,19-09-2025,20-09-2025,Fever,12826.72,Cash,Discharged
+P11846,90,Male,Emergency,14-03-2025,19-03-2025,Migraine,20071.09,Insurance,Discharged
+P11847,,Male,Neurology,25-12-2025,08-01-2026,Fracture,30036.06,UPI,Discharged
+P11848,6,Female,Orthopedics,11-08-2025,23-08-2025,Hypertension,7928.3,Cash,Discharged
+P11849,70,Female,General Medicine,10-02-2025,15-02-2025,Fracture,20375.39,Insurance,Discharged
+P11850,59,Female,General Medicine,23-07-2025,04-08-2025,Respiratory Infection,12579.77,Card,Discharged
+P11851,64,Female,General Medicine,21-09-2025,02-10-2025,Heart Disease,25800.2,UPI,Discharged
+P11852,18,Female,Pediatrics,24-11-2025,01-12-2025,Diabetes,20252.45,Card,Admitted
+P11853,4,Male,Neurology,27-06-2025,01-07-2025,Respiratory Infection,6844.48,Card,Discharged
+P11854,17,Male,Orthopedics,14-12-2025,17-12-2025,Heart Disease,18173.03,Insurance,Discharged
+P11855,14,Male,,14-11-2025,15-11-2025,Respiratory Infection,15504.11,Cash,Discharged
+P11856,78,Female,Orthopedics,25-03-2025,06-04-2025,Diabetes,8403.5,Card,Discharged
+P11857,13,Male,Emergency,14-11-2025,22-11-2025,Fracture,12666.42,Insurance,Discharged
+P11858,7,Female,Orthopedics,21-04-2025,04-05-2025,Migraine,17766.92,Card,Discharged
+P11859,44,Female,Neurology,08-09-2025,11-09-2025,Diabetes,12862.07,,Transferred
+P11860,15,Male,Neurology,07-01-2025,20-01-2025,Diabetes,27262.59,Insurance,Discharged
+P11861,19,Female,Emergency,25-03-2025,27-03-2025,Heart Disease,15432.44,Insurance,Discharged
+P11862,63,Female,Neurology,27-07-2025,07-08-2025,Hypertension,12192.14,Insurance,Discharged
+P11863,35,Male,Neurology,10-11-2025,14-11-2025,Fracture,18267.62,Card,Discharged
+P11864,81,Female,General Medicine,22-01-2025,25-01-2025,Diabetes,19464.4,Cash,Discharged
+P11865,35,Female,General Medicine,03-01-2025,16-01-2025,Migraine,25916.71,UPI,Discharged
+P11866,19,Male,Orthopedics,07-05-2025,08-05-2025,Fever,17053.61,UPI,Transferred
+P11867,20,Female,General Medicine,24-10-2025,27-10-2025,Fracture,19068.15,Card,Transferred
+P11868,35,Female,Emergency,07-07-2025,19-07-2025,Hypertension,14031.37,Insurance,Discharged
+P11869,32,Male,General Medicine,28-12-2025,30-12-2025,Respiratory Infection,34306.3,Insurance,Discharged
+P11870,48,Male,Emergency,14-01-2025,22-01-2025,Diabetes,20192.27,Insurance,Discharged
+P11871,44,Male,Cardiology,12-01-2025,18-01-2025,Migraine,17970.84,Insurance,Admitted
+P11872,24,Male,Cardiology,28-03-2025,06-04-2025,Fracture,12862.13,Cash,Discharged
+P11873,61,Female,Emergency,12-01-2025,20-01-2025,Migraine,27561.9,UPI,Discharged
+P11874,17,Female,Cardiology,25-01-2025,04-02-2025,Migraine,6434.69,Cash,Discharged
+P11875,71,Male,Cardiology,28-10-2025,31-10-2025,Heart Disease,18320.48,Insurance,Discharged
+P11876,50,Female,General Medicine,31-08-2025,05-09-2025,Respiratory Infection,11844.96,UPI,Discharged
+P11877,65,Female,Pediatrics,02-05-2025,09-05-2025,Hypertension,24652.6,Insurance,Admitted
+P11878,32,Male,General Medicine,27-05-2025,01-06-2025,Fracture,19561.31,Cash,Admitted
+P11879,36,Male,Orthopedics,24-02-2025,04-03-2025,Diabetes,18102.94,UPI,Discharged
+P11880,13,Female,Orthopedics,26-08-2025,07-09-2025,Hypertension,9556.34,UPI,Discharged
+P11881,70,Male,Pediatrics,22-12-2025,27-12-2025,Diabetes,,UPI,Transferred
+P11882,58,Male,Neurology,22-06-2025,23-06-2025,Fever,19950.36,Insurance,Discharged
+P11883,14,Male,Orthopedics,09-08-2025,14-08-2025,Migraine,25925.38,Cash,Discharged
+P11884,37,Female,Cardiology,29-04-2025,03-05-2025,Fever,21227.23,UPI,Discharged
+P11885,79,Male,Emergency,05-11-2025,,Heart Disease,24651.37,Insurance,Admitted
+P11886,68,Female,Cardiology,02-07-2025,05-07-2025,Migraine,7582.49,UPI,Discharged
+P11887,40,Female,Orthopedics,15-10-2025,26-10-2025,Respiratory Infection,17893.31,Card,Discharged
+P11888,59,Female,Cardiology,03-11-2025,08-11-2025,Hypertension,26425.8,Card,Transferred
+P11889,80,Male,Emergency,27-10-2025,29-10-2025,Diabetes,4310.95,UPI,Discharged
+P11890,16,Male,Cardiology,23-03-2025,03-04-2025,Heart Disease,14796.38,Insurance,Admitted
+P11891,62,Male,Cardiology,30-07-2025,05-08-2025,Respiratory Infection,20046.88,Cash,Discharged
+P11892,4,Male,Pediatrics,30-05-2025,12-06-2025,Diabetes,28163.19,Cash,Discharged
+P11893,45,Male,Orthopedics,06-02-2025,18-02-2025,Hypertension,17504.71,Insurance,Discharged
+P11894,90,Female,General Medicine,18-12-2025,24-12-2025,Fracture,16515.55,Cash,Discharged
+P11895,28,Female,Orthopedics,08-11-2025,13-11-2025,Heart Disease,19176.6,Insurance,Discharged
+P11896,66,Female,Neurology,27-12-2025,02-01-2026,Fever,20141.89,Insurance,Admitted
+P11897,31,Male,Emergency,28-02-2025,11-03-2025,Fever,10480.46,UPI,Discharged
+P11898,3,Female,Pediatrics,11-05-2025,18-05-2025,Diabetes,12850.87,Card,Admitted
+P11899,8,Female,Cardiology,21-07-2025,02-08-2025,Diabetes,5810.01,UPI,Discharged
+P11900,24,Male,General Medicine,31-08-2025,05-09-2025,Diabetes,11845.93,Cash,Discharged
+P11901,15,Male,Emergency,04-02-2025,05-02-2025,Heart Disease,9186.02,Insurance,Discharged
+P11902,43,Female,Neurology,03-04-2025,11-04-2025,Hypertension,10428.49,Cash,Discharged
+P11903,31,Female,General Medicine,26-07-2025,30-07-2025,Fracture,43078.08,UPI,Discharged
+P11904,73,Male,General Medicine,19-12-2025,28-12-2025,Fever,27357.93,UPI,Admitted
+P11905,45,Male,Pediatrics,28-11-2025,12-12-2025,Respiratory Infection,9303.05,UPI,Discharged
+P11906,66,Male,Cardiology,01-11-2025,11-11-2025,Migraine,8049.37,Insurance,Discharged
+P11907,8,Male,Cardiology,16-12-2025,28-12-2025,Heart Disease,12219.8,Insurance,Discharged
+P11908,71,Female,General Medicine,01-08-2025,07-08-2025,Heart Disease,7895.55,UPI,Discharged
+P11909,57,Female,General Medicine,08-06-2025,09-06-2025,Hypertension,18922.63,UPI,Discharged
+P11910,80,Male,Cardiology,24-01-2025,27-01-2025,Fever,18758.25,UPI,Discharged
+P11911,30,Female,Neurology,20-10-2025,23-10-2025,Fracture,10343.08,Card,Discharged
+P11912,74,Female,Cardiology,04-01-2025,14-01-2025,Hypertension,23141.44,UPI,Discharged
+P11913,18,Male,Cardiology,08-08-2025,20-08-2025,Respiratory Infection,23153.51,Cash,Discharged
+P11914,69,Female,General Medicine,30-12-2025,11-01-2026,Fever,11564.42,Card,Discharged
+P11915,39,Female,Orthopedics,20-01-2025,24-01-2025,Hypertension,10157.68,Cash,Discharged
+P11916,60,Female,General Medicine,01-06-2025,07-06-2025,Fever,13401.45,Card,Transferred
+P11917,43,Male,Orthopedics,19-02-2025,26-02-2025,Fever,21766.96,UPI,Discharged
+P11918,,Male,Pediatrics,26-06-2025,06-07-2025,Heart Disease,41283.09,UPI,Discharged
+P11919,23,Female,General Medicine,06-04-2025,10-04-2025,Fracture,21509.48,UPI,Discharged
+P11920,69,Male,General Medicine,15-04-2025,21-04-2025,Heart Disease,8872.51,Insurance,Transferred
+P11921,6,Male,General Medicine,07-09-2025,18-09-2025,Migraine,19429.06,Insurance,Discharged
+P11922,56,Male,Orthopedics,27-04-2025,28-04-2025,Fracture,17524.43,Insurance,Discharged
+P11923,4,Female,Emergency,20-12-2025,03-01-2026,Fever,17010.19,Card,Discharged
+P11924,23,Female,General Medicine,16-08-2025,24-08-2025,Hypertension,8020.23,UPI,Discharged
+P11925,6,Male,Emergency,07-03-2025,14-03-2025,Respiratory Infection,19402.4,Insurance,Discharged
+P11926,32,Female,General Medicine,01-12-2025,12-12-2025,Fracture,16320.38,Insurance,Discharged
+P11927,18,Female,Emergency,19-09-2025,30-09-2025,Migraine,8667.47,Insurance,Discharged
+P11928,15,Female,Orthopedics,22-10-2025,31-10-2025,Fever,36095.52,UPI,Discharged
+P11929,40,Female,Pediatrics,31-08-2025,03-09-2025,Respiratory Infection,8173.68,Card,Discharged
+P11930,73,Female,Orthopedics,05-07-2025,07-07-2025,Fracture,20666.19,Card,Discharged
+P11931,74,Male,Orthopedics,03-09-2025,04-09-2025,Heart Disease,15320.54,UPI,Discharged
+P11932,84,Female,Emergency,05-05-2025,08-05-2025,Heart Disease,13774.48,Insurance,Transferred
+P11933,6,Female,Neurology,25-09-2025,30-09-2025,Fracture,29809.69,UPI,Discharged
+P11934,63,Female,Orthopedics,11-05-2025,25-05-2025,Fracture,25716.47,Card,Admitted
+P11935,67,Male,General Medicine,25-08-2025,05-09-2025,Fracture,15352.17,Card,Discharged
+P11936,11,Male,General Medicine,18-01-2025,20-01-2025,Respiratory Infection,10661.05,UPI,Admitted
+P11937,43,Male,,09-02-2025,21-02-2025,Heart Disease,12966.39,Insurance,Discharged
+P11938,17,Female,Orthopedics,21-01-2025,24-01-2025,Hypertension,14278.97,Insurance,Discharged
+P11939,4,,Orthopedics,13-08-2025,17-08-2025,Migraine,25935.21,Card,Discharged
+P11940,63,Male,Pediatrics,21-12-2025,28-12-2025,Migraine,19897.26,Card,Discharged
+P11941,68,Male,Emergency,09-10-2025,22-10-2025,Fever,26354.88,Insurance,Discharged
+P11942,81,Male,Pediatrics,08-01-2025,11-01-2025,Diabetes,7859.18,Cash,Discharged
+P11943,41,Female,Neurology,10-04-2025,19-04-2025,Hypertension,27444.89,UPI,Discharged
+P11944,83,Male,Neurology,28-08-2025,05-09-2025,Heart Disease,31929.77,UPI,Discharged
+P11945,5,,Cardiology,28-03-2025,01-04-2025,Fever,11055.14,Cash,Discharged
+P11946,32,Female,General Medicine,25-10-2025,07-11-2025,Fever,24351.81,Insurance,Discharged
+P11947,86,Female,Neurology,14-01-2025,15-01-2025,Fracture,30636.02,Insurance,Discharged
+P11948,70,Male,Cardiology,30-11-2025,01-12-2025,Diabetes,12279.2,Cash,Discharged
+P11949,35,Female,Emergency,02-01-2025,03-01-2025,Heart Disease,9123.15,Card,Admitted
+P11950,22,Male,General Medicine,20-10-2025,21-10-2025,Diabetes,18533.7,Insurance,Discharged
+P11951,65,Female,General Medicine,21-11-2025,29-11-2025,Hypertension,5678.26,Insurance,Discharged
+P11952,84,Female,Emergency,10-02-2025,13-02-2025,Diabetes,27265.5,Insurance,Admitted
+P11953,22,Male,Pediatrics,14-11-2025,20-11-2025,Fever,10304.04,Insurance,Discharged
+P11954,11,Female,Cardiology,12-11-2025,15-11-2025,Diabetes,14560.09,UPI,Discharged
+P11955,77,Male,Neurology,21-04-2025,02-05-2025,Diabetes,23169.56,UPI,Admitted
+P11956,3,Female,Pediatrics,14-01-2025,19-01-2025,Migraine,21684.11,Insurance,Discharged
+P11957,9,Male,Orthopedics,19-08-2025,01-09-2025,Heart Disease,22832.34,UPI,Discharged
+P11958,60,Female,General Medicine,25-03-2025,08-04-2025,Heart Disease,11025.52,Card,Transferred
+P11959,76,Female,Neurology,10-05-2025,23-05-2025,Fever,19337.71,UPI,Transferred
+P11960,87,Female,Emergency,19-08-2025,26-08-2025,Respiratory Infection,25055.55,Insurance,Discharged
+P11961,14,Female,General Medicine,22-11-2025,24-11-2025,Diabetes,12077.49,UPI,Discharged
+P11962,18,Female,Emergency,25-05-2025,31-05-2025,Diabetes,37400.65,Insurance,Discharged
+P11963,73,Male,Emergency,11-12-2025,24-12-2025,Fracture,14892.35,Cash,Discharged
+P11964,23,Female,Orthopedics,28-01-2025,03-02-2025,Heart Disease,5415.06,Insurance,Discharged
+P11965,74,Male,Pediatrics,07-03-2025,18-03-2025,Diabetes,14851.4,Card,Discharged
+P11966,83,Male,Cardiology,12-06-2025,15-06-2025,Heart Disease,30436.23,Insurance,Transferred
+P11967,47,Male,General Medicine,17-08-2025,23-08-2025,Diabetes,9958.75,Insurance,Admitted
+P11968,69,Female,Pediatrics,18-09-2025,28-09-2025,Migraine,9528.56,UPI,Discharged
+P11969,47,Male,Emergency,13-06-2025,23-06-2025,Fever,20112.37,Insurance,Discharged
+P11970,87,Female,Pediatrics,28-10-2025,11-11-2025,Heart Disease,9094.23,Insurance,Discharged
+P11971,30,Male,Orthopedics,30-10-2025,04-11-2025,Hypertension,8886.9,Cash,Discharged
+P11972,25,Male,General Medicine,14-10-2025,26-10-2025,Fever,10622.37,UPI,Discharged
+P11973,28,Male,General Medicine,10-01-2025,12-01-2025,Fracture,34330.82,UPI,Discharged
+P11974,25,Male,Cardiology,14-07-2025,23-07-2025,Fever,21205.8,UPI,Discharged
+P11975,74,Male,General Medicine,28-04-2025,06-05-2025,Diabetes,17052.21,Card,Admitted
+P11976,78,Female,Orthopedics,27-09-2025,30-09-2025,Fracture,10985.77,Insurance,Discharged
+P11977,58,Male,Cardiology,21-03-2025,29-03-2025,Fever,24907.88,Cash,Discharged
+P11978,41,Male,Neurology,03-04-2025,17-04-2025,Fracture,22268.68,Insurance,Discharged
+P11979,25,Female,Cardiology,23-09-2025,02-10-2025,Hypertension,35540.2,Cash,Discharged
+P11980,78,Female,Orthopedics,28-11-2025,12-12-2025,Fever,9890.75,Insurance,Admitted
+P11981,48,Female,Orthopedics,16-12-2025,19-12-2025,Heart Disease,9221.75,Insurance,Discharged
+P11982,10,Male,General Medicine,27-12-2025,30-12-2025,Heart Disease,5506.41,Card,Discharged
+P11983,75,Male,General Medicine,14-09-2025,16-09-2025,Respiratory Infection,21459.5,Insurance,Discharged
+P11984,11,Male,General Medicine,13-05-2025,21-05-2025,Diabetes,18692.06,UPI,Discharged
+P11985,85,Male,Emergency,03-10-2025,13-10-2025,Fracture,13501.68,Cash,Transferred
+P11986,21,Male,General Medicine,21-09-2025,22-09-2025,Respiratory Infection,5440.25,UPI,Discharged
+P11987,86,Male,Pediatrics,20-06-2025,28-06-2025,Respiratory Infection,32192.7,Cash,Discharged
+P11988,45,Female,Emergency,01-01-2025,08-01-2025,Migraine,18205.29,Cash,Discharged
+P11989,7,Female,Neurology,09-11-2025,23-11-2025,Fracture,29077.82,Cash,Discharged
+P11990,81,Male,General Medicine,05-03-2025,12-03-2025,Respiratory Infection,30442.4,UPI,Discharged
+P11991,64,Male,Emergency,11-10-2025,14-10-2025,Migraine,21151.22,Insurance,Discharged
+P11992,64,Male,General Medicine,01-05-2025,02-05-2025,Respiratory Infection,22698.74,,Discharged
+P11993,2,Male,Orthopedics,17-04-2025,21-04-2025,,11869.2,Insurance,Admitted
+P11994,76,Male,Emergency,24-06-2025,03-07-2025,Hypertension,17469.86,Cash,Discharged
+P11995,42,Female,Pediatrics,23-07-2025,28-07-2025,Migraine,26713.63,Insurance,Discharged
+P11996,82,Female,Cardiology,14-06-2025,15-06-2025,Hypertension,10639.4,Cash,Admitted
+P11997,54,Male,General Medicine,01-11-2025,06-11-2025,Fracture,25787.34,UPI,Discharged
+P11998,75,Female,Cardiology,30-04-2025,13-05-2025,Diabetes,24977.53,Cash,Discharged
+P11999,16,Male,Orthopedics,13-02-2025,21-02-2025,Migraine,24656.05,Card,Discharged
+P12000,18,Male,Cardiology,08-11-2025,16-11-2025,Fracture,16860.55,UPI,Discharged
+P11343,,Female,General Medicine,10-02-2025,13-02-2025,Fever,21037.8,Insurance,Discharged
+P11339,,Male,General Medicine,08-05-2025,12-05-2025,Diabetes,17774.48,Insurance,Discharged
+P10190,,Male,Emergency,01-06-2025,06-06-2025,Diabetes,14121.62,Insurance,Admitted
+P11333,,Male,Emergency,08-04-2025,20-04-2025,Diabetes,29864.04,UPI,Discharged
+P11817,,Female,Cardiology,27-03-2025,28-03-2025,Diabetes,20078.41,Cash,Discharged
+P11686,76,Male,Pediatrics,21-08-2025,04-09-2025,Respiratory Infection,11765.45,Insurance,Discharged
+P10658,82,Male,Pediatrics,22-06-2025,05-07-2025,Migraine,6996.07,Insurance,Admitted
+P11847,,Male,Neurology,25-12-2025,08-01-2026,Fracture,30036.06,UPI,Discharged
+P10555,42,Male,Cardiology,13-01-2025,18-01-2025,Diabetes,17181.35,Cash,Discharged
+P11964,23,Female,Orthopedics,28-01-2025,03-02-2025,Heart Disease,5415.06,Insurance,Discharged
+P11571,28,Male,General Medicine,29-08-2025,30-08-2025,Diabetes,16049.58,Cash,Discharged
+P11980,78,Female,Orthopedics,28-11-2025,12-12-2025,Fever,9890.75,Insurance,Admitted
+P10311,72,Male,Orthopedics,07-02-2025,10-02-2025,Hypertension,26235.16,Card,Discharged
+P10434,35,Male,Pediatrics,15-11-2025,22-11-2025,Hypertension,10894.07,Cash,Discharged
+P10307,83,Male,Emergency,25-06-2025,04-07-2025,Heart Disease,20997.47,Card,Discharged
+P10109,41,Male,General Medicine,10-02-2025,19-02-2025,Fracture,17906.13,UPI,Discharged
+P10786,36,Male,Orthopedics,16-03-2025,17-03-2025,Hypertension,12597.47,Card,Discharged
+P11401,88,Female,Emergency,01-09-2025,02-09-2025,Hypertension,7380.36,,Discharged
+P11285,42,Female,General Medicine,22-04-2025,27-04-2025,Fever,28003.93,UPI,Admitted
+P10328,84,Female,General Medicine,11-07-2025,15-07-2025,Hypertension,16059.84,Insurance,Admitted
+P11504,14,Male,Pediatrics,08-02-2025,11-02-2025,Heart Disease,21604.38,Cash,Discharged
+P10554,31,Male,Pediatrics,02-07-2025,05-07-2025,Heart Disease,30205.72,Cash,Discharged
+P10776,22,Male,General Medicine,10-08-2025,13-08-2025,Fever,10547.71,UPI,Discharged
+P10919,25,Male,Pediatrics,25-01-2025,28-01-2025,Heart Disease,17233.32,Card,Admitted
+P11299,87,Female,Emergency,20-10-2025,31-10-2025,Hypertension,32795.09,Cash,Transferred
